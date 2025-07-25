@@ -1,4 +1,4 @@
-go back to [[index]]
+
 
 go to [[Neutral Beings]]
 # Threat level
@@ -10,7 +10,7 @@ A threat endangering the survival of a continent
 ## Armageddon Level Threat
 Any threat to multiple cities.
 
-- [[you mom]]
+- [[yomurium]]
 ## Catastrophe Level Threat
 Any threat to a city and its people.
 

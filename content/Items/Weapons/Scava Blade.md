@@ -1,4 +1,9 @@
-Go back to [[items]]
+---
+tags:
+  - Items
+  - Weapons
+---
+
 
 *for the war that is coming I have mode a blade for each one of you, I trust all 704 of you to Protect each other and your self. we will march to the battlefield by the next Dawn and Free them form the Tyrant*
 

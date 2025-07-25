@@ -1,4 +1,9 @@
-go back to [[Summoner]]
+---
+tags:
+  - Summoner
+  - subclass
+---
+
 
 **_You and you summons fight next to one another_**
 

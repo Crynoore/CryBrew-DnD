@@ -1,4 +1,8 @@
-go back to [[Dangers Beings]]
+---
+tags:
+  - DangersBeings
+---
+
 
 *maybe referent to Terraria 
 
@@ -7,5 +11,3 @@ a worm corrupted by the soil it eats, now forever tormented with the cancer that
 ![[eater of worlds head.png]]
 ![[eater of worlds body.png]]
 ![[eater of worlds tail.png]]
-
-go back to [[Dangers Beings]]

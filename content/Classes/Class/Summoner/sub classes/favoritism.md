@@ -1,4 +1,9 @@
-[[Summoner]]
+---
+tags:
+  - Summoner
+  - subclass
+---
+
 
 Get less Active Summon Slots, but you get a summon that is always with you and levels with you and does not cost a Active Summon 
 

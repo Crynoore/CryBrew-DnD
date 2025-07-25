@@ -1,4 +1,9 @@
-go back to [[Story]]
+---
+tags:
+  - Story
+  - CRS
+---
+
 
 [[CRS Episode 1 Day of Cleansing]]
 

@@ -1,4 +1,8 @@
-go back to[[Warlock]]
+---
+tags:
+  - Warlock
+---
+
 
 
  - [[Lunar Spellblade]]

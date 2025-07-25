@@ -1,4 +1,11 @@
-go back to [[the Tale's of Titan's]]
+---
+tags:
+  - character
+  - TFHunters
+---
+
+
+is a character in  [[Titranugivus Finest Hunters]]
 
 is a [[Titanborn]] form [[Tremogus]]
 

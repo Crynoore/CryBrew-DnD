@@ -1,1 +1,1 @@
-go back to [[Characters]]
+all the [[Characters]] from the Brotherhood Expedition

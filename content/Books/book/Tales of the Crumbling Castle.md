@@ -1,4 +1,9 @@
-go back to [[Books]]
+---
+tags:
+  - Book
+  - lore
+---
+
 
 - Meet me glassy eyed, blind, and divine
 - on the coast of a hill there it lise, crumbling castle 

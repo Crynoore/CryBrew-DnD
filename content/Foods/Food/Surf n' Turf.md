@@ -1,1 +1,5 @@
-go back to [[Foods]]
+---
+tags:
+  - food
+  - consumables
+---

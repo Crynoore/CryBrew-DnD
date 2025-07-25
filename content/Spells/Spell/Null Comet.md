@@ -1,4 +1,8 @@
-go back to [[Spells]]
+---
+tags:
+  - spell
+---
+
 
 Null Comet
 	**Casting Time:** 1 action

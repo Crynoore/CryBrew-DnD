@@ -1,4 +1,4 @@
-go back to [[index]]
+
 
 ## Items
 - Borromean Rings
@@ -20,6 +20,7 @@ go back to [[index]]
 - [[Visions of Heresy]]
 - [[Blessing of Sand]]
 - [[Selune totem]]
+- [[One Sided Coin]]
 ## Weapons 
 - [[Cane of Buru]]
 - [[Soul Eater Scythe]]

@@ -1,4 +1,8 @@
-Go back to [[items]]
+---
+tags:
+  - Items
+---
+
 
 when you take damage the Frost Relic will activate 
 

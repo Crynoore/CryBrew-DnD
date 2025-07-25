@@ -1,10 +1,10 @@
-go back to [[index]]
 
 - [[green-and-scales]]
-- [[the Tale's of Titan's]]
-- [[Dean and D]]
+- [[Titranugivus Finest Hunters]]
+- [[Goldrelvian Goons]]
 - [[Feast of the Moon 2024]]
 - [[The Brotherhood Expeditions]]
+- [[Lunar Legends]]
 
 
 - [[First-hero's]]

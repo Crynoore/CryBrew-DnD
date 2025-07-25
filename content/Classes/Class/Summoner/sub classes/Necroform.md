@@ -1,4 +1,9 @@
-[[Summoner]]
+---
+tags:
+  - Summoner
+  - subclass
+---
+
 
 
 ### Necron's Blessing 

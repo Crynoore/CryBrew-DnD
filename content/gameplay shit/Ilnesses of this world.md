@@ -1,4 +1,8 @@
-go back to [[gameplay shit]]
+---
+tags:
+  - illness
+---
+
 
 [[Blueberry Parasite]]
 

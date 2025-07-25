@@ -1,4 +1,4 @@
-go back to [[Balz]]
+a list of all the city's in [[Balz]]
 
 - [[Caypolis]]
 - [[Eurgh]]

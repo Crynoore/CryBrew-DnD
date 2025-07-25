@@ -1,4 +1,9 @@
-Go back to [[items]]
+---
+tags:
+  - Items
+  - Weapons
+---
+
 
 *Unstructured glass, from the heart of the {Moon}. Sung out, in ethereal wisps, over the course of 3 cycles. Pause.
 We fold time into its material - twice. Our time and {his}. A cost {he} was willing us to pay. Folded and shaped, with a god's designs.*

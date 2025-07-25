@@ -1,3 +1,7 @@
-go back to [[items]]
+---
+tags:
+  - Items
+---
+
 
 ![[Wand of Smiles.png]]

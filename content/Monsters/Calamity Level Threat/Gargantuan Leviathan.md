@@ -1,1 +1,5 @@
-go back to [[Dangers Beings]]
+---
+tags:
+  - DangersBeings
+  - being
+---

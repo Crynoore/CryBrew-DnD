@@ -1,4 +1,4 @@
-go back to [[Characters]]
+are all the [[Characters]] form the ... Campain
 
 - The great fearsome warrior [[Olvin]].
 - The handsome young Bard [[Ulysses]].

@@ -1,3 +1,8 @@
-go back to [[Titans]]
+---
+tags:
+  - Titan
+  - being
+---
 
-the Titan under [[The First Continent]]
+
+the [[Titans|Titan]] under [[The First Continent]]

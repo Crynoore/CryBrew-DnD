@@ -1,3 +1,3 @@
-go back to [[The Imperial Brotherhood]]
+are new guys for [[The Imperial Brotherhood]]
 
 [[Brotherhood Sentinel]] [[Brotherhood Vanguards]] [[Brotherhood Empiric]] 

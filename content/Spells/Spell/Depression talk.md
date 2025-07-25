@@ -1,4 +1,8 @@
-go back to [[Spells]]
+---
+tags:
+  - spell
+---
+
 
 Depression talk
 	**Casting Time:** 

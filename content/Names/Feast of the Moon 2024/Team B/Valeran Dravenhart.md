@@ -1,3 +1,10 @@
-go back to [[Feast of the Moon 2024]]
+---
+tags:
+  - character
+  - FotM2024
+---
+
+
+a character from [[Feast of the Moon 2024]]
 
 Valeran Dravenhart was once a devout worshipper of a forgotten god, a deity of balance and light that his secluded mountain village had revered for centuries. Born into a life of piety, Valeran was chosen at a young age to be a high acolyte in the temple, dedicating himself to rituals and prayers that honored the ancient power his people believed sustained the natural order. His devotion was pure, and he held firm to the belief that through faith, he could protect his people and preserve the harmony they cherished. One fateful night, while performing a solitary vigil at the temple's highest altar, Valeran encountered a stranger cloaked in shadow, who moved like smoke in the wind. The being spoke in riddles, whispering of eternal life, of power beyond comprehension, and of a world far larger than Valeran could imagine. Unbeknownst to him, this visitor was a vampire, one whose hunger for souls surpassed mere thirst for blood. The vampire bit Valeran and vanished, leaving him to writhe in pain as the curse spread through his veins, slowly transforming him into something inhuman. The village quickly realized something had changed. His fellow acolytes noticed his pallor, his aversion to sunlight, and the dark, primal hunger growing behind his once-gentle eyes. They feared him, whispering of heresy and taint. They turned on him, casting him out of the temple he had devoted his life to. His cries for mercy fell on deaf ears, and in that moment, all his faith shattered. In a blind rage, the newfound power coursing through his veins overwhelmed him, and he slaughtered them all-the priests, the acolytes, even the villagers he had once called family. His wrath was indiscriminate, born from the agony of betrayal and the insatiable hunger of his cursed blood. Valeran fled, consumed by rage and guilt. He swore vengeance on the vampire who had turned him, believing that by killing his sire, he might free

@@ -1,4 +1,7 @@
-go back to [[items]]
+---
+tags:
+  - Items
+---
 
 
 can be obtained by talking it of a [[Metal Mutt]]

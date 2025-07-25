@@ -1,4 +1,4 @@
-go back to [[Backgronds]]
+
 
 - **Ability Scores:** --
 - **Feat:** [[Comradery]]

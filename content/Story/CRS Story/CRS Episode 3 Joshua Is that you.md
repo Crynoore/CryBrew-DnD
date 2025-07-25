@@ -1,4 +1,9 @@
-go back to [[Story]]
+---
+tags:
+  - Story
+  - CRS
+---
+
 
 After triumphing over the Metal Mutt we we guided over the hills in pursuit of [[Joshua]].
 

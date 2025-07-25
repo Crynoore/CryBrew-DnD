@@ -1,3 +1,8 @@
-go back to [[items]]
+---
+tags:
+  - Items
+  - Plant
+---
+
 
 ![[Shorea Flower Item.png]]

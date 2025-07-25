@@ -1,4 +1,8 @@
-go back to [[Spells]]
+---
+tags:
+  - spell
+---
+
 
 Summer rizler
 	**Casting Time:** 1 action

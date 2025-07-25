@@ -1,4 +1,9 @@
-go back to [[Dangers Beings]]
+---
+tags:
+  - being
+  - DangersBeings
+---
+
 
 Presumably made by a Faerûnian dwarf 
 and that the cog gave the metal mutt the ability to make clones?

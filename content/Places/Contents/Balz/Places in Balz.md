@@ -1,4 +1,4 @@
-go back to [[Balz]]
+all the place's in [[Balz]]
 
 - [[Chebay Island]]
 - [[Emsor Woods]]

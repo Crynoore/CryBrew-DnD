@@ -1,4 +1,9 @@
-go back to[[NPC's]]
+---
+tags:
+  - NPC
+  - lore
+---
+
 
 he lived in a Oakhurst (elven Settlement) where he eventually got kick out do to some of his experiment getting seen by the public's eye's 
 

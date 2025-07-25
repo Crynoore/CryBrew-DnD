@@ -1,2 +1,6 @@
-go back to [[items]]
+---
+tags:
+  - Items
+---
+
 ![[Necklace of Adaptation.png]]

@@ -1,4 +1,8 @@
-go back to[[NPC's]]
+---
+tags:
+  - NPC
+---
+
 
 wirter of the book [[Tale of The Titans]]
 

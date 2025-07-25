@@ -1,3 +1,7 @@
-go back to [[Titans]]
+---
+tags:
+  - Titan
+---
+
 
 Titan under [[Faerun]]

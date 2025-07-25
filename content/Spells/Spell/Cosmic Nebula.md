@@ -1,4 +1,8 @@
-go back to [[Spells]]
+---
+tags:
+  - spell
+---
+
 # WIP
 
 Cosmic Nebula

@@ -1,1 +1,4 @@
-go back to [[Places in Balz]]
+---
+tags:
+  - Balz
+---

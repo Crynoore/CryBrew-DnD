@@ -1,4 +1,8 @@
-go back to [[Spells]]
+---
+tags:
+  - spell
+---
+
 
 Visual meter
 	**Casting Time:** Bonus Action

@@ -1,6 +1,11 @@
-リ⋮╎∷!¡
+---
+tags:
+  - character
+  - CRS
+---
 
-go back to [[green-and-scales]]
+
+is a character for [[green-and-scales]] also called リ⋮╎∷!¡
 ![[Screenshot (633).png]]
 Backstory
 

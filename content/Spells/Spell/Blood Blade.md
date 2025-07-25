@@ -1,4 +1,4 @@
-go back to [[Spells]]
+
 
 Blood Blade
 	**Casting Time:** 1 action  

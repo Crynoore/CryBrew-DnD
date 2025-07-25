@@ -1,12 +1,18 @@
-Go back to [[items]]
+---
+tags:
+  - Items
+  - Weapons
+---
 
-|                              |      |              |        |                   |
-| ---------------------------- | ---- | ------------ | ------ | ----------------- |
-| name                         | cost | Damage       | weight | properties        |
-| lluminathor<br>(great sword) | -    | 2d6 slashing | 12lb   | Heavy, two-handed |
 
-*when chanting the runic Embedded thats on the sword it will light in silver with flames*
+|                            |      |              |        |            |
+| -------------------------- | ---- | ------------ | ------ | ---------- |
+| name                       | cost | Damage       | weight | properties |
+| lluminathor<br>(longsword) | -    | 2d6 slashing | 12lb   | two-handed |
 
+*when chanting the runic Embedded that's on the sword it will light in silver with flames*
+
+**you have your level x1 amount of uses per long rest**
 when hitting an enemy deals extra dmg  
 - deal 2d4 fire dmg or 1d6 +1 radiant dmg (prototype makes is so on uneven dice roll this ability does not work )
 

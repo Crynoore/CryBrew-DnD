@@ -1,4 +1,9 @@
-go back to [[Books]]
+---
+tags:
+  - Book
+  - lore
+---
+
 
  included all sorts of information including a portrayal of [[Selune]] in her full moon figure
 

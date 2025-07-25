@@ -1,2 +1,6 @@
-go back to [[Factions]]
+---
+tags:
+  - Faction
+---
+
 

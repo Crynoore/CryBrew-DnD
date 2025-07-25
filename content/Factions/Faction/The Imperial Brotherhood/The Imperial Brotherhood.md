@@ -1,5 +1,8 @@
+---
+tags:
+  - Faction
+---
 
-go back to [[Factions]]
 
 The Imperial Brotherhood started in the year 1574 after a guy name [[Grasa]] saw some of the things that happed in [[The First Continent]]. with the [[Great Evil]] being one of the key think the Brotherhood wants to avoid from ever happen again.
 

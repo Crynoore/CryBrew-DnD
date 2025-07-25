@@ -1,4 +1,9 @@
-go back to [[Story]]
+---
+tags:
+  - Story
+  - CRS
+---
+
 
 [[CRS Episode 0 Prologue]]
 [[Caypolis]]

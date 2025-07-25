@@ -1,3 +1,8 @@
-go back to [[items]]
+---
+tags:
+  - Items
+  - consumables
+---
+
 
 ![[Red berry extract Item.png]]

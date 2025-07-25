@@ -1,11 +1,16 @@
-[[Ranger]]
+---
+tags:
+  - Ranger
+  - subclass
+---
+
 
 Choose a dragon 
 
 #### Dragon eye {passive}
 level 3
 
--you get a + on any ranged attack roles = to the your Perception - 50% rounding up
+-you get a + on any attack roles = to the your wisdom modifier halved rounding up
 #### Half scaled {passive}
 level 3
 

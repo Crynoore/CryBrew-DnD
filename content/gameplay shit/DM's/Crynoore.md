@@ -1,4 +1,8 @@
-go back to [[index]]
+---
+tags:
+  - Creator
+---
+
 
 the guy that has a lot of lore to tell
 

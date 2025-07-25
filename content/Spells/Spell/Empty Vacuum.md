@@ -1,4 +1,8 @@
-go back to [[Spells]]
+---
+tags:
+  - spell
+---
+
 
 Empty Vacuum
 	**Casting Time:** 1 bonus action

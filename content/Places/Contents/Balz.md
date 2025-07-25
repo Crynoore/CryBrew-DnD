@@ -1,4 +1,4 @@
-go back to [[Continents]]
+is one of the [[Continents]] in Tale's of the Titans
 
 [[Citys of Balz]]
 

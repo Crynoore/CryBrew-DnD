@@ -1,4 +1,4 @@
-go back to [[Characters]]
+all the [[Characters]] in Goldrelvian Goons Campain
 
 - [[Yngwie]]
 - [[Iulfic]]

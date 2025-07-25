@@ -1,4 +1,9 @@
-[[Summoner]]
+---
+tags:
+  - Summoner
+  - subclass
+---
+
 
 something something AC monster
 SOON TM

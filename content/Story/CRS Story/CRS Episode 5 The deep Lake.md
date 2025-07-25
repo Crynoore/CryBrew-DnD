@@ -1,3 +1,9 @@
+---
+tags:
+  - Story
+  - CRS
+---
+
 
 [[CRS Episode 4 the Brotherhood border]]
 

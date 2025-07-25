@@ -1,4 +1,9 @@
-go back to [[Story]]
+---
+tags:
+  - Story
+  - CRS
+---
+
 
 the year is 1567 a great evil wend over [[The First Continent]] with this most people evacuated the continent to go to the other continents  
 but in the year 1592 a group of adventures whet back to the first continent to cleanse the place 

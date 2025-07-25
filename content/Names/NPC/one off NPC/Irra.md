@@ -1,3 +1,7 @@
-go back to[[NPC's]]
+---
+tags:
+  - NPC
+---
+
 
 ![[Screenshot (636).png]]

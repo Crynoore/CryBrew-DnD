@@ -1,4 +1,8 @@
-go back to [[warlock Spells]]
+---
+tags:
+  - spell
+---
+
 
 lunar Spellblade
 	Transmutation cantrip 

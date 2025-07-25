@@ -1,4 +1,9 @@
-Go back to [[items]]
+---
+tags:
+  - Items
+  - Weapons
+---
+
 
 | Weapon    | Cost | Damage           | to hit | Weight | Properties                 |
 | --------- | ---- | ---------------- | ------ | ------ | -------------------------- |

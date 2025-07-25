@@ -1,4 +1,8 @@
-Go back to [[items]]
+---
+tags:
+  - Armor
+  - Items
+---
 
 while waring you gain Resistance to a damage type
 

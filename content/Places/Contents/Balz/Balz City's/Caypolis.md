@@ -1,4 +1,4 @@
-Go back to [[Citys of Balz]]
+Caypolis is a city [[Balz]]
 
 is the start of the campaign
 

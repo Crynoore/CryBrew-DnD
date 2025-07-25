@@ -1,3 +1,8 @@
+---
+tags:
+  - Book
+  - lore
+---
 
   
 

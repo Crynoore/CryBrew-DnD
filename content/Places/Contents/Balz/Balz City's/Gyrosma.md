@@ -1,5 +1,9 @@
-go back to [[Citys of Balz]]
+---
+tags:
+  - Balz
+  - City
+---
 
-Go back to [[Citys of Balz]]
+is a City in [[Balz]]
 
 believes is [[Selune]]

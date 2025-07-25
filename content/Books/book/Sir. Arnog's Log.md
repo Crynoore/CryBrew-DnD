@@ -1,4 +1,9 @@
-go back to [[Books]]
+---
+tags:
+  - Book
+  - lore
+---
+
 
 ## Log 52
 

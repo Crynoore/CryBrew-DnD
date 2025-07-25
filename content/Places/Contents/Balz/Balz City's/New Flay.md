@@ -1,5 +1,7 @@
-go back to [[Citys of Balz]]
-
-Go back to [[Citys of Balz]]
+---
+tags:
+  - Balz
+  - City
+---
 
 used to be a part of [[Flay]]

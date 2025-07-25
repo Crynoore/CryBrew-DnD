@@ -1,6 +1,4 @@
-go back to [[index]]
-
-
+all the continents in Tale of the Titan's
 
 - [[Balz]]
 - [[The First Continent]]

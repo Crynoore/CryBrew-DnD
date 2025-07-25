@@ -1,4 +1,8 @@
-go back to [[Spells]]
+---
+tags:
+  - spell
+---
+
 
 luck of the hollows
 	**Casting Time:** 1 action  

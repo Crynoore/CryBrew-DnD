@@ -1,6 +1,10 @@
-go back to [[Citys of Balz]]
+---
+tags:
+  - Balz
+  - City
+---
 
-Go back to [[Citys of Balz]]
+is a city on the northwest side of [[Balz]] 
 
 very diverse population 
 

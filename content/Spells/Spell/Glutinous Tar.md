@@ -1,4 +1,8 @@
-go back to [[Spells]]
+---
+tags:
+  - spell
+---
+
 
 Glutinous Tar
 	**Casting Time:** 1 bonus action

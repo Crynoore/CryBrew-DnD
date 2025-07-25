@@ -1,4 +1,4 @@
-go back to [[Ilnesses of this world]]
+
 
 - The creature must succeed a DC 15 Constitution saving throw every 6 hour
 - After 3 failures, the develops into stage 2.

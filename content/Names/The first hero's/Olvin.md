@@ -1,4 +1,12 @@
-go back to [[First-hero's]]
+---
+tags:
+  - character
+  - lore
+  - tFH
+---
+
+
+is one of the [[First-hero's]]
 
 prologue
 

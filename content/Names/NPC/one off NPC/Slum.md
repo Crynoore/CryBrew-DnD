@@ -1,4 +1,8 @@
-go back to[[NPC's]]
+---
+tags:
+  - NPC
+---
+
 
 owner of slums inn
 

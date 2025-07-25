@@ -1,4 +1,7 @@
-Go back to [[Religions]]
+---
+tags:
+  - Religion
+---
 
 ![[mullerism.png]]
 

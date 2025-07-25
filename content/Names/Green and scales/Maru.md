@@ -1,4 +1,10 @@
-go back to [[green-and-scales]]
+---
+tags:
+  - character
+  - CRS
+---
+
+a character for [[green-and-scales]]
 
 ![[A picture from the glory days.png]]
 Backstory

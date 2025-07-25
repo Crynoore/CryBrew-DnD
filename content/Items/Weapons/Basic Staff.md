@@ -1,4 +1,4 @@
-Go back to [[items]]
+
 
 | Name  | Cost | Damage          | Weight | Properties             |
 | ----- | ---- | --------------- | ------ | ---------------------- |

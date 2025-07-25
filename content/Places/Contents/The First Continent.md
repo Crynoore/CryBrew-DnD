@@ -1,4 +1,8 @@
-go back to [[Continents]]
+---
+tags:
+  - continent
+---
+
 
 the [[Great Evil]] happened here 
 

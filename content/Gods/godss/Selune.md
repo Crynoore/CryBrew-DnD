@@ -1,4 +1,8 @@
-go back to [[Gods]]
+---
+tags:
+  - Gods
+---
+
 
 some moon shit
 

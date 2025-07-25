@@ -1,5 +1,5 @@
 ---
-title: Welcome to the CryBerw DnD Wiki
+title: Welcome to the Tale's of Titan's Wiki
 ---
 
 mostly adds stuff, changes some small things about dnd lore. and all the thing that are difference and or new you can find in here. there are also story's you can read the follow some Inhabitants of the world.
@@ -10,7 +10,7 @@ run by [[Crynoore]] and [[Deanamo]]
 - [[Classes]]
 - [[Races]]
 - [[Spells]]
-- [Weapons](items)
+- [Weapons](content/Items/items.md)
 - [[Backgronds]]
 
 ### Lore and more
@@ -23,7 +23,7 @@ run by [[Crynoore]] and [[Deanamo]]
 - [[Factions]]
 - [[Religions]]
 - [[Continents]]
-- [[items]]
+- [[content/Items/items]]
 - [[Foods]]
 - [[Materials and Ingredients]]
 - [[Books]]

@@ -1,3 +1,7 @@
-go back to[[NPC's]]
+---
+tags:
+  - NPC
+---
+
 `
 is part of [[The Guild of Science]]

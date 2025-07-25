@@ -1,4 +1,4 @@
-go back to [[The Imperial Brotherhood]]
+army guys for [[The Imperial Brotherhood]]
 
 comes form [[Brotherhood Vanguards]] or [[Brotherhood Sentinel]]
 

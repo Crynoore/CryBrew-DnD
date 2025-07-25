@@ -1,4 +1,11 @@
-go back to [[green-and-scales]]
+---
+tags:
+  - character
+  - CRS
+---
+
+
+a character form [[green-and-scales]]
 
 
 At the age of twelve, I underwent an unexpected transformation that forever altered the course of my life. In the midst of a heated confrontation, I inadvertently tumbled into a mysterious cauldron filled with an enchanting liquid. The consequences were astonishing: I underwent a drastic change, morphing into a creature resembling a fish, adorned with shimmering scales and graceful fins.

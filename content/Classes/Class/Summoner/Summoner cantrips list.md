@@ -1,4 +1,8 @@
-Go back to [[Summoner]]
+---
+tags:
+  - Summoner
+---
+
 
 - [Blade Ward (wikidot.com)](https://dnd5e.wikidot.com/spell:blade-ward)
 - [Friends (wikidot.com)](https://dnd5e.wikidot.com/spell:friends)

@@ -1,2 +1,6 @@
-go back to [[Gods]]
+---
+tags:
+  - Gods
+---
+
 

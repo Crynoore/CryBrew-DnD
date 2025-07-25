@@ -1,4 +1,4 @@
-go back to [[The Imperial Brotherhood]]
+reseurce guys for [[The Imperial Brotherhood]]
 
 comes form [[Brotherhood Empiric]]
 

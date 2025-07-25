@@ -1,1 +1,5 @@
-go back to[[NPC's]]
+---
+tags:
+  - NPC
+  - lore
+---

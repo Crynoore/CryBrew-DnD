@@ -1,9 +1,13 @@
-go back to [[index]]
+---
+tags:
+  - Creator
+---
+
 
 one of the guys that keeps the ship running
 
 ### the dm for 
-- [[Dean and D]]
+- [[Goldrelvian Goons]]
 - [[Feast of the Moon 2024]]
 - [[The Tales of Titans]]
 - [[green-and-scales]]

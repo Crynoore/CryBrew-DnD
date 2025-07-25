@@ -1,4 +1,10 @@
-Go back to [[items]]
+---
+tags:
+  - Items
+  - Weapons
+  - structure
+---
+
 
 “The Artillery of the dwarves front come in many shapes but only a few sizes, big, bigger and large. hearing them fire with naked ears is as painful as receiving its blow. leaving a long sting in the ears if unprotected. ”
 

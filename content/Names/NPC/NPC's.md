@@ -1,4 +1,4 @@
-go back to [[Characters]]
+a list of all the [[Characters]] that are just NPC's
 ## story NPC's
 
 [[Joshua]]

@@ -1,4 +1,3 @@
-go back to [[index]]
 
 - [[alcohol]]
 - [[Hierarchy of being]]

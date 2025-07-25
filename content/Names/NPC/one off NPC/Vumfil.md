@@ -1,4 +1,8 @@
-go back to[[NPC's]]
+---
+tags:
+  - NPC
+---
+
 
 is in a hunting party with [[Hyfe]] and [[Deo]]
 Employed by [[The Imperial Brotherhood]]

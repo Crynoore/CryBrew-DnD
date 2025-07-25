@@ -1,4 +1,8 @@
-go back to [[Factions]]
+---
+tags:
+  - Faction
+---
+
 
 A cult the focuses on making Chimera based in faerun
 

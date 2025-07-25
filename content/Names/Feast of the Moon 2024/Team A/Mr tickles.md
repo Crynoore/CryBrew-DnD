@@ -1,4 +1,10 @@
-go back to [[Feast of the Moon 2024]]
+---
+tags:
+  - character
+  - FotM2024
+---
+
+a cheracter for [[Feast of the Moon 2024]]
 
 In a secluded alchemical laboratory deep in the fields of an unknown location in the forgotten realms, an ambitious scholar named Ullem sought to create the ultimate substance: the alkahest, the legendary universal solvent that could dissolve anything (even the mythical philosophers stone), breaking down matter to its fundamental elements. To succeed, the alchemist chose to work with Mercury, not just the element but the very essence of transformation. The alchemist believed that only through the use of a new moon during the blackening phase, when the essence of transformation, purification and most of all dissolvability, the true alkahest be created.
 As the alchemist prepared the final stages of the experiment, the moon entered its new moon phase, a time of dissolution and potential, the beginning of the blackening stage in alchemical transformation. The moon, dark and unseen, symbolized the breaking down of old forms, mirroring Mercury’s fluid nature. At this time, the moon was in perfect alignment, enhancing the transformative power the alchemist sought to wield.

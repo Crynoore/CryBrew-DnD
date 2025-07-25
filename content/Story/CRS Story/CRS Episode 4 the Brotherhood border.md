@@ -1,4 +1,9 @@
-go back to [[Story]]
+---
+tags:
+  - Story
+  - CRS
+---
+
 
 [[CRS Episode 3 Joshua Is that you]]
 
