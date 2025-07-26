@@ -29,10 +29,10 @@ jobs:
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact
-        uses: awalsh128/cache-apt-pkgs-action@v1.4.3
+        uses: awalsh128/cache-apt-pkgs-action@v1.5.1
         with:
-          path: public
- 
+          packages: Quartz
+          version: 1.0
   deploy:
     needs: build
     environment:
