@@ -32,6 +32,6 @@ run by [[Crynoore]] and [[Deanamo]]
 - [[gameplay shit]]
 
 
-Version 1.2.3.0 of the wiki is out NOW
+Version 1.3 of the wiki is out NOW
 
 
