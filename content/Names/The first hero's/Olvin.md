@@ -2,7 +2,7 @@
 tags:
   - character
   - lore
-  - tFH
+  - TheFirstHeros
 ---
 
 

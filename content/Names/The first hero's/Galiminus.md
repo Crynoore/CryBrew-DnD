@@ -1,8 +1,8 @@
 ---
 tags:
   - character
-  - tFH
   - lore
+  - TheFirstHeros
 ---
 is one of the [[First-hero's]]
 
