@@ -27,7 +27,7 @@ run by [[Crynoore]] and [[Deanamo]]
 - [[Foods]]
 - [[Materials and Ingredients]]
 - [[Books]]
-- [[timeline]]
+- [[Timeline]]
 - [[playlist's]]
 - [[gameplay shit]]
 
