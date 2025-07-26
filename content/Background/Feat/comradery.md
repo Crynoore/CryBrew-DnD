@@ -1,3 +1,8 @@
+---
+tags:
+  - Originfeats
+---
+
 Origin feat
 
 You gain the following benefits

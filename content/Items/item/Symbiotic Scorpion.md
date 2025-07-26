@@ -1,3 +1,7 @@
-Go back to [[content/Items/items]]
+---
+tags:
+  - Items
+---
+
 
 when you hit a enemy remove 2 ac for 1 turn

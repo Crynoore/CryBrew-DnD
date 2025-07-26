@@ -10,7 +10,7 @@ run by [[Crynoore]] and [[Deanamo]]
 - [[Classes]]
 - [[Races]]
 - [[Spells]]
-- [Weapons](content/Items/items.md)
+- [Weapons](Items.md)
 - [[Backgronds]]
 
 ### Lore and more
@@ -23,7 +23,7 @@ run by [[Crynoore]] and [[Deanamo]]
 - [[Factions]]
 - [[Religions]]
 - [[Continents]]
-- [[content/Items/items]]
+- [[Items]]
 - [[Foods]]
 - [[Materials and Ingredients]]
 - [[Books]]
@@ -35,6 +35,6 @@ run by [[Crynoore]] and [[Deanamo]]
 
 #Armor #Artificer #background #Balz #Barbarian #bard #being #Book #character #City #Class #Cleric #consumables #continent #Creator #CRS #DangersBeings #Druid #Faction #food #FotM2024 #Gods #Goons #illness #Items #lore #Meterial #monk #NPC #paladin #Place #Plant #Ranger #Rogue #Religion #Sorcerer #spell #Story #Species #subclass #Summoner #TheFirstHeros  #TFHunters #Titan #Warlock #Weapons #wizard 
 
-Version 1.3 of the wiki is out NOW
+Version 1.3.2 of the wiki is out NOW
 
 

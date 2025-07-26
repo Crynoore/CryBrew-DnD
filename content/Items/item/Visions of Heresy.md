@@ -1,3 +1,9 @@
+---
+tags:
+  - Items
+---
+
+
 *4 glass eyes of what seem to be of a vulture,
 if you hold on to them for to long they will start making eye socket in your head where they will move to*
 

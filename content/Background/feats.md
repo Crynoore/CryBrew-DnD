@@ -1,4 +1,9 @@
-back to [[index]]
+---
+tags:
+  - Feats
+  - Originfeats
+---
+
 
 [[Reckless Caster]]
 [[Misplaced Animal]]

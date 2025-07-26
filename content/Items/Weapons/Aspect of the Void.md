@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+  - Weapons
+---
 
 
 | Name  | Cost | Damage          | Weight | Properties              |
