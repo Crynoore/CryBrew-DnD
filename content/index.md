@@ -32,9 +32,11 @@ run by [[Crynoore]] and [[Deanamo]]
 - [[gameplay shit]]
 
 ### Tags
+to find some thing specific use tags
+- [[Tags]]
 
-#Armor #Artificer #background #Balz #Barbarian #bard #being #Book #character #City #Class #Cleric #consumables #continent #Creator #CRS #DangersBeings #Druid #Faction #food #FotM2024 #Gods #Goons #illness #Items #lore #Meterial #monk #NPC #paladin #Place #Plant #Ranger #Rogue #Religion #Sorcerer #spell #Story #Species #subclass #Summoner #TheFirstHeros  #TFHunters #Titan #Warlock #Weapons #wizard 
 
-Version 1.3.2 of the wiki is out NOW
+Version 1.3.2 of the wiki is out NOW 
+[[logs]]
 
 
