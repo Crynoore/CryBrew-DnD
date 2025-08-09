@@ -9,8 +9,10 @@ one of the guys that keeps the ship running
 ### the dm for 
 - [[Goldrelvian Goons]]
 - [[Feast of the Moon 2024]]
-- [[The Tales of Titans]]
+- [[content/Story/Titranugivus Finest Hunters Story/Titranugivus Finest Hunters]]
 - [[green-and-scales]]
+- [[Lunar Legends]]
+- 
 
 
 

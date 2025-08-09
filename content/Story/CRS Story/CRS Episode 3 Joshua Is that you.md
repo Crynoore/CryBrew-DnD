@@ -3,7 +3,7 @@ tags:
   - Story
   - CRS
 ---
-
+[[CRS Episode 2 Skin made of Iron, Steel in its Bones]]
 
 After triumphing over the Metal Mutt we we guided over the hills in pursuit of [[Joshua]].
 

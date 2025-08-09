@@ -1,3 +1,7 @@
+---
+tags:
+  - spell
+---
 
 Blood Sacrifice
 	**Casting Time:** 1 action  

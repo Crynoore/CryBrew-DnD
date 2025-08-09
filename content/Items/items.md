@@ -46,6 +46,8 @@ tags:
 ## Armor
 - [[Dragon scale Cloak]]
 - [[Implosion Belt]]
+- [[Echo Quiver]]
+- [[Arcanotron]]
 
 ## Lore/ in site jokes
 - [[Insignia of Enshacklement]]

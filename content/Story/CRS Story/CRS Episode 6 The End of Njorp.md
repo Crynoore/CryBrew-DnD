@@ -4,8 +4,6 @@ tags:
   - CRS
 ---
 
-
-
 [[CRS Episode 5 The deep Lake]]
 
 galrick shoots the wall

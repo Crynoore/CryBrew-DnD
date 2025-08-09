@@ -43,7 +43,7 @@ aronim-e doss not kill the fish guy 
 
 we follow the fish guy to a town (he was lying)
 
-==we arrive haojboe=== (lost lake town)
+==we arrive in haojboe=== (lost lake town)
 
 thay are sara type of fish 
 

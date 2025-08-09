@@ -5,7 +5,7 @@ tags:
 ---
 
 
-is a character in  [[Titranugivus Finest Hunters]]
+is a character in  [[content/Names/Titranugivus Finest Hunters]]
 
 is a [[Titanborn]] form [[Tremogus]]
 

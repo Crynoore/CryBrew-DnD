@@ -15,3 +15,4 @@ the guy that has a lot of lore to tell
 - [[Aronim-e]]
 - [[W1-g-Ch-El (Wigchel)]]
 - [[Orvos Tremus]]
+- [[Wey Scourge]]

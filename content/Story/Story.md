@@ -1,3 +1,7 @@
+---
+tags:
+  - Story
+---
 
 
 ## CRS 
@@ -13,3 +17,6 @@
 
 ## tToT
 
+## Lunar legends 
+
+- [[LL Episode 1]]
