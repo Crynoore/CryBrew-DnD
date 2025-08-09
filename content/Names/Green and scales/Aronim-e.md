@@ -13,7 +13,7 @@ The Awakening of Aronim-e
 ![[Crynoore felle.png]]]
 the wise archmage [[Cyrus]] stole a dragon egg to revive this dead brother 
 
-but after the egg hatched([[Timeline|year 1618]]) Aronim-e was born ,
+but after the egg hatched([[timeline|year 1618]]) Aronim-e was born ,
 
 Named after the mountain he was found on (one of the mountains in the nortle range(Aronimi)
 
@@ -231,7 +231,7 @@ but i sure hope it is a dragon
 
 —-----------------------------------------------------
 
-[[Cyrus]] taught him alot in the 45 years that they were together ([[Timeline|Year 1663]])
+[[Cyrus]] taught him alot in the 45 years that they were together ([[timeline|Year 1663]])
 
   
 
