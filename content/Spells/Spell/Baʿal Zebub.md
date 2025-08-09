@@ -2,7 +2,7 @@
 tags:
   - spell
 ---
-
+[[Spells]]
 
 # WIP
 
