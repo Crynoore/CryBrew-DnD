@@ -32,8 +32,8 @@ choose one
 	You can use your action to fire a your Hellfire weapon in a visible range of 120ft. It deals damage in an area of 30ft. When you use your Hellfire weapon, all creatures in the area must make a saving throw, the DC of this saving throw is 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d8 damage on a failed save, and half as much damage on a successful one. add a d8 at lvl 11 and 16. you cannot use it again until you complete a short or long rest.
 
 - you get to use wings
-	you can fly for 100ft with a flying speed of 50 feet.
-	add a 50ft at lvl 11 and 16.
+	you can fly for 2 hours with a flying speed of 50 feet.
+	add a 1hour at lvl 11 and 16.
 #### Dragon's wits {passive}
 level 11
 
@@ -48,6 +48,6 @@ Dragon scent
 
 - When hidden from view, dragons may mistake you for one of their kind. You gain advantage on Charisma (Deception) and (Persuasion) checks made to interact with dragons who cannot see you but can perceive you through scent or magical means.
 #### {active}
-level 15
+level 16
 
 WIP

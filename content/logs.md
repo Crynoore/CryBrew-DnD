@@ -31,3 +31,12 @@ Some of them are lost media since i only started doing this at 1.3.2
 - renamed Dean and D to Goldrelvian Goons
 - updated the imperial brother part 1
 - added Lunar legends campaign 
+
+#### version 1.3.4
+- tried to fix dead links
+- added LL story 1 till 3
+- added CRS story 4, 7 till 9
+- added new items
+- added new characters to the data base
+- added lumadra's after they were interduce in LL
+- updated [[Draconic venator]] subclass
