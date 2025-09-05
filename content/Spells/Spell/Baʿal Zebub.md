@@ -1,6 +1,7 @@
 ---
 tags:
   - spell
+  - lvl1spell
 ---
 [[Spells]]
 
@@ -11,6 +12,7 @@ Baʿal Zebub
 	**Range:** 15 feet
 	**Components:** V, S
 	**Duration:** Instantaneous
+	**Spell level:** 1
 
 when you say the word with the will of casting it, a group of tar like tentacle will sprout out of the limb that is use to cast the spell. it suck outs the energy of the effected target dealing 1d6 and 1d4 psychic damage 
 

@@ -2,6 +2,7 @@
 tags:
   - character
   - CRS
+  - Dead
 ---
 
 a character for [[green-and-scales]]

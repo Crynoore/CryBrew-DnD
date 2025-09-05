@@ -9,6 +9,7 @@ Glutinous Tar
 	**Range:** 120 feet
 	**Components:** V, S
 	**Duration:** Instantaneous
+	**Spell level:** 
 
 summens a pool of tar under a enemy the radius of the pool is 20ft
 if enemy is in this tar they are in difficult terrain

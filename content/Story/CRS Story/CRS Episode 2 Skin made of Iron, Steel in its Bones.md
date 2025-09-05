@@ -172,4 +172,4 @@ They learn about the mark on the cog being related to the Moradlin, the Fearun g
 Nerup mentions a rainbow, and they see a shack in the distance.
 
 **
-[[CRS Episode 3 Joshua Is that you]]
+[[CRS Episode 3 Joshua Is That you]]

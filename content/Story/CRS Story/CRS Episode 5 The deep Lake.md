@@ -5,7 +5,7 @@ tags:
 ---
 
 
-[[CRS Episode 4 the Brotherhood border]]
+[[CRS Episode 4 The Brotherhood Border]]
 
 strand 2 guys dolk en nog een guy 
 

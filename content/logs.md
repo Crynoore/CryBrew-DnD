@@ -40,3 +40,14 @@ Some of them are lost media since i only started doing this at 1.3.2
 - added new characters to the data base
 - added lumadra's after they were interduce in LL
 - updated [[Draconic venator]] subclass
+
+#### version 1.4
+- redid some spells
+- update spells to have spell slot levels
+- added 2 new spell types ([[Accelerated spells]] and [[Fatigued spells]]) 
+- added LL story 4 and 5
+- added CRS story 10 and 11
+- added new Yo-yo weapon type 
+- added 3 Yo-yo's 
+- added tage's to dead PC's
+- working on IPB ranks rework

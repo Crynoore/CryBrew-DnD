@@ -3,7 +3,7 @@ tags:
   - Story
   - CRS
 ---
-[[CRS Episode 2 Skin made of Iron, Steel in its Bones]]
+[[CRS Episode 2 Skin Made of Iron, Steel in its Bones]]
 
 After triumphing over the Metal Mutt we we guided over the hills in pursuit of [[Joshua]].
 
@@ -19,4 +19,4 @@ The owlbear now infuriated clawed away at my thick skin, his might knocked me do
 
 Moving further along the forest started moaning, all these things were so strange. Could this be the Feywild I heard so much about? Some sorts of spirits appeared, they seemed entranced by [[Maru]]’s music, [Njirp](Njirp.md) mimic their moans. We moved along, the trees turned green again. [[Maru]] took [[Joshua]]’s book of myths and tried to find something relating to the blueberry phenomena. It seems like a serious issue and we should seek the antidote soon, they are described as red berries. Going deeper into the forest we came across a seemingly abandoned village. The architecture and writing seemed elvish and the sign “Welcome to [[Jorghedge]]” confirmed it was the settlement we were hoping to find. We immediately spotted a huge tower (about 300ft). Atop was a wizard of sorts who without much introduction didn’t want us there.[[Aronim-E]] mentioned he was the son of [[Cyrus]]. The wizard jumped down yelling “I CANT LET THE SON OF CYRUS LIVE”. As he plummeted down we readied up for a brawl. [[Maru]] and [[Aronim-E]] charged forward. Aronim-E launching an arrow but missing sadly. Maru chanted some mean words which didn’t seem to land. I guided moonlight straight into the wizard revealing a weakness. [[Aronim-E]] took advantage and shot an arrow at it. [Njirp](Njirp.md) was onverwhelmed and struggled to attack. The wizard used some magical coin and in an instant [[Aronim-E]] went down. I surrounded him in flames but he resisted, Maru’s words seemed ineffective. He was a tough opponent. A crown of pure madness appeared on Maru’s head making him hostile to the recently revitalized [[Aronim-E]]. Luckily he missed and [[Aronim-E]] could get out on time. [Njirp](Njirp.md) scorched his face with one of his firebolts, finishing him of in a powerful blow. I retrieved his coins, it looks like a coin of absolutes, I’m sure it’ll find a use one day. We ran up the tower (yes 100m of stairs with only stairs, what an incredible tower) Up above there were alot of hateful marks against [[Cyrus]] visible along with an armorstand with a necklace. I tried to grab the necklace but the armor rudely interrupted me and nearly took my life. I don’t remember much but we managed to defeat him eventually. I took his necklace and went around the room managing to retrieve a spellbook. I had a look around to check for magic and it seemed safe. This is where we’ll spend a while to rest.**
 
-[[CRS Episode 4 the Brotherhood border]]
+[[CRS Episode 4 The Brotherhood Border]]

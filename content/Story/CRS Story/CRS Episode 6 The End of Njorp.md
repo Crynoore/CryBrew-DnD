@@ -4,7 +4,7 @@ tags:
   - CRS
 ---
 
-[[CRS Episode 5 The deep Lake]]
+[[CRS Episode 5 The Deep Lake]]
 
 galrick shoots the wall
 
@@ -252,4 +252,4 @@ Long Rest
 
 end up the edge of the desert
 
-[[CRS Episode 7 the heat is on]]
+[[CRS Episode 7 The Heat is on]]

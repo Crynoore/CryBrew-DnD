@@ -1,3 +1,9 @@
+---
+tags:
+  - City
+  - Grolg
+---
+
 A oldest city that is around (stared in 9895 BC(so is 11582 years old in 1687))
 
 you can clearly see old runes where new buildings or build on,
@@ -15,3 +21,6 @@ after this they where fully rebuild in only 3 years, and they declared The Era o
 ### The Fifth Fall of Grimgar
 in the year 0488
 some dumb war 
+
+### place's of interest 
+

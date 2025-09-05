@@ -3,25 +3,32 @@
 # WIP
 all of them
 
+### Fatigued spells
+- [[Strength Fatigued]]
+- [[dexterous Fatigued]]
+- [[constitution Fatigued]]
+- [[intelligent Fatigued]]
+- [[wisdom Fatigued]]
+- [[charisma Fatigued]]
+### accelerated spells
+- [[Accelerated spells]]
+
 ### astronomy
 - [[Empty Vacuum]]
 - [[Cosmic Nebula]]
 - [[Null Comet]]
-- [[Lunar Spellblade]]
+- [[Infinite Expense]]
 
 ### Blood Magic
 - [[Blood Blade]]
 - [[Blood Sacrifice]]
-
+- [[Death mark]]
 ### Other spells
 - [[Baʿal Zebub]]
 - [[Glutinous Tar]]
 - [[Visual meter]]
-- [[Summer rizler]]
-- [[Depression talk]]
 - [[luck of the hollows]]
-- [[Death mark]]
-
+- [[Lunar Spellblade]]
 ### Summons
 
 - [[summoner summons]]

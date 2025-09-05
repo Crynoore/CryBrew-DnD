@@ -1,5 +1,9 @@
+---
+tags:
+  - Religion
+---
 
 
-[[Mullerism]]
-
-[[The Comet]]
+- [[Mullerism]]
+- [[The Faith of the Last Titan]]
+- [[The Comet]]
