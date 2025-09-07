@@ -5,7 +5,10 @@ the green and scales party consists of 5 members
 
 - [[Garrick]]
 - [[Aronim-e]]	
-- [[Maru]]	
-- [[Sarah]]
+- [[Gamma Core 1 (GC1)]]
+- [[Grock Bock]]
 - [[Njirp]]
 
+Dead PC's
+- [[Sarah]]
+- - [[Maru]]	

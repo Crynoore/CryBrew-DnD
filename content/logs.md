@@ -22,7 +22,8 @@ First upload to website
 
 
 Some of them are lost media since i only started doing this at 1.3.2
-#### version 1.3.2
+if you wonder why not every version is noted in here i do not update this tap every time i work on the wiki but i do note it down so thats why sometimes there will be a small jump, but everything is noted of ''skipped'' version in the next version 
+#### Version 1.3.2
 - introducing Tags
 - Updated some pages 
 - added the logs page you are looking at 
@@ -32,7 +33,7 @@ Some of them are lost media since i only started doing this at 1.3.2
 - updated the imperial brother part 1
 - added Lunar legends campaign 
 
-#### version 1.3.4
+#### Version 1.3.4
 - tried to fix dead links
 - added LL story 1 till 3
 - added CRS story 4, 7 till 9
@@ -41,7 +42,7 @@ Some of them are lost media since i only started doing this at 1.3.2
 - added lumadra's after they were interduce in LL
 - updated [[Draconic venator]] subclass
 
-#### version 1.4
+#### Version 1.4
 - redid some spells
 - update spells to have spell slot levels
 - added 2 new spell types ([[Accelerated spells]] and [[Fatigued spells]]) 
@@ -51,3 +52,10 @@ Some of them are lost media since i only started doing this at 1.3.2
 - added 3 Yo-yo's 
 - added tage's to dead PC's
 - working on IPB ranks rework
+
+#### Version 1.4.1
+- added new spells for [[Accelerated spells]] 
+- renamed the [[Fatigued spells]]
+- added a new campain to the stories 
+- added 3 new characters form the new campaign to the data bass
+- added a lumadra statblock

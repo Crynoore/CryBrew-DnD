@@ -1,19 +1,24 @@
-
-
+---
+tags:
+  - spell
+---
 # WIP
 all of them
 
 ### Fatigued spells
-- [[Strength Fatigued]]
-- [[dexterous Fatigued]]
-- [[constitution Fatigued]]
-- [[intelligent Fatigued]]
-- [[wisdom Fatigued]]
-- [[charisma Fatigued]]
-### accelerated spells
-- [[Accelerated spells]]
-
-### astronomy
+[[Fatigued spells]] explanation
+- [[Brittle bones]]
+- [[Thorn Muscles]]
+- [[Hollowed Frame]]
+- [[Brain Fatigued]]
+- [[Lost Body]]
+- [[hag’s cures]]
+### Accelerated spells
+[[Accelerated spells]] explanation
+- [[Hard shell]]
+- [[Healing well]]
+- [[Thunderstorm]]
+### Astronomy
 - [[Empty Vacuum]]
 - [[Cosmic Nebula]]
 - [[Null Comet]]

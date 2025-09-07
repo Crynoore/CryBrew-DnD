@@ -1,7 +1,7 @@
 ---
 tags:
   - spell
-  - Acceleratedspells
+  - Accelerated
 ---
 
 a accelerated spells is a spell that give a max number, you roll until you hit this number the amount of roll = the dmg you deal 

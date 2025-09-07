@@ -5,7 +5,6 @@ tags:
 
 
 ## CRS 
-
 - [[CRS Episode 0 Prologue]]
 - [[CRS Episode 1 Day of Cleansing]]
 - [[CRS Episode 2 Skin Made of Iron, Steel in its Bones]]
@@ -17,12 +16,14 @@ tags:
 - [[CRS Episode 8 The Sand and the Minarets]]
 - [[CRS Episode 9 The Heat of the Mountain]]
 - [[CRS Episode 10 The Song Cut Short, Tide Goes Out]]
+- [[CRS Episode 11 Calm After the Storm]]
 
 
 ## Lunar legends 
-
 - [[LL Episode 1]]
 - [[LL Episode 2]]
 - [[LL Episode 3]]
 - [[LL Episode 4]]
-- 
+- [[LL Episode 5]]
+## WIPname
+- [[Episode 1 Drunken start]]

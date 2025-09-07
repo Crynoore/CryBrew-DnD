@@ -1,0 +1,11 @@
+---
+tags:
+  - Fatigued
+---
+## thorn muscles 
+
+
+This effect has a cut-off point of ”30”. When activated, the creature must roll dice until their total equals or exceeds 30. Each roll is: Die roll + DEX modifier .You must keep rolling until the cut-off is reached, no matter how many dice it takes.
+
+
+the amount of rolls is = to the amount of turns your movement speed is reduced to 10 ft
