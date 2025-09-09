@@ -1,4 +1,4 @@
-#Armor #background #Balz  #being #Book #character #City #consumables #continent #Creator #CRS #DangersBeings #Druid #Faction #food #FotM2024 #Gods #Goons #illness #Items #lore #Meterial #NPC #Place #Plant #Religion #spell #Story #Species #TheFirstHeros  #TFHunters #Titan #Weapons #Dead 
+ #background #Balz #being #Book #City #consumables #continent #Creator #DangersBeings #Faction #food #Gods #illness #lore #Meterial #NPC #Place #Plant #Religion #Story #Species #Titan #Dead 
 
  Classes
  - #Class 
@@ -16,4 +16,33 @@
  - #Summoner 
  - #Warlock 
  - #wizard 
-
+Items
+- #Armor 
+- #Items 
+- #Weapons 
+- #Bow 
+- #Dagger 
+- #Greatclub 
+- #Yo-yo
+- #whip 
+- #Warhammer 
+- #Staff 
+- #Longsword 
+- #Cane 
+Spells
+- #spell 
+- #lvl1spell 
+- #lvl2spell 
+- #Accelerated 
+- #Fatigued 
+- #astronomy 
+- #BloodMagic 
+- #cantrip 
+characters
+- #character 
+- #FotM2024 
+- #CRS 
+- #TheFirstHeros 
+- #TFHunters 
+- #NPC 
+- #Goons 

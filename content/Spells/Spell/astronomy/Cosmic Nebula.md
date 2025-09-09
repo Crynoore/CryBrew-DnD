@@ -4,8 +4,6 @@ tags:
   - cantrip
   - astronomy
 ---
-# WIP
-
 Cosmic Nebula
 	**Casting Time:** 1 action  
 	**Range:** 120 feet

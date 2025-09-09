@@ -59,3 +59,11 @@ if you wonder why not every version is noted in here i do not update this tap ev
 - added a new campain to the stories 
 - added 3 new characters form the new campaign to the data bass
 - added a lumadra statblock
+
+#### Version 1.4.2
+- added a new feat 
+- added a lot of new Astronomy spells
+- update tags
+- fixes a bug with loading png
+- fixes some wording on some spells
+- working on new wizard sub class

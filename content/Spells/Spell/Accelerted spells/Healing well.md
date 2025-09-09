@@ -11,7 +11,8 @@ Healing well
 	Spell level: 2
 	Accelerated cut-off point : 14
 	Accelerated Dice : d8
-
   
+NoD + the 2 highest rolls = heal
 
-Heal = to number of roll + the 2 highest rolls and gain number of rolls x 2 as temp HP
+then gain NoD x2 as temporary HP
+
