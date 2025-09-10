@@ -3,7 +3,6 @@ tags:
   - astronomy
   - spell
 ---
-
 molecular cloud 
 	Casting Time: 1 action
 	Range: 30ft

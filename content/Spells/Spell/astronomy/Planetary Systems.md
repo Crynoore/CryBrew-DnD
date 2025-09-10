@@ -8,7 +8,6 @@ Planetary Systems
 	**Range:** 120 feet
 	**Target:** A point within range
 	**Components:** V, S
-	**Duration:** Up to 1 hour
 	**Spell level:** ???
 
 summons 1d12+ spell casting modifies of small planets that orbit around you, follow the table below that determinants what planets orbit you (if you roll a 7 you get all the planets until 7 and your spell casting modifies are extra planets that you can chose that are already in your system

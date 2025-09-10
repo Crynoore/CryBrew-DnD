@@ -4,7 +4,7 @@ tags:
   - spell
   - astronomy
 ---
-- ## aligned stars
+aligned stars
 	Casting Time: 1 action
 	Range: 60ft
 	Components: V, S 

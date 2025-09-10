@@ -3,8 +3,10 @@ tags:
   - Feats
   - Originfeats
 ---
+Origin feats
+- [[Misplaced Animal]]
+- [[Comradery]]
 
-
-[[Reckless Caster]]
-[[Misplaced Animal]]
-[[Comradery]]
+Feats
+- [[Accelerated Master]]
+- i

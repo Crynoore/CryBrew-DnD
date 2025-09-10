@@ -4,7 +4,6 @@ tags:
   - lvl1spell
   - astronomy
 ---
-
 Null Comet
 	**Casting Time:** 1 action
 	**Range:** Self/other thing with a hart beat (30ft)

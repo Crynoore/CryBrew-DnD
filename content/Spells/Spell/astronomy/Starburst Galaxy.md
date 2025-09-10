@@ -2,8 +2,8 @@
 tags:
   - astronomy
   - spell
+  - Fatigued
 ---
-
 **starburst galaxy**
 	Casting Time: 1 action
 	Range: 20ft cone

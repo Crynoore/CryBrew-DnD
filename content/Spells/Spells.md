@@ -13,6 +13,9 @@ all of them
 - [[Brain Fatigued]]
 - [[Lost Body]]
 - [[hag’s cures]]
+- [[Stellar Remnant]]
+- [[Starburst Galaxy]]
+- [[Aligned Stars]]
 ### Accelerated spells
 [[Accelerated spells]] explanation
 - [[Hard Shell]]
@@ -34,11 +37,11 @@ all of them
 - [[Plasmatic Equilibrium]]
 - [[Shadow of the Eclipse]]
 - [[Supernova]]
-- [[WIP Galaxy]]
-- [[WIP Heat death]]
-- [[WIP Solar Ray]]
+- [[Galaxy]]
+- [[Heat death]]
+- [[Solar Ray]]
 - [[Starburst Galaxy]]
-- [[WIP Stellar Remnant]]
+- [[Stellar Remnant]]
 
 ### Blood Magic
 - [[Blood Blade]]

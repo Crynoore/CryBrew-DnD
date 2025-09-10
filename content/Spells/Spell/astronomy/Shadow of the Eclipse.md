@@ -3,7 +3,6 @@ tags:
   - astronomy
   - spell
 ---
-
 Shadow of the Eclipse
 	level 3 spell 
 	Casting Time: 1 action

@@ -2,8 +2,8 @@
 tags:
   - astronomy
   - spell
+  - Accelerated
 ---
-
 Supernova
 	Casting Time: 1 action
 	Range: touch
