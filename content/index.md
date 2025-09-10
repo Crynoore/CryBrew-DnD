@@ -5,6 +5,8 @@ title: Welcome to the Tale's of Titan's Wiki
 mostly adds stuff, changes some small things about dnd lore. and all the thing that are difference and or new you can find in here. there are also story's you can read the follow some Inhabitants of the world.
 
 run by [[Crynoore]] and [[Deanamo]]
+
+!!if a like does not work search it in the search bar!!
 ### make your guy
 
 - [[Classes]]

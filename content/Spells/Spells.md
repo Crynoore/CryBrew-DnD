@@ -4,6 +4,7 @@ tags:
 ---
 # WIP
 all of them
+if you cant click on the spells look them up in the search bar
 
 ### Fatigued spells
 [[Fatigued spells]] explanation
