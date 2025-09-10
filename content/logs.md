@@ -61,7 +61,9 @@ if you wonder why not every version is noted in here i do not update this tap ev
 - fixes a bug with loading png
 - fixes some wording on some spells
 - working on new wizard sub class
-#### Version 1.4.2
+#### Version 1.4.3
 - added a new feat 
 - added 4 more Astronomy spells
 - fix placements of spells 
+#### Version 1.4.3.1
+- redid the layout of spells

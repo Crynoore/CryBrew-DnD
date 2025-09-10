@@ -3,12 +3,14 @@ tags:
   - spell
   - astronomy
 ---
-Plasmatic Equilibrium
-	**Casting Time:** 1 action
-	**Range:** 120 feet
-	**Components:** V, S
-	**Duration:** Instantaneous
-	**Spell level:** 5
+
+| Plasmatic Equilibrium       |
+| --------------------------- |
+| **Casting Time:** 1 action  |
+| **Range:** 120 feet         |
+| **Components:** V, S        |
+| **Duration:** Instantaneous |
+| **Spell level:** 5          |
 
 deals 8d8 dmg and if there is a dubbliced number increace the dmg following the table below
 

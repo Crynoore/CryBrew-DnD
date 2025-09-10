@@ -8,12 +8,12 @@ if you cant click on the spells look them up in the search bar
 
 ### Fatigued spells
 [[Fatigued spells]] explanation
-- [[Brittle bones]]
+- [[Brittle Bones]]
 - [[Thorn Muscles]]
 - [[Hollowed Frame]]
 - [[Brain Fatigued]]
 - [[Lost Body]]
-- [[hag’s cures]]
+- [[Hag’s Cures]]
 - [[Stellar Remnant]]
 - [[Starburst Galaxy]]
 - [[Aligned Stars]]

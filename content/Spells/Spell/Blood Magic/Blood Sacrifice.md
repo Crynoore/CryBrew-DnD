@@ -4,13 +4,12 @@ tags:
   - BloodMagic
 ---
 
-Blood Sacrifice
-	**Casting Time:** 1 action  
-	**Range:** 120 feet
-	**Components:** V, S
-	**Duration:** Up to 1 hour
-	**Spell level:** 1
-
+| Blood Sacrifice            |
+| -------------------------- |
+| **Casting Time:** 1 action |
+| **Range:** 120 feet        |
+| **Duration:** Up to 1 hour |
+| **Spell level:** 1         |
 puts you on 1 hp the deal 1d100 dmg, 
 
 can be upcasted to deal a additional d100 dmg

@@ -3,12 +3,14 @@ tags:
   - astronomy
   - spell
 ---
-Shadow of the Eclipse
-	level 3 spell 
-	Casting Time: 1 action
-	**Components:** V, S
-	duration : 1min
-	Range: 60 ft
+
+| Shadow of the Eclipse  |
+| ---------------------- |
+| level 3 spell          |
+| Casting Time: 1 action |
+| **Components:** V, S   |
+| duration : 1min        |
+| Range: 60 ft           |
 
 You curse a creature with the eclipse’s shadow.
 Target makes a WIS save. On fail:

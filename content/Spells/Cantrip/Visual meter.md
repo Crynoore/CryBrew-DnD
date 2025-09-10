@@ -4,14 +4,13 @@ tags:
   - cantrip
 ---
 
-
-Visual meter
-	**Casting Time:** Bonus Action
-	**Range:** self
-	**Components:** V,S
-	**Duration:** 1 hour
-
-cantrip
+| Visual meter                   |
+| ------------------------------ |
+| **Casting Time:** Bonus Action |
+| **Range:** self                |
+| **Components:** V,S            |
+| **Duration:** 1 hour           |
+| Spell Level: 0                 |
 
 you get a visual meter
 

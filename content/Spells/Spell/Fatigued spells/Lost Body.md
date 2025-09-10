@@ -3,13 +3,15 @@ tags:
   - Fatigued
   - spell
 ---
-Lost Body
-	Casting Time: 1 action
-	Range: 30 ft 
-	Components: V, S 
-	Spell level: ?
-	Accelerated cut-off point : 28
-	Accelerated Dice : D12
+
+| Lost Body                      |
+| ------------------------------ |
+| Casting Time: 1 action         |
+| Range: 30 ft                   |
+| Components: V, S               |
+| Spell level: ?                 |
+| Accelerated cut-off point : 28 |
+| Accelerated Dice : D12         |
 
 This effect has a cut-off point of ”28”. When activated, the creature must roll dice until their total equals or exceeds 28. Each roll is: Die roll + WIS modifier .You must keep rolling until the cut-off is reached, no matter how many dice it takes.
 

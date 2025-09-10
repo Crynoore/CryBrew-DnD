@@ -3,13 +3,15 @@ tags:
   - Accelerated
   - spell
 ---
-Nova
-	Casting Time: 1 action
-	Range: touch
-	Components: V, S 
-	Spell level: ???
-	Accelerated cut-off point : 11
-	Accelerated Dice : d4
+
+| Nova                           |
+| ------------------------------ |
+| Casting Time: 1 action         |
+| Range: touch                   |
+| Components: V, S               |
+| Spell level: ???               |
+| Accelerated cut-off point : 11 |
+| Accelerated Dice : d4          |
 
 NoD = to the amount of turn the effect lasts 
 

@@ -12,6 +12,14 @@ stellar remnant
 	Fatigued cut-off point : 26
 	Fatigued Dice : d8+STA
 
+| stellar remnant             |
+| --------------------------- |
+| Casting Time: 1 action      |
+| Range: 60ft                 |
+| Components: V, S            |
+| Spell level: ?              |
+| Fatigued cut-off point : 26 |
+| Fatigued Dice : d8+STA      |
 
 | NoD         | Effect                          |
 | ----------- | ------------------------------- |

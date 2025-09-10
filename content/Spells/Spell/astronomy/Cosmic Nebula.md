@@ -4,13 +4,15 @@ tags:
   - cantrip
   - astronomy
 ---
-Cosmic Nebula
-	**Casting Time:** 1 action  
-	**Range:** 120 feet
-	**Target:** A point within range
-	**Components:** V, S
-	**Duration:** Up to 1 hour
-	**Spell level:** 0
+
+| Cosmic Nebula                    |
+| -------------------------------- |
+| **Casting Time:** 1 action       |
+| **Range:** 120 feet              |
+| **Target:** A point within range |
+| **Components:** V, S             |
+| **Duration:** Up to 1 hour       |
+| **Spell level:** 0               |
 
 summons a nebula the contains a lot of different materials.
 deals 1d6 dmg the results form your die correlates to what happens {look at the list below}
