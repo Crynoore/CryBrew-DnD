@@ -10,7 +10,7 @@ tags:
 | Casting Time: 1 action         |
 | Range: touch                   |
 | Components: V, S               |
-| Spell level: ???               |
+| Spell level: 7                 |
 | Accelerated cut-off point : 16 |
 | Accelerated Dice : d8          |
 NoD = to the amount of turn the effect lasts 

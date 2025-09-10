@@ -9,7 +9,7 @@ tags:
 | Casting Time: 1 action         |
 | Range: 30 ft                   |
 | Components: V, S               |
-| Spell level: ?                 |
+| Spell level: 3                 |
 | Accelerated cut-off point : 26 |
 | Accelerated Dice : D8          |
 

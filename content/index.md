@@ -38,7 +38,7 @@ to find some thing specific use tags
 - [[Tags]]
 
 
-Version 1.4.3.1 of the wiki is out NOW 
+Version 1.4.4 of the wiki is out NOW 
 [[logs]]
 
 

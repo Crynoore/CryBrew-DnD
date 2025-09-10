@@ -9,7 +9,7 @@ tags:
 | Casting Time: 1 action         |
 | Range: touch                   |
 | Components: V, S               |
-| Spell level: ???               |
+| Spell level: 3                 |
 | Accelerated cut-off point : 11 |
 | Accelerated Dice : d4          |
 

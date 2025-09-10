@@ -28,7 +28,6 @@ if you cant click on the spells look them up in the search bar
 ### Astronomy
 - [[Aligned Stars]]
 - [[Cosmic Nebula]]
-- [[Cosmic Knowledge]]
 - [[Empty Vacuum]]
 - [[Infinite Expense]]
 - [[Molecular Cloud]]

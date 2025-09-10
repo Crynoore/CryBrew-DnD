@@ -67,3 +67,8 @@ if you wonder why not every version is noted in here i do not update this tap ev
 - fix placements of spells 
 #### Version 1.4.3.1
 - redid the layout of spells
+#### Version 1.4.4
+- added new Wizard sub class (Nebula Mage)
+- change Cosmic Knowledge to a feature of Nebula Mage
+- added lvl's to most spells
+- rebalanced Cosmic Nebula

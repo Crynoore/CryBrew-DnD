@@ -9,7 +9,7 @@ tags:
 | Casting Time: 1 action        |
 | Range: thought                |
 | Components: V, S              |
-| Spell level: ?                |
+| Spell level: 3                |
 | Accelerated cut-off point : 8 |
-| 	Accelerated Dice : d4        |
+| Accelerated Dice : d4         |
 increase Ac by amount of rolls
