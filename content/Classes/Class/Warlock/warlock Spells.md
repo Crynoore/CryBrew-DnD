@@ -1,0 +1,9 @@
+---
+tags:
+  - Warlock
+---
+
+
+
+ - [[Lunar Spellblade]]
+ 

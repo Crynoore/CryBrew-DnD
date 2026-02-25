@@ -1,0 +1,5 @@
+---
+tags:
+  - Gods
+---
+Forgoten god

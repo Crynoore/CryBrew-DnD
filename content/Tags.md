@@ -1,0 +1,49 @@
+ #background #Balz #being #Book #City #consumables #continent #Creator #DangersBeings #Faction #food #Gods #illness #lore #Meterial #Place #Plant #Religion #Story #Species #Titan
+
+ Classes
+ - #Class 
+ - #subclass 
+ - #Artificer
+ - #Barbarian 
+ - #bard 
+ - #Cleric
+ - #Druid 
+ - #monk 
+ - #paladin 
+ - #Ranger 
+ - #Rogue  
+ - #Sorcerer 
+ - #Summoner 
+ - #Warlock 
+ - #wizard 
+Items
+- #Armor 
+- #Items 
+- #Weapons 
+- #Bow 
+- #Dagger 
+- #Greatclub 
+- #Yo-yo
+- #whip 
+- #Warhammer 
+- #Staff 
+- #Longsword 
+- #Cane 
+Spells
+- #spell 
+- #lvl1spell 
+- #lvl2spell 
+- #Accelerated 
+- #Fatigued 
+- #astronomy 
+- #BloodMagic 
+- #cantrip 
+characters
+- #character 
+- #FotM2024 
+- #CRS 
+- #TheFirstHeros 
+- #TFHunters 
+- #NPC 
+- #Goons 
+- #Dead 

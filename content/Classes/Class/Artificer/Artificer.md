@@ -1,0 +1,5 @@
+---
+tags:
+  - Artificer
+  - Class
+---
