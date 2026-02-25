@@ -4,6 +4,20 @@ import path from "path"
 import fs from "fs"
 import { glob } from "../../util/glob"
 
+const copyFile = async (argv: Argv, fp: FilePath) => {
+  const src = joinSegments(argv.directory, fp) as FilePath
+
+  const name = slugifyFilePath(fp)
+  const dest = joinSegments(argv.output, name) as FilePath
+
+  // ensure dir exists
+  const dir = path.dirname(dest) as FilePath
+  await fs.promises.mkdir(dir, { recursive: true })
+
+  await fs.promises.copyFile(src, dest)
+  return dest
+}
+
 export const Assets: QuartzEmitterPlugin = () => {
   return {
     name: "Assets",
@@ -26,8 +40,6 @@ export const Assets: QuartzEmitterPlugin = () => {
         await fs.promises.copyFile(src, dest)
         res.push(dest)
       }
-
-      return res
     },
   }
 }

@@ -6,7 +6,8 @@ import { slug as slugAnchor } from "github-slugger"
 import rehypeRaw from "rehype-raw"
 import { visit } from "unist-util-visit"
 import path from "path"
-import { JSResource } from "../../util/resources"
+import { splitAnchor } from "../../util/path"
+import { JSResource, CSSResource } from "../../util/resources"
 // @ts-ignore
 import calloutScript from "../../components/scripts/callout.inline.ts"
 import { FilePath, pathToRoot, slugTag, slugifyFilePath } from "../../util/path"
@@ -118,9 +119,7 @@ const calloutLineRegex = new RegExp(/^> *\[\!\w+\][+-]?.*$/, "gm")
 // #(\w+)    -> tag itself is # followed by a string of alpha-numeric characters
 const tagRegex = new RegExp(/(?:^| )#([\w-_\/]+)/, "g")
 
-export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> | undefined> = (
-  userOpts,
-) => {
+export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>> = (userOpts) => {
   const opts = { ...defaultOptions, ...userOpts }
 
   const mdastToHtml = (ast: PhrasingContent | Paragraph) => {
@@ -287,8 +286,8 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
                 return
               }
 
-              // find first line
-              const firstChild = node.children[0]
+              // find first line and callout content
+              const [firstChild, ...calloutContent] = node.children
               if (firstChild.type !== "paragraph" || firstChild.children[0]?.type !== "text") {
                 return
               }
@@ -342,6 +341,21 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
                   })
                 }
 
+                // For the rest of the MD callout elements other than the title, wrap them with
+                // two nested HTML <div>s (use some hacked mdhast component to achieve this) of
+                // class `callout-content` and `callout-content-inner` respectively for
+                // grid-based collapsible animation.
+                if (calloutContent.length > 0) {
+                  node.children = [
+                    node.children[0],
+                    {
+                      data: { hProperties: { className: ["callout-content"] }, hName: "div" },
+                      type: "blockquote",
+                      children: [...calloutContent],
+                    },
+                  ]
+                }
+
                 // replace first line of blockquote with title and rest of the paragraph text
                 node.children.splice(0, 1, ...blockquoteContent)
 
@@ -354,6 +368,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
                     }`,
                     "data-callout": calloutType,
                     "data-callout-fold": collapse,
+                    "data-callout-metadata": calloutMetaData,
                   },
                 }
               }
@@ -364,12 +379,14 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
 
       if (opts.mermaid) {
         plugins.push(() => {
-          return (tree: Root, _file) => {
+          return (tree: Root, file) => {
             visit(tree, "code", (node: Code) => {
               if (node.lang === "mermaid") {
+                file.data.hasMermaidDiagram = true
                 node.data = {
                   hProperties: {
                     className: ["mermaid"],
+                    "data-clipboard": JSON.stringify(node.value),
                   },
                 }
               }
@@ -407,6 +424,75 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
         })
       }
 
+      if (opts.mermaid) {
+        plugins.push(() => {
+          return (tree: HtmlRoot, _file) => {
+            visit(tree, "element", (node: Element, _idx, parent) => {
+              if (
+                node.tagName === "code" &&
+                ((node.properties?.className ?? []) as string[])?.includes("mermaid")
+              ) {
+                parent!.children = [
+                  {
+                    type: "element",
+                    tagName: "button",
+                    properties: {
+                      className: ["expand-button"],
+                      "aria-label": "Expand mermaid diagram",
+                      "data-view-component": true,
+                    },
+                    children: [
+                      {
+                        type: "element",
+                        tagName: "svg",
+                        properties: {
+                          width: 16,
+                          height: 16,
+                          viewBox: "0 0 16 16",
+                          fill: "currentColor",
+                        },
+                        children: [
+                          {
+                            type: "element",
+                            tagName: "path",
+                            properties: {
+                              fillRule: "evenodd",
+                              d: "M3.72 3.72a.75.75 0 011.06 1.06L2.56 7h10.88l-2.22-2.22a.75.75 0 011.06-1.06l3.5 3.5a.75.75 0 010 1.06l-3.5 3.5a.75.75 0 11-1.06-1.06l2.22-2.22H2.56l2.22 2.22a.75.75 0 11-1.06 1.06l-3.5-3.5a.75.75 0 010-1.06l3.5-3.5z",
+                            },
+                            children: [],
+                          },
+                        ],
+                      },
+                    ],
+                  },
+                  node,
+                  {
+                    type: "element",
+                    tagName: "div",
+                    properties: { id: "mermaid-container", role: "dialog" },
+                    children: [
+                      {
+                        type: "element",
+                        tagName: "div",
+                        properties: { id: "mermaid-space" },
+                        children: [
+                          {
+                            type: "element",
+                            tagName: "div",
+                            properties: { className: ["mermaid-content"] },
+                            children: [],
+                          },
+                        ],
+                      },
+                    ],
+                  },
+                ]
+              }
+            })
+          }
+        })
+      }
+
       return plugins
     },
     htmlPlugins() {
@@ -414,6 +500,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
     },
     externalResources() {
       const js: JSResource[] = []
+      const css: CSSResource[] = []
 
       if (opts.callouts) {
         js.push({
@@ -440,12 +527,17 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
           });
           `,
           loadTime: "afterDOMReady",
-          moduleType: "module",
           contentType: "inline",
+          moduleType: "module",
+        })
+
+        css.push({
+          content: mermaidStyle,
+          inline: true,
         })
       }
 
-      return { js }
+      return { js, css }
     },
   }
 }

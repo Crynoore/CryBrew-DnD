@@ -2,6 +2,7 @@
 tags:
   - spell
   - lvl1spell
+title: Baʿal Zebub
 ---
 
 | Baʿal Zebub                |

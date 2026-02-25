@@ -14,6 +14,7 @@ export type Analytics =
 
 export interface GlobalConfiguration {
   pageTitle: string
+  pageTitleSuffix?: string
   /** Whether to enable single-page-app style rendering. this prevents flashes of unstyled content and improves smoothness of Quartz */
   enableSPA: boolean
   /** Whether to display Wikipedia-style popovers when hovering over links */
@@ -39,10 +40,11 @@ export interface FullPageLayout {
   header: QuartzComponent[]
   beforeBody: QuartzComponent[]
   pageBody: QuartzComponent
+  afterBody: QuartzComponent[]
   left: QuartzComponent[]
   right: QuartzComponent[]
   footer: QuartzComponent
 }
 
 export type PageLayout = Pick<FullPageLayout, "beforeBody" | "left" | "right">
-export type SharedLayout = Pick<FullPageLayout, "head" | "header" | "footer">
+export type SharedLayout = Pick<FullPageLayout, "head" | "header" | "footer" | "afterBody">

@@ -2,10 +2,8 @@
 tags:
   - Story
   - CRS
-title: The Deep Lake
+title: "Episode 5: The Deep Lake"
 ---
-
-
 [[CRS Episode 4]]
 
 strand 2 guys dolk en nog een guy 

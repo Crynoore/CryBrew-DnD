@@ -2,6 +2,7 @@
 tags:
   - spell
   - Accelerated
+title: Healing Well
 ---
 
 | Healing well                   |

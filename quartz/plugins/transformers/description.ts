@@ -19,7 +19,7 @@ const escapeHTML = (unsafe: string) => {
     .replaceAll("'", "&#039;")
 }
 
-export const Description: QuartzTransformerPlugin<Partial<Options> | undefined> = (userOpts) => {
+export const Description: QuartzTransformerPlugin<Partial<Options>> = (userOpts) => {
   const opts = { ...defaultOptions, ...userOpts }
   return {
     name: "Description",

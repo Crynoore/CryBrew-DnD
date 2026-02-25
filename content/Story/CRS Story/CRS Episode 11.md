@@ -2,7 +2,7 @@
 tags:
   - CRS
   - Story
-title: " Calm After the Storm"
+title: "Episode 11: Calm After the Storm"
 ---
 [[CRS Episode 10]]
 

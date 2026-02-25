@@ -15,4 +15,10 @@ export default ((component?: QuartzComponent) => {
   } else {
     return () => <></>
   }
-}) satisfies QuartzComponentConstructor
+
+  DesktopOnly.displayName = component.displayName
+  DesktopOnly.afterDOMLoaded = component?.afterDOMLoaded
+  DesktopOnly.beforeDOMLoaded = component?.beforeDOMLoaded
+  DesktopOnly.css = component?.css
+  return DesktopOnly
+}) satisfies QuartzComponentConstructor<QuartzComponent>

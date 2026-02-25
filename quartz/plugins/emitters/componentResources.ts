@@ -12,7 +12,12 @@ import popoverStyle from "../../components/styles/popover.scss"
 import { BuildCtx } from "../../util/ctx"
 import { StaticResources } from "../../util/resources"
 import { QuartzComponent } from "../../components/types"
-import { googleFontHref, joinStyles } from "../../util/theme"
+import {
+  googleFontHref,
+  googleFontSubsetHref,
+  joinStyles,
+  processGoogleFonts,
+} from "../../util/theme"
 import { Features, transform } from "lightningcss"
 
 type ComponentResources = {
@@ -24,7 +29,7 @@ type ComponentResources = {
 function getComponentResources(ctx: BuildCtx): ComponentResources {
   const allComponents: Set<QuartzComponent> = new Set()
   for (const emitter of ctx.cfg.plugins.emitters) {
-    const components = emitter.getQuartzComponents(ctx)
+    const components = emitter.getQuartzComponents?.(ctx) ?? []
     for (const component of components) {
       allComponents.add(component)
     }
@@ -36,17 +41,21 @@ function getComponentResources(ctx: BuildCtx): ComponentResources {
     afterDOMLoaded: new Set<string>(),
   }
 
+  function normalizeResource(resource: string | string[] | undefined): string[] {
+    if (!resource) return []
+    if (Array.isArray(resource)) return resource
+    return [resource]
+  }
+
   for (const component of allComponents) {
     const { css, beforeDOMLoaded, afterDOMLoaded } = component
-    if (css) {
-      componentResources.css.add(css)
-    }
-    if (beforeDOMLoaded) {
-      componentResources.beforeDOMLoaded.add(beforeDOMLoaded)
-    }
-    if (afterDOMLoaded) {
-      componentResources.afterDOMLoaded.add(afterDOMLoaded)
-    }
+    const normalizedCss = normalizeResource(css)
+    const normalizedBeforeDOMLoaded = normalizeResource(beforeDOMLoaded)
+    const normalizedAfterDOMLoaded = normalizeResource(afterDOMLoaded)
+
+    normalizedCss.forEach((c) => componentResources.css.add(c))
+    normalizedBeforeDOMLoaded.forEach((b) => componentResources.beforeDOMLoaded.add(b))
+    normalizedAfterDOMLoaded.forEach((a) => componentResources.afterDOMLoaded.add(a))
   }
 
   return {
@@ -93,7 +102,10 @@ function addGlobalPageResources(
           page_title: document.title,
           page_location: location.href,
         });
-      });`)
+      };
+      
+      document.head.appendChild(gtagScript);
+    `)
   } else if (cfg.analytics?.provider === "plausible") {
     componentResources.afterDOMLoaded.push(plausibleScript)
   }
@@ -183,5 +195,6 @@ export const ComponentResources: QuartzEmitterPlugin<Options> = (opts?: Partial<
       ])
       return fps
     },
+    async *partialEmit() {},
   }
 }

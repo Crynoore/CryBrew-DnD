@@ -2,7 +2,7 @@
 tags:
   - Originfeats
 ---
-[[feats]]
+[[Feats]]
 
 Origin feat
 

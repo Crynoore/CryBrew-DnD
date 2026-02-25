@@ -2,7 +2,7 @@
 tags:
   - Story
   - CRS
-title: The Heat of the Mountain
+title: "Episode 9: The Heat of the Mountain"
 ---
 [[CRS Episode 8]]
 ![[Screenshot (866).png]]

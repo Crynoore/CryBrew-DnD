@@ -2,7 +2,7 @@
 tags:
   - Story
   - CRS
-title: Prologue
+title: "Episode 0: Prologue"
 ---
 
 

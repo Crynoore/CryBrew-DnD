@@ -3,8 +3,10 @@ import { FilePath, FullSlug, SimpleSlug, simplifySlug } from "../../util/path"
 import { QuartzEmitterPlugin } from "../types"
 import path from "path"
 
-export type ContentIndex = Map<FullSlug, ContentDetails>
+export type ContentIndexMap = Map<FullSlug, ContentDetails>
 export type ContentDetails = {
+  slug: FullSlug
+  filePath: FilePath
   title: string
   links: SimpleSlug[]
   tags: string[]
@@ -25,7 +27,7 @@ const defaultOptions: Options = {
   includeEmptyFiles: false,
 }
 
-function generateSiteMap(cfg: GlobalConfiguration, idx: ContentIndex): string {
+function generateSiteMap(cfg: GlobalConfiguration, idx: ContentIndexMap): string {
   const base = cfg.baseUrl ?? ""
   const createURLEntry = (slug: SimpleSlug, content: ContentDetails): string => `<url>
     <loc>https://${base}/${slug}</loc>
@@ -77,6 +79,8 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
         const date = file.data.dates?.modified ?? new Date()
         if (opts?.includeEmptyFiles || (file.data.text && file.data.text !== "")) {
           linkIndex.set(slug, {
+            slug,
+            filePath: file.data.relativePath!,
             title: file.data.frontmatter?.title!,
             links: file.data.links ?? [],
             tags: file.data.frontmatter?.tags ?? [],
@@ -129,6 +133,5 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
 
       return emitted
     },
-    getQuartzComponents: () => [],
   }
 }

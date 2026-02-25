@@ -6,11 +6,16 @@
   border-radius: 5px;
   padding: 0 1rem;
   overflow-y: hidden;
-  transition: max-height 0.3s ease;
   box-sizing: border-box;
 
-  & > *:nth-child(2) {
-    margin-top: 0;
+  & > .callout-content {
+    display: grid;
+    transition: grid-template-rows 0.1s cubic-bezier(0.02, 0.01, 0.47, 1);
+    overflow: hidden;
+
+    & > :first-child {
+      margin-top: 0;
+    }
   }
 
   &[data-callout="note"] {

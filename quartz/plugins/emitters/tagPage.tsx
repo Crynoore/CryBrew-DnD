@@ -3,7 +3,7 @@ import { QuartzComponentProps } from "../../components/types"
 import HeaderConstructor from "../../components/Header"
 import BodyConstructor from "../../components/Body"
 import { pageResources, renderPage } from "../../components/renderPage"
-import { ProcessedContent, defaultProcessedContent } from "../vfile"
+import { ProcessedContent, QuartzPluginData, defaultProcessedContent } from "../vfile"
 import { FullPageLayout } from "../../cfg"
 import { FilePath, FullSlug, getAllSegmentPrefixes, joinSegments } from "../../util/path"
 import { defaultListPageLayout, sharedPageComponents } from "../../../quartz.layout"
@@ -13,18 +13,29 @@ export const TagPage: QuartzEmitterPlugin<FullPageLayout> = (userOpts) => {
   const opts: FullPageLayout = {
     ...sharedPageComponents,
     ...defaultListPageLayout,
-    pageBody: TagContent(),
+    pageBody: TagContent({ sort: userOpts?.sort }),
     ...userOpts,
   }
 
-  const { head: Head, header, beforeBody, pageBody, left, right, footer: Footer } = opts
+  const { head: Head, header, beforeBody, pageBody, afterBody, left, right, footer: Footer } = opts
   const Header = HeaderConstructor()
   const Body = BodyConstructor()
 
   return {
     name: "TagPage",
     getQuartzComponents() {
-      return [Head, Header, Body, ...header, ...beforeBody, pageBody, ...left, ...right, Footer]
+      return [
+        Head,
+        Header,
+        Body,
+        ...header,
+        ...beforeBody,
+        pageBody,
+        ...afterBody,
+        ...left,
+        ...right,
+        Footer,
+      ]
     },
     async emit(ctx, content, resources, emit): Promise<FilePath[]> {
       const fps: FilePath[] = []
@@ -50,15 +61,11 @@ export const TagPage: QuartzEmitterPlugin<FullPageLayout> = (userOpts) => {
         }),
       )
 
-      for (const [tree, file] of content) {
-        const slug = file.data.slug!
+        // If it's a tag page itself that changed
         if (slug.startsWith("tags/")) {
           const tag = slug.slice("tags/".length)
-          if (tags.has(tag)) {
-            tagDescriptions[tag] = [tree, file]
-          }
+          affectedTags.add(tag)
         }
-      }
 
       for (const tag of tags) {
         const slug = joinSegments("tags", tag) as FullSlug
@@ -80,9 +87,17 @@ export const TagPage: QuartzEmitterPlugin<FullPageLayout> = (userOpts) => {
           ext: ".html",
         })
 
-        fps.push(fp)
+      // If there are affected tags, rebuild their pages
+      if (affectedTags.size > 0) {
+        // We still need to compute all tags because tag pages show all tags
+        const [_tags, tagDescriptions] = computeTagInfo(allFiles, content, cfg.locale)
+
+        for (const tag of affectedTags) {
+          if (tagDescriptions[tag]) {
+            yield processTagPage(ctx, tag, tagDescriptions[tag], allFiles, opts, resources)
+          }
+        }
       }
-      return fps
     },
   }
 }

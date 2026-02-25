@@ -20,9 +20,12 @@ import { Mutex } from "async-mutex"
 
 async function buildQuartz(argv: Argv, clientRefresh: () => void) {
   const ctx: BuildCtx = {
+    buildId: randomIdNonSecure(),
     argv,
     cfg,
     allSlugs: [],
+    allFiles: [],
+    incremental: false,
   }
 
   const perf = new PerfTimer()
@@ -46,10 +49,11 @@ async function buildQuartz(argv: Argv, clientRefresh: () => void) {
   const allFiles = await glob("**/*.*", argv.directory, cfg.configuration.ignorePatterns)
   const fps = allFiles.filter((fp) => fp.endsWith(".md"))
   console.log(
-    `Found ${fps.length} input files from \`${argv.directory}\` in ${perf.timeSince("glob")}`,
+    `Found ${markdownPaths.length} input files from \`${argv.directory}\` in ${perf.timeSince("glob")}`,
   )
 
-  const filePaths = fps.map((fp) => joinSegments(argv.directory, fp) as FilePath)
+  const filePaths = markdownPaths.map((fp) => joinSegments(argv.directory, fp) as FilePath)
+  ctx.allFiles = allFiles
   ctx.allSlugs = allFiles.map((fp) => slugifyFilePath(fp as FilePath))
 
   const parsedFiles = await parseMarkdown(ctx, filePaths)
@@ -63,18 +67,28 @@ async function buildQuartz(argv: Argv, clientRefresh: () => void) {
 }
 
 // setup watcher for rebuilds
-async function startServing(
+async function startWatching(
   ctx: BuildCtx,
   initialContent: ProcessedContent[],
   clientRefresh: () => void,
 ) {
-  const { argv } = ctx
+  const { argv, allFiles } = ctx
+
+  const contentMap: ContentMap = new Map()
+  for (const filePath of allFiles) {
+    contentMap.set(filePath, {
+      type: "other",
+    })
+  }
 
   const ignored = await isGitIgnored()
   const contentMap = new Map<FilePath, ProcessedContent>()
   for (const content of initialContent) {
     const [_tree, vfile] = content
-    contentMap.set(vfile.data.filePath!, content)
+    contentMap.set(vfile.data.relativePath!, {
+      type: "markdown",
+      content,
+    })
   }
 
   const initialSlugs = ctx.allSlugs

@@ -6,7 +6,7 @@ tags:
 
 ## CRS 
 Dmid by [[Crynoore]], [[Deanamo]] and papakris1
-- [[CRS Episode 0 Prologue]]
+- [[CRS Episode 0]]
 - [[CRS Episode 1]]
 - [[CRS Episode 2]]
 - [[CRS Episode 3]]

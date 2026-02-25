@@ -2,7 +2,7 @@
 tags:
   - Story
   - CRS
-title: Joshua Is That you
+title: "Episode 3: Joshua Is That you"
 ---
 [[CRS Episode 2]]
 

@@ -2,7 +2,7 @@
 tags:
   - Story
   - CRS
-title: Skin Made of Iron, Steel in its Bones
+title: "Episode 2: Skin Made of Iron, Steel in its Bones"
 ---
 
 

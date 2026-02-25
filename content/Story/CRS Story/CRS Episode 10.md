@@ -2,7 +2,7 @@
 tags:
   - Story
   - CRS
-title: The Song Cut Short, Tide Goes Out
+title: "Episode 10: The Song Cut Short, Tide Goes Out"
 ---
 [[CRS Episode 9]]
 

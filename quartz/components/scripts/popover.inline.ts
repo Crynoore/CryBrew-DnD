@@ -13,18 +13,20 @@ export function normalizeRelativeURLs(el: Element | Document, base: string | URL
 }
 
 const p = new DOMParser()
+let activeAnchor: HTMLAnchorElement | null = null
+
 async function mouseEnterHandler(
-  this: HTMLLinkElement,
+  this: HTMLAnchorElement,
   { clientX, clientY }: { clientX: number; clientY: number },
 ) {
   const link = this
   async function setPosition(popoverElement: HTMLElement) {
     const { x, y } = await computePosition(link, popoverElement, {
+      strategy: "fixed",
       middleware: [inline({ x: clientX, y: clientY }), shift(), flip()],
     })
     Object.assign(popoverElement.style, {
-      left: `${x}px`,
-      top: `${y}px`,
+      transform: `translate(${x.toFixed()}px, ${y.toFixed()}px)`,
     })
   }
 
@@ -33,11 +35,8 @@ async function mouseEnterHandler(
     return setPosition(link.lastChild as HTMLElement)
   }
 
-  const thisUrl = new URL(document.location.href)
-  thisUrl.hash = ""
-  thisUrl.search = ""
   const targetUrl = new URL(link.href)
-  const hash = targetUrl.hash
+  const hash = decodeURIComponent(targetUrl.hash)
   targetUrl.hash = ""
   targetUrl.search = ""
   // prevent hover of the same page
@@ -56,26 +55,33 @@ async function mouseEnterHandler(
   if (elts.length === 0) return
 
   const popoverElement = document.createElement("div")
+  popoverElement.id = popoverId
   popoverElement.classList.add("popover")
   const popoverInner = document.createElement("div")
   popoverInner.classList.add("popover-inner")
   popoverElement.appendChild(popoverInner)
   elts.forEach((elt) => popoverInner.appendChild(elt))
 
-  setPosition(popoverElement)
-  link.appendChild(popoverElement)
-
-  if (hash !== "") {
-    const heading = popoverInner.querySelector(hash) as HTMLElement | null
-    if (heading) {
-      // leave ~12px of buffer when scrolling to a heading
-      popoverInner.scroll({ top: heading.offsetTop - 12, behavior: "instant" })
-    }
+  if (!!document.getElementById(popoverId)) {
+    return
   }
+
+  document.body.appendChild(popoverElement)
+  if (activeAnchor !== this) {
+    return
+  }
+
+  showPopover(popoverElement)
+}
+
+function clearActivePopover() {
+  activeAnchor = null
+  const allPopoverElements = document.querySelectorAll(".popover")
+  allPopoverElements.forEach((popoverElement) => popoverElement.classList.remove("active-popover"))
 }
 
 document.addEventListener("nav", () => {
-  const links = [...document.getElementsByClassName("internal")] as HTMLLinkElement[]
+  const links = [...document.querySelectorAll("a.internal")] as HTMLAnchorElement[]
   for (const link of links) {
     link.removeEventListener("mouseenter", mouseEnterHandler)
     link.addEventListener("mouseenter", mouseEnterHandler)

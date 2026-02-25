@@ -1,4 +1,4 @@
-import chalk from "chalk"
+import { styleText } from "util"
 import process from "process"
 import { isMainThread } from "workerpool"
 

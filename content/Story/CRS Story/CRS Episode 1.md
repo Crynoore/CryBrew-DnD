@@ -2,11 +2,11 @@
 tags:
   - Story
   - CRS
-title: Day of Cleansing
+title: "Episode 1: Day of Cleansing"
 ---
 
 
-[[CRS Episode 0 Prologue]]
+[[CRS Episode 0]]
 [[Caypolis]]
 Festival = Cleansing day
 

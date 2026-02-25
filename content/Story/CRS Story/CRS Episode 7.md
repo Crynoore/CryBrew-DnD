@@ -2,10 +2,11 @@
 tags:
   - Story
   - CRS
-title: The Heat is on
+title: "Episode 7: The Heat is on"
 ---
 
 [[CRS Episode 6]]
+
 ![[Screenshot (859).png]]
 ![[Screenshot (860).png]]
 ![[Screenshot (861).png]]

@@ -9,4 +9,4 @@ Origin feats
 
 Feats
 - [[Accelerated Master]]
-- 
+- [[Idiot Savant]]

@@ -8,6 +8,7 @@ import { FilePath, joinSegments } from "../util/path"
 import { QuartzLogger } from "../util/log"
 import { trace } from "../util/trace"
 import { BuildCtx } from "../util/ctx"
+import { styleText } from "util"
 
 export async function emitContent(ctx: BuildCtx, content: ProcessedContent[]) {
   const { argv, cfg } = ctx
@@ -34,11 +35,11 @@ export async function emitContent(ctx: BuildCtx, content: ProcessedContent[]) {
         for (const file of emitted) {
           console.log(`[emit:${emitter.name}] ${file}`)
         }
+      } catch (err) {
+        trace(`Failed to emit from plugin \`${emitter.name}\``, err as Error)
       }
-    } catch (err) {
-      trace(`Failed to emit from plugin \`${emitter.name}\``, err as Error)
-    }
-  }
+    }),
+  )
 
   log.end(`Emitted ${emittedFiles} files to \`${argv.output}\` in ${perf.timeSince()}`)
 }

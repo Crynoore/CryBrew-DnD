@@ -3,24 +3,29 @@
 .search {
   min-width: fit-content;
   max-width: 14rem;
-  flex-grow: 0.3;
+  @media all and ($mobile) {
+    flex-grow: 0.3;
+  }
 
-  & > #search-icon {
-    background-color: var(--lightgray);
+  & > .search-button {
+    background-color: transparent;
+    border: 1px var(--lightgray) solid;
     border-radius: 4px;
+    font-family: inherit;
+    font-size: inherit;
     height: 2rem;
+    padding: 0 1rem 0 0;
     display: flex;
     align-items: center;
+    text-align: inherit;
     cursor: pointer;
     white-space: nowrap;
-
-    & > div {
-      flex-grow: 1;
-    }
+    width: 100%;
 
     & > p {
       display: inline;
-      padding: 0 1rem;
+      color: var(--gray);
+      text-wrap: unset;
     }
 
     & svg {
@@ -31,13 +36,13 @@
 
       .search-path {
         stroke: var(--darkgray);
-        stroke-width: 2px;
+        stroke-width: 1.5px;
         transition: stroke 0.5s ease;
       }
     }
   }
 
-  & > #search-container {
+  & > .search-container {
     position: fixed;
     contain: layout;
     z-index: 999;
@@ -59,7 +64,7 @@
       margin-left: auto;
       margin-right: auto;
 
-      @media all and (max-width: $fullPageWidth) {
+      @media all and not ($desktop) {
         width: 90%;
       }
 

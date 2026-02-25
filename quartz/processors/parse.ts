@@ -4,7 +4,7 @@ import remarkRehype from "remark-rehype"
 import { Processor, unified } from "unified"
 import { Root as MDRoot } from "remark-parse/lib"
 import { Root as HTMLRoot } from "hast"
-import { ProcessedContent } from "../plugins/vfile"
+import { MarkdownContent, ProcessedContent } from "../plugins/vfile"
 import { PerfTimer } from "../util/perf"
 import { read } from "to-vfile"
 import { FilePath, QUARTZ, slugifyFilePath } from "../util/path"
@@ -12,7 +12,8 @@ import path from "path"
 import workerpool, { Promise as WorkerPromise } from "workerpool"
 import { QuartzLogger } from "../util/log"
 import { trace } from "../util/trace"
-import { BuildCtx } from "../util/ctx"
+import { BuildCtx, WorkerSerializableBuildCtx } from "../util/ctx"
+import { styleText } from "util"
 
 export type QuartzProcessor = Processor<MDRoot, HTMLRoot, void>
 export function createProcessor(ctx: BuildCtx): QuartzProcessor {
@@ -77,8 +78,8 @@ async function transpileWorkerScript() {
 
 export function createFileParser(ctx: BuildCtx, fps: FilePath[]) {
   const { argv, cfg } = ctx
-  return async (processor: QuartzProcessor) => {
-    const res: ProcessedContent[] = []
+  return async (processor: QuartzMdProcessor) => {
+    const res: MarkdownContent[] = []
     for (const fp of fps) {
       try {
         const perf = new PerfTimer()
@@ -101,10 +102,32 @@ export function createFileParser(ctx: BuildCtx, fps: FilePath[]) {
         res.push([newAst, file])
 
         if (argv.verbose) {
-          console.log(`[process] ${fp} -> ${file.data.slug} (${perf.timeSince()})`)
+          console.log(`[markdown] ${fp} -> ${file.data.slug} (${perf.timeSince()})`)
         }
       } catch (err) {
-        trace(`\nFailed to process \`${fp}\``, err as Error)
+        trace(`\nFailed to process markdown \`${fp}\``, err as Error)
+      }
+    }
+
+    return res
+  }
+}
+
+export function createMarkdownParser(ctx: BuildCtx, mdContent: MarkdownContent[]) {
+  return async (processor: QuartzHtmlProcessor) => {
+    const res: ProcessedContent[] = []
+    for (const [ast, file] of mdContent) {
+      try {
+        const perf = new PerfTimer()
+
+        const newAst = await processor.run(ast as MDRoot, file)
+        res.push([newAst, file])
+
+        if (ctx.argv.verbose) {
+          console.log(`[html] ${file.data.slug} (${perf.timeSince()})`)
+        }
+      } catch (err) {
+        trace(`\nFailed to process html \`${file.data.filePath}\``, err as Error)
       }
     }
 
@@ -114,6 +137,7 @@ export function createFileParser(ctx: BuildCtx, fps: FilePath[]) {
 
 const clamp = (num: number, min: number, max: number) =>
   Math.min(Math.max(Math.round(num), min), max)
+
 export async function parseMarkdown(ctx: BuildCtx, fps: FilePath[]): Promise<ProcessedContent[]> {
   const { argv } = ctx
   const perf = new PerfTimer()
@@ -127,9 +151,8 @@ export async function parseMarkdown(ctx: BuildCtx, fps: FilePath[]): Promise<Pro
   log.start(`Parsing input files using ${concurrency} threads`)
   if (concurrency === 1) {
     try {
-      const processor = createProcessor(ctx)
-      const parse = createFileParser(ctx, fps)
-      res = await parse(processor)
+      const mdRes = await createFileParser(ctx, fps)(createMdProcessor(ctx))
+      res = await createMarkdownParser(ctx, mdRes)(createHtmlProcessor(ctx))
     } catch (error) {
       log.end()
       throw error
@@ -141,17 +164,48 @@ export async function parseMarkdown(ctx: BuildCtx, fps: FilePath[]): Promise<Pro
       maxWorkers: concurrency,
       workerType: "thread",
     })
-
-    const childPromises: WorkerPromise<ProcessedContent[]>[] = []
-    for (const chunk of chunks(fps, CHUNK_SIZE)) {
-      childPromises.push(pool.exec("parseFiles", [argv, chunk, ctx.allSlugs]))
+    const errorHandler = (err: any) => {
+      console.error(err)
+      process.exit(1)
     }
 
-    const results: ProcessedContent[][] = await WorkerPromise.all(childPromises).catch((err) => {
-      const errString = err.toString().slice("Error:".length)
-      console.error(errString)
-      process.exit(1)
-    })
+    const serializableCtx: WorkerSerializableBuildCtx = {
+      buildId: ctx.buildId,
+      argv: ctx.argv,
+      allSlugs: ctx.allSlugs,
+      allFiles: ctx.allFiles,
+      incremental: ctx.incremental,
+    }
+
+    const textToMarkdownPromises: WorkerPromise<MarkdownContent[]>[] = []
+    let processedFiles = 0
+    for (const chunk of chunks(fps, CHUNK_SIZE)) {
+      textToMarkdownPromises.push(pool.exec("parseMarkdown", [serializableCtx, chunk]))
+    }
+
+    const mdResults: Array<MarkdownContent[]> = await Promise.all(
+      textToMarkdownPromises.map(async (promise) => {
+        const result = await promise
+        processedFiles += result.length
+        log.updateText(`text->markdown ${styleText("gray", `${processedFiles}/${fps.length}`)}`)
+        return result
+      }),
+    ).catch(errorHandler)
+
+    const markdownToHtmlPromises: WorkerPromise<ProcessedContent[]>[] = []
+    processedFiles = 0
+    for (const mdChunk of mdResults) {
+      markdownToHtmlPromises.push(pool.exec("processHtml", [serializableCtx, mdChunk]))
+    }
+    const results: ProcessedContent[][] = await Promise.all(
+      markdownToHtmlPromises.map(async (promise) => {
+        const result = await promise
+        processedFiles += result.length
+        log.updateText(`markdown->html ${styleText("gray", `${processedFiles}/${fps.length}`)}`)
+        return result
+      }),
+    ).catch(errorHandler)
+
     res = results.flat()
     await pool.terminate()
   }

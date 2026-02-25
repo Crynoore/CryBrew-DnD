@@ -3,7 +3,6 @@ import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 function TagList({ fileData }: QuartzComponentProps) {
   const tags = fileData.frontmatter?.tags
-  const baseDir = pathToRoot(fileData.slug!)
   if (tags && tags.length > 0) {
     return (
       <ul class="tags">

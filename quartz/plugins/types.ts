@@ -12,15 +12,16 @@ export interface PluginTypes {
 }
 
 type OptionType = object | undefined
+type ExternalResourcesFn = (ctx: BuildCtx) => Partial<StaticResources> | undefined
 export type QuartzTransformerPlugin<Options extends OptionType = undefined> = (
   opts?: Options,
 ) => QuartzTransformerPluginInstance
 export type QuartzTransformerPluginInstance = {
   name: string
-  textTransform?: (ctx: BuildCtx, src: string | Buffer) => string | Buffer
+  textTransform?: (ctx: BuildCtx, src: string) => string
   markdownPlugins?: (ctx: BuildCtx) => PluggableList
   htmlPlugins?: (ctx: BuildCtx) => PluggableList
-  externalResources?: (ctx: BuildCtx) => Partial<StaticResources>
+  externalResources?: ExternalResourcesFn
 }
 
 export type QuartzFilterPlugin<Options extends OptionType = undefined> = (
@@ -29,6 +30,12 @@ export type QuartzFilterPlugin<Options extends OptionType = undefined> = (
 export type QuartzFilterPluginInstance = {
   name: string
   shouldPublish(ctx: BuildCtx, content: ProcessedContent): boolean
+}
+
+export type ChangeEvent = {
+  type: "add" | "change" | "delete"
+  path: FilePath
+  file?: VFile
 }
 
 export type QuartzEmitterPlugin<Options extends OptionType = undefined> = (

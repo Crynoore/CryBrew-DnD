@@ -20,6 +20,7 @@ it will get finished trust me on that
 - [[Spells]]
 - [Weapons](Items.md)
 - [[Backgronds]]
+- [[Feats]]
 
 ### Lore and more
 

@@ -195,10 +195,10 @@ function _containsForbiddenCharacters(s: string): boolean {
 }
 
 function _hasFileExtension(s: string): boolean {
-  return _getFileExtension(s) !== undefined
+  return getFileExtension(s) !== undefined
 }
 
-function _getFileExtension(s: string): string | undefined {
+export function getFileExtension(s: string): string | undefined {
   return s.match(/\.[A-Za-z0-9]+$/)?.[0]
 }
 

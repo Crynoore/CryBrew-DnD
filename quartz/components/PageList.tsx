@@ -1,4 +1,4 @@
-import { FullSlug, resolveRelative } from "../util/path"
+import { FullSlug, isFolderPath, resolveRelative } from "../util/path"
 import { QuartzPluginData } from "../plugins/vfile"
 import { Date } from "./Date"
 import { QuartzComponentProps } from "./types"
@@ -22,6 +22,7 @@ export function byDateAndAlphabetical(f1: QuartzPluginData, f2: QuartzPluginData
 
 type Props = {
   limit?: number
+  sort?: SortFn
 } & QuartzComponentProps
 
 export function PageList({ fileData, allFiles, limit }: Props) {

@@ -2,9 +2,10 @@
 tags:
   - Story
   - CRS
-title: The Brotherhood Border
+title: "Episode 4: The Brotherhood Border"
 ---
 [[CRS Episode 3]]
+
 ![[Screenshot (855).png]]
 ![[Screenshot (856).png]]
 ![[Screenshot (857).png]]

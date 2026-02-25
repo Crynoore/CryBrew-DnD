@@ -24,12 +24,13 @@ export default (() => {
               <circle cx="8" cy="8" r="7" />
             </g>
           </svg>
-        </div>
-        <div id="search-container">
-          <div id="search-space">
+          <p>{i18n(cfg.locale).components.search.title}</p>
+        </button>
+        <div class="search-container">
+          <div class="search-space">
             <input
               autocomplete="off"
-              id="search-bar"
+              class="search-bar"
               name="search"
               type="text"
               aria-label="Search for something"

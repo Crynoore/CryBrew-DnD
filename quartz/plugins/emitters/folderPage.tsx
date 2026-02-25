@@ -3,11 +3,10 @@ import { QuartzComponentProps } from "../../components/types"
 import HeaderConstructor from "../../components/Header"
 import BodyConstructor from "../../components/Body"
 import { pageResources, renderPage } from "../../components/renderPage"
-import { ProcessedContent, defaultProcessedContent } from "../vfile"
+import { ProcessedContent, QuartzPluginData, defaultProcessedContent } from "../vfile"
 import { FullPageLayout } from "../../cfg"
 import path from "path"
 import {
-  FilePath,
   FullSlug,
   SimpleSlug,
   _stripSlashes,
@@ -21,11 +20,11 @@ export const FolderPage: QuartzEmitterPlugin<FullPageLayout> = (userOpts) => {
   const opts: FullPageLayout = {
     ...sharedPageComponents,
     ...defaultListPageLayout,
-    pageBody: FolderContent(),
+    pageBody: FolderContent({ sort: userOpts?.sort }),
     ...userOpts,
   }
 
-  const { head: Head, header, beforeBody, pageBody, left, right, footer: Footer } = opts
+  const { head: Head, header, beforeBody, pageBody, afterBody, left, right, footer: Footer } = opts
   const Header = HeaderConstructor()
   const Body = BodyConstructor()
 
@@ -41,12 +40,11 @@ export const FolderPage: QuartzEmitterPlugin<FullPageLayout> = (userOpts) => {
 
       const folders: Set<SimpleSlug> = new Set(
         allFiles.flatMap((data) => {
-          const slug = data.slug
-          const folderName = path.dirname(slug ?? "") as SimpleSlug
-          if (slug && folderName !== "." && folderName !== "tags") {
-            return [folderName]
-          }
-          return []
+          return data.slug
+            ? _getFolders(data.slug).filter(
+                (folderName) => folderName !== "." && folderName !== "tags",
+              )
+            : []
         }),
       )
 
@@ -89,7 +87,6 @@ export const FolderPage: QuartzEmitterPlugin<FullPageLayout> = (userOpts) => {
 
         fps.push(fp)
       }
-      return fps
     },
   }
 }

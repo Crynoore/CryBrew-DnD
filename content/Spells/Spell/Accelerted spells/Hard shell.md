@@ -2,6 +2,7 @@
 tags:
   - spell
   - Accelerated
+title: Hard Shell
 ---
 
 | Hard shell                    |

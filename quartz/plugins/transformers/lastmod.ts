@@ -1,5 +1,4 @@
 import fs from "fs"
-import path from "path"
 import { Repository } from "@napi-rs/simple-git"
 import { QuartzTransformerPlugin } from "../types"
 
@@ -12,16 +11,29 @@ const defaultOptions: Options = {
 }
 
 type MaybeDate = undefined | string | number
-export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options> | undefined> = (
-  userOpts,
-) => {
+export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (userOpts) => {
   const opts = { ...defaultOptions, ...userOpts }
   return {
     name: "CreatedModifiedDate",
-    markdownPlugins() {
+    markdownPlugins(ctx) {
       return [
         () => {
           let repo: Repository | undefined = undefined
+          let repositoryWorkdir: string
+          if (opts.priority.includes("git")) {
+            try {
+              repo = Repository.discover(ctx.argv.directory)
+              repositoryWorkdir = repo.workdir() ?? ctx.argv.directory
+            } catch (e) {
+              console.log(
+                styleText(
+                  "yellow",
+                  `\nWarning: couldn't find git repository for ${ctx.argv.directory}`,
+                ),
+              )
+            }
+          }
+
           return async (_tree, file) => {
             let created: MaybeDate = undefined
             let modified: MaybeDate = undefined

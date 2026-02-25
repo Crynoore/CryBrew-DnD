@@ -2,7 +2,7 @@
 tags:
   - Story
   - CRS
-title: The End of Njorp
+title: "Episode 6: The End of Njorp"
 ---
 
 [[CRS Episode 5]]

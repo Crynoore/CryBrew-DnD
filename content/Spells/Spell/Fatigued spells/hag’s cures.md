@@ -2,6 +2,7 @@
 tags:
   - Fatigued
   - spell
+title: Hag’s Cures
 ---
 
 | Hag’s cures                    |

@@ -2,6 +2,7 @@
 tags:
   - Fatigued
   - spell
+title: Brittle Bones
 ---
 
 | Brittle bones                  |

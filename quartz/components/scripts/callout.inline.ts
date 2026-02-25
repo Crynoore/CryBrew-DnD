@@ -27,7 +27,9 @@ function setupCallout() {
     `callout is-collapsible`,
   ) as HTMLCollectionOf<HTMLElement>
   for (const div of collapsible) {
-    const title = div.firstElementChild
+    const title = div.getElementsByClassName("callout-title")[0] as HTMLElement
+    const content = div.getElementsByClassName("callout-content")[0] as HTMLElement
+    if (!title || !content) continue
 
     if (title) {
       title.removeEventListener(`click`, toggleCallout)

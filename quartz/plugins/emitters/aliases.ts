@@ -42,6 +42,5 @@ export const AliasRedirects: QuartzEmitterPlugin = () => ({
         fps.push(fp)
       }
     }
-    return fps
   },
 })
