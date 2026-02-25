@@ -28,6 +28,7 @@ it will get finished trust me on that
 - [[Dangers Beings]]
 - [[Neutral Beings]]
 - [[Story]]
+- [[Map]]
 - [[Factions]]
 - [[Religions]]
 - [[Continents]]

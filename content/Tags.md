@@ -1,6 +1,6 @@
  #background #Balz #being #Book #City #consumables #continent #Creator #DangersBeings #Faction #food #Gods #illness #lore #Meterial #Place #Plant #Religion #Story #Species #Titan
 
- Classes
+### Classes
  - #Class 
  - #subclass 
  - #Artificer
@@ -16,7 +16,7 @@
  - #Summoner 
  - #Warlock 
  - #wizard 
-Items
+### Items
 - #Armor 
 - #Items 
 - #Weapons 
@@ -29,7 +29,7 @@ Items
 - #Staff 
 - #Longsword 
 - #Cane 
-Spells
+### Spells
 - #spell 
 - #lvl1spell 
 - #lvl2spell 
@@ -38,7 +38,7 @@ Spells
 - #astronomy 
 - #BloodMagic 
 - #cantrip 
-characters
+### characters
 - #character 
 - #FotM2024 
 - #CRS 

@@ -46,7 +46,7 @@ if you wonder why not every version is noted in here i do not update this tap ev
 - added CRS story 10 and 11
 - added new Yo-yo weapon type 
 - added 3 Yo-yo's 
-- added tage's to dead PC's
+- added tag's to dead PC's
 - working on IPB ranks rework
 #### Version 1.4.1
 - added new spells for [[Accelerated spells]] 
@@ -86,3 +86,5 @@ if you wonder why not every version is noted in here i do not update this tap ev
 - added a new [Dm](Dms) to the Team
 - added a ton of new characters 
 - updated to quartz 4.5.2
+#### Version 1.5
+- adding maps
