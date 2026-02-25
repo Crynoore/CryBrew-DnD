@@ -1,3 +1,8 @@
+---
+tags:
+  - Story
+  - LunarLegend
+---
 [[LL Episode 1]]
 
 as we wake up we hear a screaming sound and as we look up at a blue portal 

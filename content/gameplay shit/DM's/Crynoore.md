@@ -1,10 +1,11 @@
 ---
 tags:
   - Creator
+  - DM
 ---
-
-
-the guy that has a lot of lore to tell
+the guy that has a lot of lore to tell, maker of the word.
+and makes the most of the homebrew you will find on this wiki, also keeps the wiki updated.
+maker of WotT
 
 ### Dm for 
 - [[green-and-scales]]
@@ -16,3 +17,5 @@ the guy that has a lot of lore to tell
 - [[W1-g-Ch-El (Wigchel)]]
 - [[Orvos Tremus]]
 - [[Wey Scourge]]
+- [[Suute'ra]]
+- bol'lar

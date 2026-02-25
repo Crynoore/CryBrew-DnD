@@ -4,4 +4,4 @@ tags:
 ---
 
 
-when you hit a enemy with a roll of 14(roll+modifiers) you deal 2d4 extra damage 
+when you hit a enemy with a roll higher then 16 you deal 2d4 extra fire damage in a 10ft radius

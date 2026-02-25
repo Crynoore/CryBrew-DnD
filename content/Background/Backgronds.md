@@ -6,4 +6,3 @@ List of [[Feats]]
 [[Comradery]]
 
 **Feat**
-[[]]

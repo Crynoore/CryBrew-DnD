@@ -1,12 +1,18 @@
 ---
 title: Welcome to the Tale's of Titan's Wiki
 ---
-
 mostly adds stuff, changes some small things about dnd lore. and all the thing that are difference and or new you can find in here. there are also story's you can read the follow some Inhabitants of the world.
 
 run by [[Crynoore]] and [[Deanamo]]
 
-!!if a like does not work search it in the search bar!!
+other [[Dms]]
+
+**!!if a like does not work search it in the search bar!!**
+### WotT
+
+all new very cool in house TTRPG game
+it will get finished trust me on that
+[[WotT]]
 ### make your guy
 
 - [[Classes]]
@@ -30,8 +36,8 @@ run by [[Crynoore]] and [[Deanamo]]
 - [[Materials and Ingredients]]
 - [[Books]]
 - [[timeline]]
-- [[playlist's]]
 - [[gameplay shit]]
+- [[Universelore]]
 
 ### Tags
 to find some thing specific use tags

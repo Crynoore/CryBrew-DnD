@@ -4,5 +4,6 @@ based on
 
 - [[Chunk]]
 - [[Grima]] (died)
-- [[Aster]]
+- [[Aster]] (died)
+- [[MiMi]]
 - [[Wey Scourge]]

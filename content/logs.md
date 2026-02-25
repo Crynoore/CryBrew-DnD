@@ -72,3 +72,16 @@ if you wonder why not every version is noted in here i do not update this tap ev
 - change Cosmic Knowledge to a feature of Nebula Mage
 - added lvl's to most spells
 - rebalanced Cosmic Nebula
+#### Version 1.5
+- Finished LL Episode 
+- added the last few LL character
+- updated character tags
+- added new weapons
+- reorganised items
+- updated some items
+- NEW WoT has been added
+- added Universe lore tab
+- tried to fix dead links again
+- added the [[The Long Way Home Episode 1]] Mini Campain storry
+- added a new [Dm](Dms) to the Team
+- added a ton of new characters 

@@ -2,3 +2,4 @@
 
 - [[Deanamo]]
 - [[Crynoore]]
+- [[Hypno]]

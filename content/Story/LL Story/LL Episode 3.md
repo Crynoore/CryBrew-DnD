@@ -1,3 +1,8 @@
+---
+tags:
+  - Story
+  - LunarLegend
+---
 [[LL Episode 2]]
 
 i wake up when gunk tries to get something out of the fountain while streaming ‘’ let thare a fire’’

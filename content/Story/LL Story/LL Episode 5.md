@@ -1,3 +1,8 @@
+---
+tags:
+  - Story
+  - LunarLegend
+---
 [[LL Episode 4]]
 
 
@@ -140,3 +145,5 @@ spell rolls (command, cure wound, inflict would)
 there is a +1 greatsword that chunk takes it and he tells me to take it, i refuse but he uses a command scroll on me and force me to take it 
 
 i try to resist but i cant
+
+[[LL Episode 6]]

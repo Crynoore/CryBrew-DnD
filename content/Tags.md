@@ -1,4 +1,4 @@
- #background #Balz #being #Book #City #consumables #continent #Creator #DangersBeings #Faction #food #Gods #illness #lore #Meterial #NPC #Place #Plant #Religion #Story #Species #Titan #Dead 
+ #background #Balz #being #Book #City #consumables #continent #Creator #DangersBeings #Faction #food #Gods #illness #lore #Meterial #Place #Plant #Religion #Story #Species #Titan
 
  Classes
  - #Class 
@@ -46,3 +46,4 @@ characters
 - #TFHunters 
 - #NPC 
 - #Goons 
+- #Dead 

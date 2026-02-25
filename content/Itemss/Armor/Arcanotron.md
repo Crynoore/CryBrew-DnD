@@ -3,14 +3,8 @@ tags:
   - Armor
   - Items
 ---
-(new guy 1) what is this piece of .... material's ?
-(guy 2 working on the armour) its a prototype that [[Grasa]] was theorising about, and well i just kinde started making it
-(guy 1) does it work?
-(guy 2) well not really, i cant move it. but i have also not been able to break it
-(guy 1) so you just made a strong piece of wall,
-(guy 2) its one big piece of armour. 
-(guy 1) well i am going on break, you need anything?
-
+''could get drop from the highest mounten and the ground would break''
+[[Arcanotron lore]]
 
 A strong frame that holds a robust shell made to take a punch,
 

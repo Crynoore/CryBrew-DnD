@@ -1,3 +1,8 @@
+---
+tags:
+  - Story
+  - LunarLegend
+---
 [[LL Episode 3]]
 
 we awke to the sound of arrow hitting boards

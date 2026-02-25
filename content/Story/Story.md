@@ -5,6 +5,7 @@ tags:
 
 
 ## CRS 
+Dmid by [[Crynoore]], [[Deanamo]] and papakris1
 - [[CRS Episode 0 Prologue]]
 - [[CRS Episode 1 Day of Cleansing]]
 - [[CRS Episode 2 Skin Made of Iron, Steel in its Bones]]
@@ -20,10 +21,30 @@ tags:
 
 
 ## Lunar legends 
+Dm'd by [[Deanamo]]
 - [[LL Episode 1]]
 - [[LL Episode 2]]
 - [[LL Episode 3]]
 - [[LL Episode 4]]
 - [[LL Episode 5]]
+- [[LL Episode 6]]
+- [[LL Episode 7]]
+- [[LL Episode 8]]
+- [[LL Episode 9]]
+- [[LL Episode 10]]
+- [[LL Episode 11]]
+- [[LL Episode 12]]
+- [[LL Episode 13]]
+- [[LL Episode 14]]
+- [[LL Episode 15 (the Final)]]
+- [[LL Epilogue]]
+
+## The Long Way Home
+Dm'd by [[Hypno]]
+- [[The Long Way Home Prologue]]
+- [[The Long Way Home Episode 1]]
+- [[The Long Way Home Episode 2]]
 ## WIPname
+Dm'd by [[Crynoore]]
 - [[Episode 1 Drunken start]]
+
