@@ -2,11 +2,13 @@
 tags:
   - Story
   - CRS
+title: The Heat is on
 ---
 
-[[CRS Episode 6 The End of Njorp]]
+[[CRS Episode 6]]
 ![[Screenshot (859).png]]
 ![[Screenshot (860).png]]
 ![[Screenshot (861).png]]
+same with this one
 
-[[CRS Episode 8 The Sand and the Minarets]]
+[[CRS Episode 8]]

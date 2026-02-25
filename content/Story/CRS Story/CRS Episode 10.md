@@ -2,8 +2,9 @@
 tags:
   - Story
   - CRS
+title: The Song Cut Short, Tide Goes Out
 ---
-[[CRS Episode 9 The Heat of the Mountain]]
+[[CRS Episode 9]]
 
 as we leave the cave we do a little chatting and njerp does not remember alot of the fight since he got hit hard
 
@@ -157,4 +158,4 @@ i heal njerp and tell him what happends, and he is confused about the situation 
 
 i take maru’s harmonica in remembrens
 
-[[CRS Episode 11 Calm After the Storm]]
+[[CRS Episode 11]]

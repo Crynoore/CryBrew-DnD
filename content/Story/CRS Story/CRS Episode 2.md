@@ -2,10 +2,11 @@
 tags:
   - Story
   - CRS
+title: Skin Made of Iron, Steel in its Bones
 ---
 
 
-[[CRS Episode 1 Day of Cleansing]]
+[[CRS Episode 1]]
 
 when [[Garrick]] whent to go get the dragon he got in formed that a other guy (verry posh guy) 
 
@@ -172,4 +173,4 @@ They learn about the mark on the cog being related to the Moradlin, the Fearun g
 Nerup mentions a rainbow, and they see a shack in the distance.
 
 **
-[[CRS Episode 3 Joshua Is That you]]
+[[CRS Episode 3]]

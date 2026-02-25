@@ -7,17 +7,17 @@ tags:
 ## CRS 
 Dmid by [[Crynoore]], [[Deanamo]] and papakris1
 - [[CRS Episode 0 Prologue]]
-- [[CRS Episode 1 Day of Cleansing]]
-- [[CRS Episode 2 Skin Made of Iron, Steel in its Bones]]
-- [[CRS Episode 3 Joshua Is That you]]
-- [[CRS Episode 4 The Brotherhood Border]]
-- [[CRS Episode 5 The Deep Lake]]
-- [[CRS Episode 6 The End of Njorp]]
-- [[CRS Episode 7 The Heat is on]]
-- [[CRS Episode 8 The Sand and the Minarets]]
-- [[CRS Episode 9 The Heat of the Mountain]]
-- [[CRS Episode 10 The Song Cut Short, Tide Goes Out]]
-- [[CRS Episode 11 Calm After the Storm]]
+- [[CRS Episode 1]]
+- [[CRS Episode 2]]
+- [[CRS Episode 3]]
+- [[CRS Episode 4]]
+- [[CRS Episode 5]]
+- [[CRS Episode 6]]
+- [[CRS Episode 7]]
+- [[CRS Episode 8]]
+- [[CRS Episode 9]]
+- [[CRS Episode 10]]
+- [[CRS Episode 11]]
 
 
 ## Lunar legends 

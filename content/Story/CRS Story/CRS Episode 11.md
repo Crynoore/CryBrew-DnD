@@ -2,8 +2,9 @@
 tags:
   - CRS
   - Story
+title: " Calm After the Storm"
 ---
-[[CRS Episode 10 The Song Cut Short, Tide Goes Out]]
+[[CRS Episode 10]]
 
 as i lay over njerps unconsiun body 
 

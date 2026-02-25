@@ -2,9 +2,10 @@
 tags:
   - Story
   - CRS
+title: The End of Njorp
 ---
 
-[[CRS Episode 5 The Deep Lake]]
+[[CRS Episode 5]]
 
 galrick shoots the wall
 
@@ -252,4 +253,4 @@ Long Rest
 
 end up the edge of the desert
 
-[[CRS Episode 7 The Heat is on]]
+[[CRS Episode 7]]

@@ -2,6 +2,7 @@
 tags:
   - Story
   - CRS
+title: Day of Cleansing
 ---
 
 
@@ -116,4 +117,4 @@ el rocko- god of rocks and pebbles
 we defeated and buried 2x Wolfs
 Hom
 
-[[CRS Episode 2 Skin Made of Iron, Steel in its Bones]]
+[[CRS Episode 2]]

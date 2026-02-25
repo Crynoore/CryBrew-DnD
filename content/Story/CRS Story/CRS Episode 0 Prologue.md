@@ -2,6 +2,7 @@
 tags:
   - Story
   - CRS
+title: Prologue
 ---
 
 
@@ -24,4 +25,4 @@ day of clensing
 
 now 80 years (year 1688) later your story begins [[*start* anime esk intro]](https://www.youtube.com/watch?v=G6uw7DbUH8k&ab_channel=GilvaSunner%3AArchive)**
 
-[[CRS Episode 1 Day of Cleansing]]
+[[CRS Episode 1]]

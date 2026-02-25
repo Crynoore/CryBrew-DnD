@@ -2,22 +2,19 @@
 tags:
   - Story
   - CRS
+title: The Deep Lake
 ---
 
 
-[[CRS Episode 4 The Brotherhood Border]]
+[[CRS Episode 4]]
 
 strand 2 guys dolk en nog een guy 
 
-
 sara funny remark over drug trefecting 
-
 
 njerp small fleshback 17 wifes 
 
-
 small comp swimming 
-
 
 maru investigate Lake egels (deels 1 piersing dmg) 
 
@@ -43,7 +40,7 @@ aronim-e doss not kill the fish guy 
 
 we follow the fish guy to a town (he was lying)
 
-==we arrive in haojboe=== (lost lake town)
+we arrive in haojboe (lost lake town)
 
 thay are sara type of fish 
 
@@ -212,4 +209,4 @@ king crow pholoftseone 
 
 Bro wij Skip-e-die
 
-[[CRS Episode 6 The End of Njorp]]
+[[CRS Episode 6]]
