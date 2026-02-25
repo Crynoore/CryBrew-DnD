@@ -16,3 +16,4 @@ NoD + the 2 highest rolls = heal
 
 then gain NoD x2 as temporary HP
 
+

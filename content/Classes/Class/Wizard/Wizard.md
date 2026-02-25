@@ -6,3 +6,6 @@ tags:
 
 
 [Wizard wikidot](https://dnd5e.wikidot.com/wizard)
+
+subclasses
+[[Nebula Mage]]

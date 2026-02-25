@@ -4,6 +4,7 @@
 - [[The Guild of Science]]
 - [[The Imperial Brotherhood]]
 - [[Faction of fused Flesh]]
+- [[The Scaled Reapers]]
 
 Disbanded Factions
 - [[Singni-us]]

@@ -2,7 +2,13 @@
 tags:
   - WotT
 ---
-
+- [[WotT Character Creation]]
+- [[WotT Effects]]
+- [[WotT Feats]]
+- [[WotT Spells]]
+- [[WotT tree 1]]
+- [[WotT tree 2]]
+- [[WotT tree 3]]
 
 Everything in here is of course “unless stated otherwise”
 
