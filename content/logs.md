@@ -85,3 +85,4 @@ if you wonder why not every version is noted in here i do not update this tap ev
 - added the [[The Long Way Home Episode 1]] Mini Campain storry
 - added a new [Dm](Dms) to the Team
 - added a ton of new characters 
+- updated to quartz 4.5.2
