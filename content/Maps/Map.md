@@ -1,26 +1,28 @@
 
 
-```filters: file.hasProperty("marker")
+
+```base
 views:
-type: leaflet-map
-name: Map
-mapName: test
-image: Balz.png
-minZoom: -1.5
-maxZoom: 2
-defaultZoom: -1.5
-zoomDelta: 0.5
-scale: "0.2"
-height: 400
-unit: km
-id: Map-map 
-lock: true 
-recenter: false 
-noScrollZoom: false 
-bounds: [[0,0], [198, 352]] 
-height: 4608px 
-width: 177.7% 
-lat: -850 
-long: 310 
-darkMode: false 
+  - type: leaflet-map
+    name: Balz
+    mapName: MapBalz
+    image: xpngs/map png/Balz.png
+    height: 400
+    minZoom: -1.5
+    maxZoom: 2
+    defaultZoom: -1.5
+    zoomDelta: 0.25
+    scale: "0.2"
+    unit: km
+```
+```leaflet
+id: leaflet-map
+image: xpngs/map png/Balz.png
+lat: 50
+long: 50
+minZoom: 1
+maxZoom: 10
+defaultZoom: 5
+unit: meters
+scale: 1
 ```
