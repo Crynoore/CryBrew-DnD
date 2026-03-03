@@ -86,5 +86,9 @@ if you wonder why not every version is noted in here i do not update this tap ev
 - added a new [Dm](Dms) to the Team
 - added a ton of new characters 
 - updated to quartz 4.5.2
-#### Version 1.5
+#### Version 1.5.1
 - adding maps
+- added 1 new spell
+- added more information about some spells
+- updated [[Titanborn]] to the 2024 rule set
+- updated races to be species

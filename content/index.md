@@ -16,7 +16,7 @@ it will get finished trust me on that
 ### make your guy
 
 - [[Classes]]
-- [[Races]]
+- [[Species]]
 - [[Spells]]
 - [Weapons](Items.md)
 - [[Backgronds]]

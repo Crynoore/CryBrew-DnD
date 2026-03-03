@@ -13,4 +13,4 @@ tags:
 | Accelerated Dice : d4          |
 NoD = amount of 5ft place this spell deals it dmg
 
-deals 1d6 force dmg
+deals 1d6 + spellcaster modifier force dmg
