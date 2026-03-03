@@ -1,3 +1,7 @@
+---
+tags:
+  - IBH
+---
 
 Contract for Membership in [[The Imperial Brotherhood]]
 

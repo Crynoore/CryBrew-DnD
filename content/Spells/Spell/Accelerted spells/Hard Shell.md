@@ -2,6 +2,7 @@
 tags:
   - spell
   - Accelerated
+  - lvl3spell
 ---
 
 | Hard shell                    |

@@ -1,6 +1,7 @@
 ---
 tags:
   - Faction
+  - IBH
 ---
 
 
@@ -20,6 +21,10 @@ if you join the Brotherhood you get some perks that will increase over time and 
 | 3-5 years | - you get a room in a Brotherhood Stronghold <br>- you get a monthly allowance<br>- you get access to basic amenities at the Stronghold<br>- you get more vacation |
 | 6-8 years | - you get a higher allowance<br>- you get access to most thing at the Stronghold<br>- you get even more vacation                                                   |
 | 8+ years  | - your rank likely gives you better perks at this point                                                                                                            |
+### Brotherhood greeting
+you put your right fist on your left shoulder
+
+### Brotherhood Ranks
 
 - [[Brotherhood Initiate]]
 - [[Brotherhood Empiric]]

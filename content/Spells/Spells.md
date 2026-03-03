@@ -19,6 +19,7 @@ if you cant click on the spells look them up in the search bar
 - [[Aligned Stars]]
 ### Accelerated spells
 [[Accelerated spells]] explanation
+- [[Cyrus's Air Barrage]]
 - [[Hard Shell]]
 - [[Healing Well]]
 - [[Thunderstorm]]

@@ -1,8 +1,8 @@
 ---
 tags:
   - spell
-  - cantrip
   - astronomy
+  - lvl2spell
 ---
 
 | Cosmic Nebula                    |
@@ -11,7 +11,7 @@ tags:
 | **Range:** 120 feet              |
 | **Target:** A point within range |
 | **Components:** V, S             |
-| **Spell level:** 0               |
+| **Spell level:** 2               |
 
 
 summons a nebula the contains a lot of different materials.

@@ -3,6 +3,7 @@ tags:
   - spell
   - Accelerated
 ---
+abjuration
 
 | Healing well                   |
 | ------------------------------ |

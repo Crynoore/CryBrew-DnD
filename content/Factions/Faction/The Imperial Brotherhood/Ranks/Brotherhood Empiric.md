@@ -1,3 +1,7 @@
+---
+tags:
+  - IBH
+---
 does shit for [[The Imperial Brotherhood]]
 
 comes form [[Brotherhood Initiate]]
