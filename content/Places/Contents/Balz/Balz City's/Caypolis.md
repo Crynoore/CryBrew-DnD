@@ -4,6 +4,7 @@ tags:
   - Balz
 marker:
   - coordinates: 6695, 5128
+  - mapName: MapWorld
   - minZoom: 1
 ---
 

@@ -87,8 +87,12 @@ if you wonder why not every version is noted in here i do not update this tap ev
 - added a ton of new characters 
 - updated to quartz 4.5.2
 #### Version 1.5.1
-- adding maps
+- adding interactive map
 - added 1 new spell
 - added more information about some spells
 - updated [[Titanborn]] to the 2024 rule set
 - updated races to be species
+#### Version 1.5.2
+- Fix interactive map
+- added marker on the interactive map
+- added some missing links between stuff

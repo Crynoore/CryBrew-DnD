@@ -4,6 +4,7 @@ tags:
   - City
 marker:
   - coordinates: 7153, 5149
+  - mapName: MapWorld
   - minZoom: 1
 ---
 
