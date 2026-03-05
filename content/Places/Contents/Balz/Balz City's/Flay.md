@@ -2,6 +2,10 @@
 tags:
   - Balz
   - City
+marker:
+  - coordinates: 6165, 4978
+  - minZoom: 1
+---
 ---
 
 is a City in [[Balz]]

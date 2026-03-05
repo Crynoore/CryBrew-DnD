@@ -2,6 +2,9 @@
 tags:
   - Balz
   - City
+marker:
+  - coordinates: 6720, 4872
+  - minZoom: 1
 ---
 
 

@@ -3,6 +3,6 @@ tags:
   - Balz
   - City
 marker:
-  - coordinates: 6767, 5085
+  - coordinates: 6963, 4917
   - minZoom: 1
 ---

@@ -2,6 +2,9 @@
 tags:
   - Balz
   - City
+marker:
+  - coordinates: 7207, 4943
+  - minZoom: 1
 ---
 
 is a city on the northwest side of [[Balz]] 

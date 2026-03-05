@@ -1,8 +1,10 @@
 ---
 tags:
   - City
+  - Balz
 marker:
-    - coordinates: 6685, 5125
+  - coordinates: 6695, 5128
+  - minZoom: 1
 ---
 
 Caypolis is a city [[Balz]]
