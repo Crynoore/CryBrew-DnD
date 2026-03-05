@@ -1,8 +1,15 @@
+---
+tags: marker
+---
+---
+
+
 is one of the [[Continents]] in Tale's of the Titans
 
 [[Citys of Balz]]
 
 [[Places in Balz]]
+
 
 was a dwarven continan for the longest time 
 

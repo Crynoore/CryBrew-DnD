@@ -11,4 +11,4 @@ the green and scales party consists of 5 members
 
 Dead PC's
 - [[Sarah]]
-- - [[Maru]]	
+- [[Maru]]	

@@ -15,9 +15,3 @@ Infection can be cured with lesser restoration cast with a spell slot of 2nd lev
 Antidote: The Red Berry**
 
 ''cured'' version
-
-after consuming [[Red Berry Extract]]
-
-you will not die 
-
-you just get a disadvantage when you roll Initiative

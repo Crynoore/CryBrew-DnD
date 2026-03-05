@@ -1,3 +1,10 @@
+---
+tags:
+  - City
+marker:
+    - coordinates: 6685, 5125
+---
+
 Caypolis is a city [[Balz]]
 
 is the start of the campaign

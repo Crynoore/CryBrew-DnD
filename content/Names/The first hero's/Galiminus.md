@@ -12,13 +12,13 @@ is one of the [[First-hero's]]
 
 We did it, we saved [[The First Continent]]
 
-Took us long enough, I have seen every part of that place and I'm fine not seeing 80% of never again.
+Took us long enough, I have seen every part of that place and I'm fine not seeing 80% of it ever again.
 
 But now that I have seen all of the first continent and the discovery of other land masses I want to see them.
 
   
 
-i'll start with [[Faerun]]
+i'll start with [[Ulfberht]]
 
 it look to be the most interesting of the ones we know currently
 
@@ -26,7 +26,7 @@ I mean if your competition is a place called [[Balz|The Continent of Bâlz]], yo
 
 Also the dwarfs are not that happy that the humans have taken about 40% of their land for themselves.
 
-and i think I deserve a break after 15 years of combat, talking about combat i did not see [[Olvin]] et or great event.
+and i think I deserve a break after 15 years of combat, talking about combat i did not see [[Olvin]] at the great event.
 
 I think that guy has the toughest time of us all, he needs to get some time to rest.
 
@@ -57,17 +57,12 @@ but we still have time before that happens, now for us to enjoy Faerûn and all 
 
 So the plans are to go to the following 
 
--Neverwinter big library
-
--waterdeep
-
--baldur's gate
-
--helm’s hold
-
--Candlekeep big library
-
--Karse
+- Neverwinter big library
+- waterdeep
+- baldur's gate
+- helm’s hold
+- Candlekeep big library
+- Karse
 
   
 
@@ -123,77 +118,63 @@ I have found a place that will allow me to see the god that abandoned me when I 
 
 **The Plane of balance**
 
-  
+Galiminus : TELL ME WHY YOU NEVER INTERACTED WITH ME.
 
-Galiminus: TELL ME WHY YOU NEVER INTERACTED WITH ME.
+Begalaz : ow You wanna know why all this time no god has answered You.
 
-Begalaz: ow You wanna know why all this time no god has answered You.
+Galiminus : YES.
 
-Galiminus: YES.
+Begalaz : they are likely Scared.
 
-Begalaz: they are likely Scared.
-
-Galiminus: AND WAY WOULD THAT BE.
+Galiminus : AND WAY WOULD THAT BE.
 
 Begalaz : do you even know who you are yelling to
 
-Galiminus: no(scared)
+Galiminus : no(scared)
 
-Begalaz :(yells)I'm Begalaz the god of balance, and I made my mark on you when you were small.
+Begalaz : (yells)I'm Begalaz the god of balance, and I made my mark on you when you were small. And no other sane god would dare come close to you. 1 god did but he is forgotten by now.
 
-And no other sane god would dare come close to you. 1 god did but he is forgotten by now.
+Galiminus : (remember the small amount of connection he felt when he was a kid)
 
-Galiminus:(remember the small amount of connection he felt when he was a kid)
-
-begalaz :you are special, you don't need to pledge your allegiance to one god.
+begalaz : you are special, you didn't pledge your allegiance to one god. and yet....
 
 You must have known, how else were you able to use your magic, it is not like you studied like your friend thare , it's not even in your bloodline, and yet you use it like you know every god.
 
-Galiminus:(stunt)
+Galiminus : (stunt)
 
-Begalaz :and now that you are here we can chat .
+Begalaz : and now that you are here we can chat .
 
-Galiminus:.……
+Galiminus :.……
 
-Begalaz :don't be scared now, you were yelling at me just a minute ago. 
+Begalaz : don't be scared now, you were yelling at me just a minute ago. 
 
-Galiminus:So you are the reason I was a failure.
+Galiminus : So you are the reason I was a failure.
 
 Begalaz : I wouldn't call it that.
 
-Galiminus:those people shitted on me for my inability to connect to a god.
+Galiminus : those people shitted on me for my inability to connect to a god.
 
-Begalaz :Don't look so shallow into it.
+Begalaz : Don't look so shallow into it.
 
-Galiminus:You made my life a hell.
+Galiminus : You made my life a hell.
 
-Begalaz :and here I thought you of all people would be different, and yet i Am disappointed.
-
-What did you gain form this?
+Begalaz : and here I thought you of all people would be different, and yet i Am disappointed. What did you gain form this?
 
 Galiminus : pain
 
-begalaz: no think 
+begalaz : no think 
 
-Galiminus :about what
+Galiminus : about what
 
-Begalaz :what did you do after all that
+Begalaz : what did you do after all that
 
 Galiminus : i …i..
 
-Begalaz : I will just say it since you are taking your time and you don't have a lot of that.
-
-You went on the adventure to prove that you had something for a god. That every god that missed its chance to get you failed.
-
-But no god ever answered your cry's.
+Begalaz : I will just say it since you are taking your time and you don't have a lot of that. You went on the adventure to prove that you had something for a god. That every god that missed its chance to get you failed. But no god ever answered your cry's.
 
 Galiminus :........
 
-Begalaz : and after That you made your way here to solve why.
-
-And now I give it to you ,the reason that no god wants to work with you.
-
-Me
+Begalaz : and after That you made your way here to solve why. And now I give it to you ,the reason that no god wants to work with you.( Menacingly) Me...
 
 Galiminus :y-you M-mon(ster)
 
@@ -211,8 +192,4 @@ You Humans may be Petty but us gods are worse.
 
 Galiminus : why now
 
-Begalaz : well you See I tried many times but your fat skull never accepted my messages.
-
-And I have enough to do so I didn't have time to go to you. And well you just came to me So that sparse Me a trip.
-
-So do you accept to be my servant**
+Begalaz : well you See I tried many times but your fat skull never accepted my messages. And I have enough to do so I didn't have time to go to you. And well you just came to me So that sparse Me a trip. So do you accept to be my servant
