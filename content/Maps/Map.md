@@ -8,8 +8,6 @@ tags:
 views:
   - type: leaflet-map
     name: WorldMap
-    order:
-      - file.name
     mapName: MapWorld
     image: Blank 1 world map.png
     height: 400
