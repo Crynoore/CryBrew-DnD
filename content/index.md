@@ -5,7 +5,7 @@ mostly adds stuff, changes some small things about dnd lore. and all the thing t
 
 run by [[Crynoore]] and [[Deanamo]]
 
-other [[Dms]]
+other [[DMS]]
 
 **!!if a like does not work search it in the search bar!!**
 ### WotT
@@ -45,7 +45,7 @@ to find some thing specific use tags
 - [[Tags]]
 
 
-Version 1.5 of the wiki is out NOW 
+Version 1.5.3 of the wiki is out NOW 
 [[logs]]
 
 
