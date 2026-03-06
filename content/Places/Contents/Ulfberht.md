@@ -2,6 +2,7 @@
 tags:
   - continent
   - Ulfberht
+  - marker
 marker:
   - coordinates: 8813, 5159
     mapName: MapWorld

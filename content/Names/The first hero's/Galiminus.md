@@ -26,7 +26,7 @@ I mean if your competition is a place called [[Balz|The Continent of Bâlz]], yo
 
 Also the dwarfs are not that happy that the humans have taken about 40% of their land for themselves.
 
-and i think I deserve a break after 15 years of combat, talking about combat i did not see [[Olvin]] at the great event.
+and i think I deserve a break after 15 years of combat, talking about combat i did not see [[Names/The first hero's/Olvin]] at the great event.
 
 I think that guy has the toughest time of us all, he needs to get some time to rest.
 

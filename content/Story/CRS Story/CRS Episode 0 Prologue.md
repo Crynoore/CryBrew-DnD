@@ -9,13 +9,13 @@ the year is 1567 a great evil wend over [[The First Continent]] with this most p
 but in the year 1592 a group of adventures whet back to the first continent to cleanse the place 
 
 this party contain  
-The great fearsome warrior [[Olvin]]
+The great fearsome warrior [[Names/The first hero's/Olvin]]
 
 The handsome young Bard [[Ulysses]]
 
 The wise archmage [[Cyrus]]
 
-and The mastermind (paladin) [[Galiminus]] 
+and The mastermind (paladin) [[Names/The first hero's/Galiminus]] 
 
 on there avenger they help getting [[The First Continent]] back to the former glory 
 

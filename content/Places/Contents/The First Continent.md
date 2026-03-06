@@ -1,6 +1,7 @@
 ---
 tags:
   - continent
+  - marker
 marker:
   - coordinates: 6732, 7806
     mapName: MapWorld

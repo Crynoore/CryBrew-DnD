@@ -1,6 +1,7 @@
 ---
 tags:
   - Balz
+  - City
 marker:
   - coordinates: 7301, 5542
     mapName: MapWorld

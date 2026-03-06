@@ -40,7 +40,7 @@ I guess those are things he will have to figure out on his own. :)
 
 BIG PROBLEM
 
-[[Galiminus]] is coming to my isle and i have a dragon
+[[Names/The first hero's/Galiminus]] is coming to my isle and i have a dragon
 
 How am I going to explain this to him?
 
@@ -54,7 +54,7 @@ Maybe I can try to keep him in one of the towers on the edge of the islands.
 
 ### -Day 18: well i guess he is Officially part of the family.-
 
-[[Galiminus]] came a week earlier than he said, not like him to not follow the plans so strict
+[[Names/The first hero's/Galiminus]] came a week earlier than he said, not like him to not follow the plans so strict
 
 but hey he is getting older as well.
 
@@ -70,7 +70,7 @@ but i gave in and he is officially his uncle and he convinced me to name it more
 
 ### -Day 63: human i guess-
 
-[[Galiminus]] had an idea of making Aronim-e a human so he could leave the island and come visit him. i said that it was gonna be way too hard i mean its a dragon known for being well.. full of magic, how am i supposed to make something to convert all that in to a small form 
+[[Names/The first hero's/Galiminus]] had an idea of making Aronim-e a human so he could leave the island and come visit him. i said that it was gonna be way too hard i mean its a dragon known for being well.. full of magic, how am i supposed to make something to convert all that in to a small form 
 
 but it would help because he is starting to get too big to fit into the main room.
 
@@ -80,13 +80,13 @@ i will try, but i don't think i will be able to do this
 
 ### -Day 67: Yagor the man-..
 
-[[Galiminus]] came on another surprise visit and told me about a prodigy called [[Yagor]]
+[[Names/The first hero's/Galiminus]] came on another surprise visit and told me about a prodigy called [[Yagor]]
 
 He makes magical things like no other, he said.
 
 I will go on a little trip to see what it is all about and if he is so good I will invest in some equipment.
 
-Now that [[Galiminus]] is here I can leave the island and keep Aronim-e supervised by someone.
+Now that [[Names/The first hero's/Galiminus]] is here I can leave the island and keep Aronim-e supervised by someone.
 
 at least i will not need to worry about the whole island standing in flames
 
@@ -118,7 +118,7 @@ But that's why I gotta make this thing.
 
 I heard about a book of curses and know not really something you want to give to your son but you know it is what it is.
 
-so i send [[Galiminus]] to find it for me 
+so i send [[Names/The first hero's/Galiminus]] to find it for me 
 
 cursed items will like have a higher amount of mana infuse with it so i have i can make something work without any side effects,
 
@@ -128,7 +128,7 @@ and the transforming part is mostly figured out.
 
 ### -Day 107: the book and the sheeps-
 
-[[Galiminus]] got the book. Now I just figured out how to use the thing in the book, and I would like to finish it fast.
+[[Names/The first hero's/Galiminus]] got the book. Now I just figured out how to use the thing in the book, and I would like to finish it fast.
 
 all the merchants started looking weird at me now that i come by every week and buy 5 sheep 
 
@@ -142,19 +142,19 @@ Hopefully I will finish the process of making something.
 
 I finished it. It should work. I have checked everything like 5 times, and I can't think of any reason why it wouldn't work.
 
-so now i just have to wait for [[Galiminus]] to arrive he wanted to be there when Aronim-e was becoming a real boy, he should arrive in a week or so.
+so now i just have to wait for [[Names/The first hero's/Galiminus]] to arrive he wanted to be there when Aronim-e was becoming a real boy, he should arrive in a week or so.
 
   
 
 ### -Day 144: Its time-
 
-[[Galiminus]] has arrived on the ile.
+[[Names/The first hero's/Galiminus]] has arrived on the ile.
 
-Now just to get it on him, it's a necklace made from [[Cosmic Brass]], some material I got from [[Yagor]]. [[Galiminus]] made it into a ouroboros of a dragon, he found it fitting for a dragon.
+Now just to get it on him, it's a necklace made from [[Cosmic Brass]], some material I got from [[Yagor]]. [[Names/The first hero's/Galiminus]] made it into a ouroboros of a dragon, he found it fitting for a dragon.
 
 I have chosen a curse of binding for it since it is not really the idea for him to take it off and it made infusing it with enough mana easier. 
 
-[[Galiminus]] also got him a small gift its a family binding to make him really part of the family 
+[[Names/The first hero's/Galiminus]] also got him a small gift its a family binding to make him really part of the family 
 
 i know he wanted a dragon as a pet when he was small but this is going a bit far 
 
@@ -176,7 +176,7 @@ it was just protecting its child 
 
 at least thats is how i think of it 
 
-[[Galiminus]] is more on the you raise him well and that's why he didn't kill you 
+[[Names/The first hero's/Galiminus]] is more on the you raise him well and that's why he didn't kill you 
 
 but i think there's more to this than just that but hey i still have time to figure that out 
 
@@ -198,7 +198,7 @@ I wanna know what dragons are all about. All that is written in books is how the
 
   
 
-It does help that [[Galiminus]] wants to see Aronim-e again so I gave him an invite to come to my island and look after him for a while.
+It does help that [[Names/The first hero's/Galiminus]] wants to see Aronim-e again so I gave him an invite to come to my island and look after him for a while.
 
 The other guy from the old party finds it weird that I still do so much research and only live on my island. I heard that [[Ulysses]] bought a huge castle in Bâlz and regularly throws massive parties. That is no big surprise knowing him he has about 60 children rn.
 
@@ -244,7 +244,7 @@ you might hear stories of me that make me out as a wise, calm and fearless man,
 
 but just know that i was more like a scared rat even now i'm scared,
 
-if you want to know more go to your uncle [[Galiminus]] he is the only other person that knows about you.
+if you want to know more go to your uncle [[Names/The first hero's/Galiminus]] he is the only other person that knows about you.
 
 now you have my permission to leave the ile.’’
 
@@ -256,7 +256,7 @@ but he didn't leave not for a while but he knows that one day he will have to le
 
   
 
-after [[Cyrus]] died Aronim-e left the island ([[iIe of Cyrus]])
+after [[Cyrus]] died Aronim-e left the island ([[IIe of Cyrus]])
 
 to find out what he was gonna do with his time 
 
@@ -281,6 +281,6 @@ but the necklace that Aronim-e had he could only say was storing a lot of energy
 
 with this he went on his way and became friend ([[Fezel]])with a archer that Taught him how to use a bow and with this knowledge and [[Fezel]] telling him about the land of Bâlz 
 
-trying to find a lead to a relative of [[Galiminus]].
+trying to find a lead to a relative of [[Names/The first hero's/Galiminus]].
 
 **
