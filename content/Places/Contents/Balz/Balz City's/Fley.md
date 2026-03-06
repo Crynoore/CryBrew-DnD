@@ -4,8 +4,8 @@ tags:
   - City
 marker:
   - coordinates: 6323, 4840
-  - mapName: MapWorld
-  - minZoom: 1
+    mapName: MapWorld
+    minZoom: -2.5
 ---
 is a City in [[Balz]]
 

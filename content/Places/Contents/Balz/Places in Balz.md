@@ -8,6 +8,6 @@ all the place's in [[Balz]]
 - [[Outer Site Island's]]
 - [[Calamity Canion]]
 - [[hollow Sword's Hill]]
-- [[glass oasis]]
+- [[Glass Oasis]]
 
 

@@ -3,8 +3,10 @@ tags:
   - Balz
   - PoI
 marker:
-  - coordinates: 6917, 5669
+  - coordinates: 7155, 5208
     mapName: MapWorld
-    minZoom: -2
+    minZoom: -2.5
     colour: "#f44546"
 ---
+
+

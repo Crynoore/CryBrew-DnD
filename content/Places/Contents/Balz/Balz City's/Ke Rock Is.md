@@ -4,8 +4,8 @@ tags:
   - City
 marker:
   - coordinates: 6720, 4872
-  - mapName: MapWorld
-  - minZoom: 1
+    mapName: MapWorld
+    minZoom: -2.5
 ---
 
 

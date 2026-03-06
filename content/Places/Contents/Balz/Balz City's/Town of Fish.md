@@ -4,8 +4,8 @@ tags:
   - City
 marker:
   - coordinates: 6863, 5062
-  - mapName: MapWorld
-  - minZoom: 0
+    mapName: MapWorld
+    minZoom: -2.5
 ---
 
 

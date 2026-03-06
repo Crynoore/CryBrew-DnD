@@ -4,7 +4,7 @@ tags:
   - PoI
 marker:
   - coordinates: 6614, 4772
-  - minZoom: 1
-  - mapName: MapWorld
-  - colour: "#f44546"
+    mapName: MapWorld
+    minZoom: -2.5
+    colour: "#f44546"
 ---
