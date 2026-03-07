@@ -8,3 +8,4 @@ marker:
     minZoom: -2.5
     colour: "#f44546"
 ---
+

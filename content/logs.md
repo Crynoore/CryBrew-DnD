@@ -99,3 +99,6 @@ if you wonder why not every version is noted in here i do not update this tap ev
 #### Version 1.5.3
 - Fixed interactive map (thanks to Requiae)
 - added markers for the continents 
+#### Version 1.5.4 
+- AAAAAAAAAAAAA trying to fix the map
+- 
