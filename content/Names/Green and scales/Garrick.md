@@ -22,7 +22,7 @@ The next 25 or so years ([[timeline|year 1597]]) were spent praying to the Moonm
 
 Until on a fateful night while praying to the [Moonmother](Selune.md) she descended down from the skies and spoke to Garrick.
 
-“[[Balz|The Continent of Bâlz]] is losing faith in me, the lady of silver. I command thee to go there and spread the word. In return I shall grant you a lunar blessing”
+“[[Bala Pilae|The Continent of Bâlz]] is losing faith in me, the lady of silver. I command thee to go there and spread the word. In return I shall grant you a lunar blessing”
 
 Without hesitation Garrick agreed and the pact was sealed.
 

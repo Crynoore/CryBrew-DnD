@@ -9,7 +9,7 @@ marker:
     minZoom: -2.5
 ---
 
-Caypolis is a city [[Balz]]
+Caypolis is a city [[Bala Pilae]]
 
 is the start of the campaign
 

@@ -8,6 +8,6 @@ marker:
     mapName: MapWorld
     minZoom: -2.5
 ---
-is a City in [[Balz]]
+is a City in [[Bala Pilae]]
 
 spilt up in [[Flay]] and later they split up in [[New Flay]] and [[New Fley]]

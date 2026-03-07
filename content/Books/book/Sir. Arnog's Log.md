@@ -3,8 +3,6 @@ tags:
   - Book
   - lore
 ---
-
-
 ## Log 52
 
 Leave

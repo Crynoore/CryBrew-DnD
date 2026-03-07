@@ -1,6 +1,6 @@
 all the continents in Tale of the Titan's
 
-- [[Balz]]
+- [[Bala Pilae]]
 - [[The First Continent]]
 - [[Grolg]]
 - [[Ulfberht]]

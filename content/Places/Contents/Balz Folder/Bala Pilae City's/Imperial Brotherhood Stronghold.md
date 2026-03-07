@@ -10,4 +10,4 @@ marker:
 ---
 
 
-[[Places in Balz]]
+[[Places in Bala Pilae]]

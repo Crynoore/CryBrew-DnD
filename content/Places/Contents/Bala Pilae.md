@@ -8,14 +8,14 @@ marker:
     colour: "#7B2CF5"
     minZoom: -4.5
 ---
----
-
 
 is one of the [[Continents]] in Tale's of the Titans
 
-[[Citys of Balz]]
+used to be know as Bâlz
 
-[[Places in Balz]]
+[[Citys of Bala Pilae]]
+
+[[Places in Bala Pilae]]
 
 
 was a dwarven continan for the longest time 

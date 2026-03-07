@@ -4,11 +4,11 @@ tags:
   - City
   - marker
 marker:
-  - coordinates: 7301, 5542
+  - coordinates: 6093, 4653
     mapName: MapWorld
     minZoom: -2.5
 ---
 
-is a City in [[Balz]]
+is a City in [[Bala Pilae]]
 
-believe in [[Selune]]
+used to be a part of [[Fley]]

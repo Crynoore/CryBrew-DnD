@@ -22,7 +22,7 @@ i'll start with [[Ulfberht]]
 
 it look to be the most interesting of the ones we know currently
 
-I mean if your competition is a place called [[Balz|The Continent of Bâlz]], you don't have to try hard.
+I mean if your competition is a place called [[Bala Pilae|The Continent of Bâlz]], you don't have to try hard.
 
 Also the dwarfs are not that happy that the humans have taken about 40% of their land for themselves.
 

@@ -9,7 +9,7 @@ marker:
     minZoom: -2.5
 ---
 
-is a city on the northwest side of [[Balz]] 
+is a city on the northwest side of [[Bala Pilae]] 
 
 very diverse population 
 

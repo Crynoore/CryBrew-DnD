@@ -12,7 +12,7 @@ other [[DMS]]
 
 all new very cool in house TTRPG game
 it will get finished trust me on that
-[[WotT]]
+- [[WotT]]
 ### make your guy
 
 - [[Classes]]

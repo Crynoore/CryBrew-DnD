@@ -1,4 +1,4 @@
-a list of all the city's in [[Balz]]
+a list of all the city's in [[Bala Pilae]]
 
 - [[Caypolis]]
 - [[Eurgh]]

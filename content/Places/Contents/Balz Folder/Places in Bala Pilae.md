@@ -1,4 +1,4 @@
-all the place's in [[Balz]]
+all the place's in [[Bala Pilae]]
 
 - [[Chebay Island]]
 - [[Emsor Woods]]

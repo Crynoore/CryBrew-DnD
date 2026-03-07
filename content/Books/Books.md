@@ -1,4 +1,3 @@
-- [[Book of Alchemy]]
 - [[Folklore and Myths]]
 - [[Tale of The Titans]]
 - [[Scripture of the Hollow land]]
