@@ -1,6 +1,5 @@
 ---
-tags: 
-  - marker
+tags:
 marker:
   - coordinates: 6479, 4962
     mapName: MapWorld
