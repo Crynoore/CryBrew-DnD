@@ -1,6 +1,7 @@
 ---
 tags:
   - continent
+  - marker
 marker:
   - coordinates: 3994, 10160
     mapName: MapWorld

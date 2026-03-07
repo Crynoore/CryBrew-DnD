@@ -9,7 +9,7 @@ The Imperial Brotherhood started in the year 1574 after a guy name [[Grasa]] saw
 
 [[Grasa]] convict [[Singni-us]] ,[[The Round Table of Thovig's]] ,[[Shattered Abodes of Many]] and some smaller factions to come to gated as one serving the people of the lands 
 with this they had a well established background to start with.
-and they grow fast, spreading out many spots over multiple continents. they even have a hole island of the coast of [[The Continent of Grolg|Grolg]] 
+and they grow fast, spreading out many spots over multiple continents. they even have a hole island of the coast of [[Grolg|Grolg]] 
 
 since 1589 if you would want to join the brotherhood you would need it fill in the [[The Imperial Brotherhood Contract]]
 
