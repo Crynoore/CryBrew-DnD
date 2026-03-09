@@ -1,6 +1,7 @@
 ---
 tags:
   - Items
+  - RoR2
 ---
 
 Upon getting hit, an aura of ice shards emanates in a 15ft sphere around the user. Creatures inside this aura take 2d6+1 cold damage when it enters aura for the first time on a turn or starts its turn there. This aura lasts half a minute. Getting hit during this time resets the duration.

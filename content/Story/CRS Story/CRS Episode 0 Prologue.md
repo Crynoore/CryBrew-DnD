@@ -5,7 +5,7 @@ tags:
 ---
 
 
-the year is 1567 a great evil wend over [[The First Continent]] with this most people evacuated the continent to go to the other continents  
+the year is 1567 a great evil wend over [[The FIrst Continent]] with this most people evacuated the continent to go to the other continents  
 but in the year 1592 a group of adventures whet back to the first continent to cleanse the place 
 
 this party contain  
@@ -17,7 +17,7 @@ The wise archmage [[Cyrus]]
 
 and The mastermind (paladin) [[Names/The first hero's/Galiminus]] 
 
-on there avenger they help getting [[The First Continent]] back to the former glory 
+on there avenger they help getting [[The FIrst Continent]] back to the former glory 
 
 but for most of it the people on the other continent didn't think they had survive a day on the first continent 
 

@@ -13,7 +13,7 @@ you will need specialised training to use this armour
 
 Variant 1
 
-this piece of Armour has a Ac of 20 and has 400 hp
+this piece of Armour has a Ac of 20 and has 200 hp
 
 Variant 2
 

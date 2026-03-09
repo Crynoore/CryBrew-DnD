@@ -1,6 +1,10 @@
 ---
 tags:
   - Items
+  - RoR2
 ---
+lose 2 hit dice of hp (you cant go lower then 1hp) 
 
-when you crit you can teleport in a 30ft range 
+roll 4 hit dice +con as temporary hp
+
+requires attunement

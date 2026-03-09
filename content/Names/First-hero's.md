@@ -5,6 +5,6 @@ are all the [[Characters]] form the ... Campain
 - The wise archmage [[Cyrus]].
 - and The mastermind (paladin) [[Names/The first hero's/Galiminus]].
 
-These 4 human saved [[The First Continent]] for the [[Great Evil]].
+These 4 human saved [[The FIrst Continent]] for the [[Great Evil]].
 this took them 16 years.
 in there adventure they met lots of Characters 

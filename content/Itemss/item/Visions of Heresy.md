@@ -1,6 +1,8 @@
 ---
 tags:
   - Items
+  - lore
+  - RoR2
 ---
 
 

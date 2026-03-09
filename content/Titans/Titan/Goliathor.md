@@ -5,4 +5,4 @@ tags:
 ---
 
 
-the [[Titans|Titan]] under [[The First Continent]]
+the [[Titans|Titan]] under [[The FIrst Continent]]

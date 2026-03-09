@@ -17,7 +17,4 @@ views:
     zoomDelta: 0.5
     scale: "0.2"
     unit: km
-  - type: table
-    name: View
-
 ```

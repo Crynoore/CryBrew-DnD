@@ -3,6 +3,4 @@ tags:
   - Armor
   - Items
 ---
-
-
-while waring your explosion deal 1d6 extra damage 
+while waring this belt all your Force, piercing, bludgeoning and slashing damage deal a extra 1d6 Force damage in the form of a explosion. 

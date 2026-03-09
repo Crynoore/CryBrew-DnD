@@ -3,6 +3,7 @@ tags:
   - Items
   - Weapons
   - Warhammer
+  - RoR2
 ---
 
 

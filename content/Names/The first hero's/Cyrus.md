@@ -6,7 +6,7 @@ tags:
 ---
 
 
-was one of the [[First-hero's]] that helped clean the [[The First Continent]] for the [[Great Evil]]
+was one of the [[First-hero's]] that helped clean the [[The FIrst Continent]] for the [[Great Evil]]
 
 has a island [[ile of Cyrus]]
 

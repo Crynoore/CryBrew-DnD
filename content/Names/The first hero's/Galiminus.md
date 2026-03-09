@@ -10,7 +10,7 @@ is one of the [[First-hero's]]
 
   
 
-We did it, we saved [[The First Continent]]
+We did it, we saved [[The FIrst Continent]]
 
 Took us long enough, I have seen every part of that place and I'm fine not seeing 80% of it ever again.
 

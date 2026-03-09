@@ -5,7 +5,7 @@ tags:
 ---
 
 
-The Imperial Brotherhood started in the year 1574 after a guy name [[Grasa]] saw some of the things that happed in [[The First Continent]]. with the [[Great Evil]] being one of the key think the Brotherhood wants to avoid from ever happen again.
+The Imperial Brotherhood started in the year 1574 after a guy name [[Grasa]] saw some of the things that happed in [[The FIrst Continent]]. with the [[Great Evil]] being one of the key think the Brotherhood wants to avoid from ever happen again.
 
 [[Grasa]] convict [[Singni-us]] ,[[The Round Table of Thovig's]] ,[[Shattered Abodes of Many]] and some smaller factions to come to gated as one serving the people of the lands 
 with this they had a well established background to start with.
