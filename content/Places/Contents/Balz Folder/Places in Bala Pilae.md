@@ -5,9 +5,9 @@ all the place's in [[Bala Pilae]]
 - [[Lost Coast]]
 - [[Mouce Island]]
 - [[Nagro Iles]]
-- [[Outer Site Island's]]
+- [[Outer Site Islands]]
 - [[Calamity Canion]]
-- [[hollow Sword's Hill]]
+- [[Hollow Sword's Hill]]
 - [[Glass Oasis]]
 
 

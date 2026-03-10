@@ -5,7 +5,7 @@ tags:
 marker:
   - coordinates: 6479, 4962
     mapName: MapWorld
-    colour: "#7B2CF5"
+    colour: "#7623a5"
     minZoom: -4.5
 ---
 
