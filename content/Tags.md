@@ -1,0 +1,74 @@
+---
+tags:
+  - Book
+  - City
+  - Consumables
+  - Continent
+  - Creator
+  - DangersBeings
+  - Faction
+  - Food
+  - Gods
+  - Lore
+  - Meterial
+  - Place
+  - Religion
+  - Species
+  - Titan
+  - Feat
+  - Being
+  - Background
+---
+## Classes
+- #Class 
+- #subclass 
+- #Artificer 
+- #Barbarian 
+- #Bard 
+- #Cleric 
+- #Druid 
+- #Fighter 
+- #Monk 
+- #Paladin 
+- #Ranger 
+- #Rogue 
+- #Sorcerer 
+- #Summoner 
+- #Warlock 
+- #Wizard 
+# Items
+- #Items 
+- #Armor 
+- #Weapons 
+- #SimpleRange
+- #SimpleMele
+- #MartialRange
+- #MartialMele
+# Spell
+- #spell 
+- #cantrip 
+- #lvl1spell 
+- #lvl2spell 
+- #lvl3spell 
+- #lvl4spell 
+- #lvl5spell 
+- #lvl6spell 
+- #lvl7spell 
+- #lvl8spell 
+- #lvl9spell 
+- #Accelerated 
+- #Fatigued 
+somewhat
+- #astronomy 
+- #BloodMagic 
+# Characters/ Story
+- #character 
+- #Story 
+- #CRS 
+- #Goons 
+- #TFHunters 
+- #TheFirstHeros 
+- #LunarLegend 
+- #FotM2024 
+- #NPC 
+- #Dead
