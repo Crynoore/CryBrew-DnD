@@ -1,6 +1,6 @@
 ---
 tags:
-  - spell
+  - Spell
   - BloodMagic
   - lvl2spell
 ---

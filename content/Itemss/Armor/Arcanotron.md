@@ -2,6 +2,7 @@
 tags:
   - Armor
   - Items
+  - VeryRare
 ---
 ''could get drop from the highest mounten and the ground would break''
 [[Arcanotron lore]]

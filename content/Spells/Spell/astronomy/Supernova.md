@@ -1,8 +1,9 @@
 ---
 tags:
-  - astronomy
-  - spell
+  - Astronomy
+  - Spell
   - Accelerated
+  - lvl7spell
 ---
 
 | Supernova                      |

@@ -2,6 +2,7 @@
 tags:
   - Map
 ---
+
 ```base
 filters: file.hasProperty("marker")
 views:
@@ -17,3 +18,4 @@ views:
     height: 400
     unit: km
 ```
+

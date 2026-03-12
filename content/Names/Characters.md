@@ -1,6 +1,6 @@
 ---
 tags:
-  - character
+  - Character
 ---
 
 - [[green-and-scales]]

@@ -1,7 +1,7 @@
 ---
 tags:
   - RoR2
-  - being
+  - Being
 ---
 
 ![[latest-(7).png]]

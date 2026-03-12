@@ -2,6 +2,7 @@
 tags:
   - Armor
   - Items
+  - VeryRare
 ---
 
 while waring you gain Resistance to a damage type

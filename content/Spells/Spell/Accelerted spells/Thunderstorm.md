@@ -1,7 +1,8 @@
 ---
 tags:
-  - spell
+  - Spell
   - Accelerated
+  - lvl1spell
 ---
 
 | Thunderstorm                   |

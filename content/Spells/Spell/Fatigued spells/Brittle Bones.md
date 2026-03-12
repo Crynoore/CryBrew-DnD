@@ -1,7 +1,8 @@
 ---
 tags:
   - Fatigued
-  - spell
+  - Spell
+  - lvl2spell
 ---
 
 | Brittle bones                  |

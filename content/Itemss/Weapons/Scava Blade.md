@@ -3,6 +3,7 @@ tags:
   - Items
   - Weapons
   - Longsword
+  - VeryRare
 ---
 
 
@@ -11,4 +12,4 @@ tags:
 | Weapon    | Cost | Damage       | to hit | Weight | Properties           |
 | --------- | ---- | ------------ | ------ | ------ | -------------------- |
 | Longsword | ---  | 1d8 slashing | +3     | 3 lb.  | Versatile (1d10)<br> |
-if someone attacks you while holing this blade you get to do a attack with +7 to hit but only a d6 of damage 
+If you do a opportunity attack with this weapon you gain a +6 to hit

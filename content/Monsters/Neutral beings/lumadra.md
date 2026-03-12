@@ -1,8 +1,8 @@
 ---
 tags:
-  - being
+  - Being
   - NeutralBeings
-  - desert
+  - Desert
 ---
 camel ass creature that has 1 big bulb on his back that holds water, the bulb is made out of a lot of layers of fat that release fresh water to cool down 
 

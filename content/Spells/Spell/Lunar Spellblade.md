@@ -1,6 +1,7 @@
 ---
 tags:
-  - spell
+  - Spell
+  - lvl1spell
 ---
 
 | lunar Spellblade                        |

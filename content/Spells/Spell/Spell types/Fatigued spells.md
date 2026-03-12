@@ -1,6 +1,6 @@
 ---
 tags:
-  - spell
+  - Spell
   - Fatigued
 ---
 

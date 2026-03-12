@@ -1,6 +1,6 @@
 ---
 tags:
-  - character
+  - Character
 ---
 
 character for [[The Brotherhood Expeditions]]

@@ -1,8 +1,9 @@
 ---
 tags:
-  - spell
-  - astronomy
+  - Spell
+  - Astronomy
   - Fatigued
+  - lvl2spell
 ---
 
 | stellar remnant             |

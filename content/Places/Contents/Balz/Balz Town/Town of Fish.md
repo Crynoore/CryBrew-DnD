@@ -3,7 +3,7 @@ tags:
   - BalaPilae
   - Town
 marker:
-  - coordinates: 5042, 1665
+  - coordinates: 6887, 5040
     mapName: WorldMap
     minZoom: -2.5
     colour: "#66d313"

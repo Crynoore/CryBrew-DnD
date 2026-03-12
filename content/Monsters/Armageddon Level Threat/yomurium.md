@@ -1,5 +1,5 @@
 ---
 tags:
-  - being
+  - Being
   - DangersBeings
 ---

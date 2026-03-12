@@ -1,7 +1,8 @@
 ---
 tags:
-  - spell
-  - astronomy
+  - Spell
+  - Astronomy
+  - lvl3spell
 ---
 
 | Infinite Expense            |

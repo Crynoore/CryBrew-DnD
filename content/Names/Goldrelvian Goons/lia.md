@@ -1,6 +1,6 @@
 ---
 tags:
-  - character
+  - Character
   - Goons
 ---
 character for [[Goldrelvian Goons]]

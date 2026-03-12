@@ -1,5 +1,5 @@
 ---
 tags:
-  - character
+  - Character
   - TFHunters
 ---

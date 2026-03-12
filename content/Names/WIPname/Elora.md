@@ -1,5 +1,5 @@
 ---
 tags:
-  - character
+  - Character
 ---
 character for [[WIPname]]

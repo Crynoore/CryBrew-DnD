@@ -1,7 +1,7 @@
 ---
 tags:
-  - spell
-  - astronomy
+  - Spell
+  - Astronomy
   - lvl2spell
 ---
 

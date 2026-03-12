@@ -2,7 +2,7 @@
 tags:
   - Items
   - Weapons
-  - whip
+  - Whip
 ---
 
 

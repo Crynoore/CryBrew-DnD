@@ -1,7 +1,8 @@
 ---
 tags:
-  - spell
+  - Spell
   - BloodMagic
+  - lvl1spell
 ---
 
 | Blood Blade                 |

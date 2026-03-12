@@ -1,7 +1,7 @@
 ---
 tags:
-  - spell
-  - cantrip
+  - Spell
+  - Cantrip
 ---
 
 | Visual meter                   |

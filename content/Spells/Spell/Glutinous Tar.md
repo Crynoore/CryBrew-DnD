@@ -1,6 +1,7 @@
 ---
 tags:
-  - spell
+  - Spell
+  - Cantrip
 ---
 
 | Glutinous Tar                    |

@@ -1,7 +1,7 @@
 ---
 tags:
-  - character
-  - lore
+  - Character
+  - Lore
   - TheFirstHeros
 ---
 one of the [[First-hero's]]

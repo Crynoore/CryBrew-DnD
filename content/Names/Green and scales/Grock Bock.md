@@ -1,6 +1,6 @@
 ---
 tags:
-  - character
+  - Character
   - CRS
 ---
 a character for [[green-and-scales]]

@@ -1,5 +1,5 @@
 ---
 tags:
   - NPC
-  - lore
+  - Lore
 ---

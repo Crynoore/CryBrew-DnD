@@ -1,6 +1,7 @@
 ---
 tags:
   - Items
+  - VeryRare
 ---
 you can cast a spell Through this it brain it will concentration on it and not you 
 

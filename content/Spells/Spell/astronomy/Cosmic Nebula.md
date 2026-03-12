@@ -1,8 +1,8 @@
 ---
 tags:
-  - spell
-  - cantrip
-  - astronomy
+  - Spell
+  - Cantrip
+  - Astronomy
 ---
 
 | Cosmic Nebula                    |

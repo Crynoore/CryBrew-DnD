@@ -1,8 +1,9 @@
 ---
 tags:
-  - astronomy
-  - spell
+  - Astronomy
+  - Spell
   - Fatigued
+  - lvl2spell
 ---
 
 | **starburst galaxy**        |

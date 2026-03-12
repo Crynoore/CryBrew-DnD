@@ -1,6 +1,6 @@
 ---
 tags:
-  - character
+  - Character
   - LWH
 ---
 character for [[The Long Way Home]]

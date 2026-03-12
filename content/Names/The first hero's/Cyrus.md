@@ -1,8 +1,8 @@
 ---
 tags:
-  - character
+  - Character
   - TheFirstHeros
-  - lore
+  - Lore
 ---
 
 

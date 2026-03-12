@@ -1,7 +1,8 @@
 ---
 tags:
-  - astronomy
-  - spell
+  - Astronomy
+  - Spell
+  - lvl2spell
 ---
 
 | molecular cloud        |

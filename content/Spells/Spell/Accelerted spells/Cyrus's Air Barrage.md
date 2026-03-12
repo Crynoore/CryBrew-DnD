@@ -1,7 +1,8 @@
 ---
 tags:
-  - spell
   - Accelerated
+  - Spell
+  - lvl2spell
 ---
 
 

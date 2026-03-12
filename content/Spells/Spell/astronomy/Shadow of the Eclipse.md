@@ -1,7 +1,8 @@
 ---
 tags:
-  - astronomy
-  - spell
+  - Astronomy
+  - Spell
+  - lvl3spell
 ---
 
 | Shadow of the Eclipse  |

@@ -1,6 +1,6 @@
 ---
 tags:
-  - being
+  - Being
   - RoR2
 ---
 

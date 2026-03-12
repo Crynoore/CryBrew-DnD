@@ -2,7 +2,8 @@
 tags:
   - Items
   - Weapons
-  - structure
+  - Structure
+  - Artifact
 ---
 
 

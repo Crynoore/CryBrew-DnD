@@ -1,6 +1,6 @@
 ---
 tags:
-  - character
+  - Character
   - LunarLegend
 ---
 character for [[Lunar Legends]]

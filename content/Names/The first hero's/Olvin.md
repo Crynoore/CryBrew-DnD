@@ -1,7 +1,7 @@
 ---
 tags:
-  - character
-  - lore
+  - Character
+  - Lore
   - TheFirstHeros
 ---
 has a island on the first continent [[Olvin Peninsula]]

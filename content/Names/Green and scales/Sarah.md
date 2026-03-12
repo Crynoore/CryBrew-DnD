@@ -1,6 +1,6 @@
 ---
 tags:
-  - character
+  - Character
   - CRS
   - Dead
 ---

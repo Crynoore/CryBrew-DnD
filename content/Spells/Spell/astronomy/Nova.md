@@ -1,7 +1,8 @@
 ---
 tags:
   - Accelerated
-  - spell
+  - Spell
+  - lvl3spell
 ---
 
 | Nova                           |

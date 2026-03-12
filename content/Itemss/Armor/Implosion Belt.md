@@ -2,6 +2,7 @@
 tags:
   - Armor
   - Items
+  - Rare
 ---
 
 

@@ -1,8 +1,9 @@
 ---
 tags:
   - Fatigued
-  - spell
-  - astronomy
+  - Spell
+  - Astronomy
+  - lvl2spell
 ---
 
 | aligned stars               |

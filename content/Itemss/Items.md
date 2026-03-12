@@ -23,6 +23,7 @@ tags:
 - [[Symbiotic Scorpion]]
 - [[Visions of Heresy]]
 ## Weapons 
+- [[Ashdawn Blade]]
 - [[Aspect of the Void]]
 - [[Basic Staff]]
 - [[Basic Whip]]

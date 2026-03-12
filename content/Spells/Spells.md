@@ -1,6 +1,6 @@
 ---
 tags:
-  - spell
+  - Spell
 ---
 # WIP
 all of them
@@ -43,7 +43,8 @@ if you cant click on the spells look them up in the search bar
 - [[Solar Ray]]
 - [[Starburst Galaxy]]
 - [[Stellar Remnant]]
-
+# Bone Wizard's spell
+- 
 ### Blood Magic
 - [[Blood Blade]]
 - [[Blood Sacrifice]]

@@ -2,6 +2,7 @@
 tags:
   - Items
   - RoR2
+  - Rare
 ---
 
 

@@ -3,10 +3,11 @@ tags:
   - Weapons
   - Items
   - Yo-yo
+  - VeryRare
 ---
-| Name       | Cost | Damage       | Weight | Properties           |
-| ---------- | ---- | ------------ | ------ | -------------------- |
-| Star Yo-yo |      | 2d4 slashing | 3 lbs  | Finesse, Reach 10ft, |
+| Name       | Cost | Damage                 | to hit | Weight | Properties           |
+| ---------- | ---- | ---------------------- | ------ | ------ | -------------------- |
+| Star Yo-yo |      | 2d4+3 Magical slashing | +3     | 3 lbs  | Finesse, Reach 10ft, |
 You cast out the yoyo and hit the enemy You can then choose to real it back in if you don't than it this yo-yo will be "stuck"(you can move it 10ft) in place there for the next 4 turns dealing more dmg every turn
 
 

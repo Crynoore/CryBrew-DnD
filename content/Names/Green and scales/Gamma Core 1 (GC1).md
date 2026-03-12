@@ -1,6 +1,6 @@
 ---
 tags:
-  - character
+  - Character
   - CRS
 ---
 is a character form [[green-and-scales]]

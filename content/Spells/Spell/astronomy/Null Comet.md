@@ -1,8 +1,8 @@
 ---
 tags:
-  - spell
+  - Spell
   - lvl1spell
-  - astronomy
+  - Astronomy
 ---
 
 | Null Comet                                          |

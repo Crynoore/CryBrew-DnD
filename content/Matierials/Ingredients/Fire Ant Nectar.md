@@ -1,7 +1,7 @@
 ---
 tags:
   - Items
-  - consumables
+  - Consumables
 ---
 
 ![[Fire-Ant-Nectar-Item.png]]

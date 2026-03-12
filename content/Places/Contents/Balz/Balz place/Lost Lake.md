@@ -4,4 +4,7 @@ marker:
     mapName: WorldMap
     minZoom: -2.5
     colour: "#ff0984"
+tags:
+  - BalaPilae
+  - Place
 ---

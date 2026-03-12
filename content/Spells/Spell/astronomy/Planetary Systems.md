@@ -1,7 +1,8 @@
 ---
 tags:
-  - spell
-  - astronomy
+  - Spell
+  - Astronomy
+  - lvl4spell
 ---
 
 | Planetary Systems                |

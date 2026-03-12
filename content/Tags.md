@@ -16,12 +16,12 @@ tags:
   - Species
   - Titan
   - Feat
-  - Being
   - Background
+  - Being
 ---
 ## Classes
 - #Class 
-- #subclass 
+- #Subclass 
 - #Artificer 
 - #Barbarian 
 - #Bard 
@@ -44,9 +44,15 @@ tags:
 - #SimpleMele
 - #MartialRange
 - #MartialMele
+- #Common
+- #Uncommon 
+- #Rare
+- #VeryRare
+- #Legendary
+- #Artifact
 # Spell
-- #spell 
-- #cantrip 
+- #Spell 
+- #Cantrip 
 - #lvl1spell 
 - #lvl2spell 
 - #lvl3spell 
@@ -59,10 +65,10 @@ tags:
 - #Accelerated 
 - #Fatigued 
 somewhat
-- #astronomy 
+- #Astronomy 
 - #BloodMagic 
 # Characters/ Story
-- #character 
+- #Character 
 - #Story 
 - #CRS 
 - #Goons 
