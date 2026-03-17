@@ -49,4 +49,4 @@ to find some thing specific use tags
 
 - [[Tags]]
 
-Version 1.5.4 of the wiki is out NOW [[logs]]
+Version 1.5.5 of the wiki is out NOW [[logs]]

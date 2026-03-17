@@ -1,0 +1,3 @@
+Erky Timbers was a mysterious, demented devotee of [[Selune]] who was rescued from the [[Moonless Citadel]] by the [[Lunar Legends]] in 1611. He joined the group on their adventure to take down the evil Gulthias tree and return to [[Lunasett]]. In an attempt to heal the blighted victims Erky heroically sacrifices himself and shot up into the sky to become a tertiary moon.
+
+This same moon was destroyed by an alien spacecraft around 1687.
