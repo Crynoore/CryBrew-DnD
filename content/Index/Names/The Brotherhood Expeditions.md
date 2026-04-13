@@ -7,6 +7,8 @@ Dm'd by [[Crynoore]]
 - [[jaap]]
 
 ## Dragons Dogma
+- [[Buns Ruben]]
 - [[Dire Dirhaan The Aegis]]
-- 
+- [[Parmigiano Reggiano]]
+- [[Raphael]]
 

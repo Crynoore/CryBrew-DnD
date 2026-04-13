@@ -13,4 +13,4 @@
 - [[Aragnis Morioth]]
 
 
-and of couse the lovly dm [[Deanamo]]
+and of couse the lovely dm [[Deanamo]]

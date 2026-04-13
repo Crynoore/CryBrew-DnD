@@ -3,6 +3,7 @@ tags:
   - Character
 ---
 Character from [[The Brotherhood Expeditions]] played by [[Deanamo]].
+Pronounced "Dirhaan The Aegis"
 
 This is the tale of Dire and Jun, a tale of two human boys who dreamed of making it big in the world. Yet just like every story, it ends in tragedy.
   

@@ -1,7 +1,6 @@
 ---
 tags: []
 ---
-[[index]]
 
 this is where the time is held
 a lot of shit happening in here 

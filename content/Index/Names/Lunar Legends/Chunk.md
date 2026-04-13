@@ -4,4 +4,4 @@ tags:
   - Dead
   - LunarLegend
 ---
-character for [[Lunar Legends]]
+Character from [[Lunar Legends]] played by [[Hypno]].

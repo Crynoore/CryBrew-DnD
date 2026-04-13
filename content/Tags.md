@@ -5,7 +5,6 @@ tags:
   - Consumables
   - Continent
   - Creator
-  - DangersBeings
   - Faction
   - Food
   - Gods
@@ -78,3 +77,4 @@ somewhat
 - #FotM2024 
 - #NPC 
 - #Dead
+# Monsters

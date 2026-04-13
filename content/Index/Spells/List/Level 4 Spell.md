@@ -9,13 +9,13 @@ tags:
 
 | Name                  | School        | Spell Lists                         | Casting Time | Range    | Componets | Duration                |
 | --------------------- | ------------- | ----------------------------------- | ------------ | -------- | --------- | ----------------------- |
-| [[Brain Fatigued]]    | Enchantment   | , ?                                 | 1 action     | 30 ft    | V, S, fq  | fq                      |
-| [[Hollowed Frame]]    | Enchantment   | , ?                                 | 1 action     | 30 ft    | V, S, fq  | Instantaneous           |
+| [[Brain Fatigued]]    | Enchantment   | Bard, Sorcerer, Wizard              | 1 action     | 30 ft    | V, S, fq  | fq                      |
+| [[Hollowed Frame]]    | Enchantment   | Bard, Sorcerer, Wizard              | 1 action     | 30 ft    | V, S, fq  | Instantaneous           |
 | [[Icy Embrace]]       | Evocation     | Artificer, Druid, Sorcerer, Warlock | 1 Action     | 60 ft    | V, S      | _C_, up to 1 minutes    |
-| [[Lost Body]]         | Enchantment   | , ?                                 | 1 action     | 60 ft    | V, S, fq  | Instantaneous           |
-| [[Planetary Systems]] | Conjuration   | Wizard, ?                           | 1 action     | 120 feet | V, S      | Instantaneous           |
-| [[Solar Ray]]         | Transmutation | Wizard, ?                           | 1 action     | 120 ft   | V, S      | _C_, up to 10 minutes\| |
-| [[Stellar Remnant]]   | Evocation     | , ?                                 | 1 action     | 60ft     | V, S      | Instantaneous           |
+| [[Lost Body]]         | Enchantment   | Bard, Sorcerer, Wizard              | 1 action     | 60 ft    | V, S, fq  | Instantaneous           |
+| [[Planetary Systems]] | Conjuration   | Wizard, Druid                       | 1 action     | 120 feet | V, S      | Instantaneous           |
+| [[Solar Ray]]         | Transmutation | Wizard                              | 1 action     | 120 ft   | V, S      | _C_, up to 10 minutes\| |
+| [[Stellar Remnant]]   | Evocation     | Druid, Ranger, Warlock              | 1 action     | 60ft     | V, S      | Instantaneous           |
 |                       |               |                                     |              |          |           |                         |
 |                       |               |                                     |              |          |           |                         |
 |                       |               |                                     |              |          |           |                         |

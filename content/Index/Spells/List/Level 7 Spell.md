@@ -9,7 +9,7 @@ tags:
 
 | Name          | School    | Spell Lists             | Casting Time | Range | Componets | Duration      |
 | ------------- | --------- | ----------------------- | ------------ | ----- | --------- | ------------- |
-| [[Supernova]] | Evocation | Wizard, ?               | 1 action     | touch | V, S, acl | acl           |
+| [[Supernova]] | Evocation | Wizard, Paladin         | 1 action     | touch | V, S, acl | acl           |
 | [[True Push]] | Evocation | Bard, Sorcerer, Warlock | 1 Action     | Self  | V         | Instantaneous |
 |               |           |                         |              |       |           |               |
 |               |           |                         |              |       |           |               |

@@ -1,4 +1,17 @@
 
+#### Version 1.5.6
+- Redid all of the Monster Index
+- added some monster and noted witch ones need a remake
+- added some more of the "long way home campaign story"
+- redid some tags and remove some un-needed tags
+- added some more spells
+- added a fighter subclass [[Precision Combatant]]
+- added a Artificer subclass [[Glyphbinder]]
+- Gave [[Deanamo]] "full" access to the wiki
+- added a new Imperial brotherhood mini campaign
+- redid the item index
+- added 2 new items
+- added the last 2 parts of "Long way home" season 1
 #### Version 1.5.5
 - Fixes a lot of typos
 - added a table for all the spells

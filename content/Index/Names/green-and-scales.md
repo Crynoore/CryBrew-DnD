@@ -1,5 +1,5 @@
-all the [[Characters]] from the CRS campain
-Dm'd by [[Crynoore]],[[Deanamo]] and papakirs
+all the [[Characters]] from the CRS campaign
+DM'd by [[Crynoore]], [[Deanamo]] and papakris1
 
 the green and scales party consists of 5 members
 
@@ -11,4 +11,4 @@ the green and scales party consists of 5 members
 
 Dead PC's
 - [[Sara]]
-- - [[Maru]]	
+- [[Maru]]	

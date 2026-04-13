@@ -14,20 +14,20 @@ _You must have a constitution score of 13 or higher in order to multiclass in or
 | 2nd          | +2                | Summoner archetype, Cunning Action        | 2              | 2            | 2             |
 | 3rd          | +2                | Sub Classes                               | 2              | 3            | 2             |
 | 4th          | +2                | Ability Score Improvement, Tier 2 Summons | 3              | 3            | 3             |
-| 5th          | +3                |                                           | 3              | 3            | 3             |
-| 6th          | +3                | Danger Sense                              | 3              | 4            | 4             |
+| 5th          | +3                | Danger Sense                              | 3              | 3            | 3             |
+| 6th          | +3                | Subclass Feature                          | 3              | 4            | 4             |
 | 7th          | +3                | Tier 3 Summons                            | 3              | 4            | 5             |
 | 8th          | +3                | Ability Score Improvement,                | 3              | 5            | 5             |
 | 9th          | +4                | Summons time reduce                       | 3              | 5            | 6             |
 | 10th         | +4                | Tier 4 Summons ,True Knowing              | 4              | 6            | 6             |
-| 11th         | +4                |                                           | 4              | 6            | 7             |
+| 11th         | +4                | Subclass Feature                          | 4              | 6            | 7             |
 | 12th         | +4                | Ability Score Improvement, Tier 5 Summons | 4              | 7            | 7             |
 | 13th         | +5                |                                           | 4              | 7            | 8             |
 | 14th         | +5                | Tier 6 Summons,                           | 4              | 7            | 9             |
-| 15th         | +5                |                                           | 4              | 8            | 9             |
+| 15th         | +5                | Subclass Feature                          | 4              | 8            | 9             |
 | 16th         | +5                | Ability Score Improvement, Tier 7 Summons | 4              | 8            | 10            |
 | 17th         | +6                |                                           | 4              | 9            | 10            |
-| 18th         | +6                |                                           | 4              | 9            | 11            |
+| 18th         | +6                | Subclass Feature                          | 4              | 9            | 11            |
 | 19th         | +6                | Ability Score Improvement, Tier 8 Summons | 4              | 9            | 11            |
 | 20th         | +6                |                                           | 4              | 10           | 12            |
 ## Class Features

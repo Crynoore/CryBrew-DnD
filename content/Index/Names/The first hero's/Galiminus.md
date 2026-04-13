@@ -10,8 +10,6 @@ has a island on the first continent [[Galiminus Island]]
 
 **The Epilogue of Gallimimus
 
-  
-
 We did it, we saved [[The First Continent]]
 
 Took us long enough, I have seen every part of that place and I'm fine not seeing 80% of never again.
@@ -59,19 +57,13 @@ but we still have time before that happens, now for us to enjoy Faerûn and all 
 
 So the plans are to go to the following 
 
--[[Neverwinter]] big library
+- [[Neverwinter]] big library
+- [[Waterdeep]]
+- [[Baldur's Gate]]
+- [[Helm’s hold]]
+- [[CandleKeep]] big library
+- [[Karse]]
 
--[[Waterdeep]]
-
--[[Baldur's Gate]]
-
--[[Helm’s hold]]
-
--[[CandleKeep]] big library
-
--[[Karse]]
-
-  
 
 Cyrus begged me to go to the neverwinter underground library, I was planning on only staying for the techfest and a day extra but Cyrus insisted that we stayed longer. So it turned into a good 2 weeks, just for some books. I guess that is the reason that he got so smart, but still it's a vacation you need to relax a bit.
 
@@ -98,7 +90,7 @@ Years Later 
 
   
 
-It has been very calm the last few months Cyrus and Aronem-i have been living together As a family. That is the last guy i was thinking was getting a son i mean the way he did it is kind of cheating  but hey good for him.
+It has been very calm the last few months Cyrus and Aronem-i have been living together As a family. That is the last guy i was thinking was getting a son i mean the way he did it is kind of cheating but hey, good for him.
 
 My family life has been easy now that the kids have their own place off the island, finally I have to relax and enjoy time with my wife. 
 
@@ -108,9 +100,8 @@ Sometime later 
 
 For me being one of the worst paladins from my school back when I was a kid, I have done the most out of any of My classmates.
 
-But even now I have struggled Getting connected with a god, you would think any god would want my ass, you know the savior of the first continent ,but now the only time I get a connection is when my life is in danger. 
+But even now I have struggled Getting connected with a god, you would think any god would want my ass, you know the saviour of the first continent ,but now the only time I get a connection is when my life is in danger. 
 
-  
 
 I'll Just start looking for the 1 god who cares enough to lend me their Strength.
 
@@ -123,7 +114,7 @@ I have found a place that will allow me to see the god that abandoned me when I 
   
   
 
-**The Plane of balance**
+#### **The Plane of balance**
 
   
 

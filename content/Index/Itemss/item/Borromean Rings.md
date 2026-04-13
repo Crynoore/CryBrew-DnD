@@ -4,4 +4,4 @@ tags:
   - Artifact
 ---
 
-![[Borromean-Rings-Item.png]]
+3 perfect rings that provide a lot of magical power

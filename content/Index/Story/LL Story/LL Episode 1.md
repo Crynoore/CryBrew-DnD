@@ -17,7 +17,7 @@ i buy 100ft, 2 thortes and1 tent 
 
 that we make a deal to get the bag with while grima 
 
-i also buy a [[lumadra]] to hold the water while we are in the desert since it got quick warm in the desert (AG) 
+i also buy a [[Lumadra]] to hold the water while we are in the desert since it got quick warm in the desert (AG) 
 
 i get invited to sleep before i sleep i hear grima recite a recipe for what seems like a cake 
 

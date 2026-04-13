@@ -8,7 +8,7 @@ run by [[Crynoore]] and [[Deanamo]]
 The other Dms
 - [[Hypno]]
 
-**!!if a like does not work search it in the search bar!!**
+**!!if a link does not work search it in the search bar!!**
 
 ### WotT
 
@@ -27,21 +27,20 @@ all new very cool in house TTRPG game it will get finished trust me on that
 
 ### Lore and more
 
+- [[Books]]
 - [[Characters]]
-- [[Gods]]
-- [[Dangers Beings]]
-- [[Neutral Beings]]
-- [[Story]]
-- [[WorldMap]]
-- [[Factions]]
-- [[Religions]]
 - [[Continents]]
+- [[Monsters]]
+- [[Factions]]
+- [[Gods]]
 - [[Items]]
 - [[Materials and Ingredients]]
-- [[Books]]
-- [[timeline]]
 - [[Other]]
+- [[Religions]]
+- [[Story]]
 - [[Universelore]]
+- [[WorldMap]]
+- [[timeline]]
 
 ### Tags
 

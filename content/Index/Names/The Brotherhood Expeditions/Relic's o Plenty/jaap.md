@@ -2,5 +2,4 @@
 tags:
   - Character
 ---
-
-character for [[The Brotherhood Expeditions]]
+Character for [[The Brotherhood Expeditions]]
