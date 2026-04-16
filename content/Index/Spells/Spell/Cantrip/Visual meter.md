@@ -4,13 +4,14 @@ tags:
   - Cantrip
 ---
 
-| Visual meter                   |
-| ------------------------------ |
-| **Casting Time:** Bonus Action |
-| **Range:** 120ft               |
-| **Components:** V,S            |
-| **Duration:** Instantaneous    |
-| Spell Level: 0                 |
+| Visual meter |               |
+| ------------ | ------------- |
+| Spell Level  | 0             |
+| Casting Time | Bonus Action  |
+| Range        | 120ft         |
+| Components   | V,S           |
+| Duration     | Instantaneous |
+| Classes      |               |
 
 you get a visual meter
 

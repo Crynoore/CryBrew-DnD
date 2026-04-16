@@ -5,13 +5,14 @@ tags:
   - lvl1spell
 ---
 
-| Thunderstorm                   |
-| ------------------------------ |
-| Casting Time: 1 action         |
-| Range: 60 ft                   |
-| Components: V, S               |
-| Spell level: 1                 |
-| Accelerated cut-off point : 20 |
-| Accelerated Dice : d6          |
+| Thunderstorm              |               |
+| ------------------------- | ------------- |
+| Spell level               | 1             |
+| Casting Time              | 1 action      |
+| Range                     | 60 ft         |
+| Components                | V, S          |
+| Accelerated cut-off point | 20            |
+| Accelerated Dice          | d6            |
+| Duration                  | Instantaneous |
 
 deal the number of roll x 2 thunder dmg

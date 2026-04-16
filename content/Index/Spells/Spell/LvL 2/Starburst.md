@@ -6,14 +6,15 @@ tags:
   - lvl2spell
 ---
 
-| **starburst galaxy**        |
-| --------------------------- |
-| Casting Time: 1 action      |
-| Range: 20ft cone            |
-| Components: V, S            |
-| Spell level: 2              |
-| Fatigued cut-off point : 26 |
-| Fatigued Dice : d12         |
+| **starburst galaxy**   |           |
+| ---------------------- | --------- |
+| Spell level            | 2         |
+| Casting Time           | 1 action  |
+| Range                  | 20ft cone |
+| Components             | V, S      |
+| Fatigued cut-off point | 26        |
+| Fatigued Dice          | d12       |
+| Classes                |           |
 cone of space dust that looks like a nebula, if a creature is in this cone it need to hit the Fatigued cut-off point of: 26 with a d12, look at the table below to see what happens
 
 | NoD       | effect                                                          |

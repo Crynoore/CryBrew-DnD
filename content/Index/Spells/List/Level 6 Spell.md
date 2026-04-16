@@ -8,8 +8,8 @@ tags:
 
 | Name               | School     | Spell Lists       | Casting Time | Range  | Componets | Duration      |
 | ------------------ | ---------- | ----------------- | ------------ | ------ | --------- | ------------- |
-| [[Hungry Spirits]] | Necromancy | Sorcerer, Warlock | 1 Action     | 120 ft | V, S,M    | Instantaneous |
-|                    |            |                   |              |        |           |               |
+| [[Hungry Spirits]] | Necromancy | Sorcerer, Warlock | 1 Action     | 120 ft | V, S, M   | Instantaneous |
+| [[I.C.M.M.]]       |            |                   | 1 Action     | 1000ft | V, S,     | Instantaneous |
 |                    |            |                   |              |        |           |               |
 |                    |            |                   |              |        |           |               |
 |                    |            |                   |              |        |           |               |

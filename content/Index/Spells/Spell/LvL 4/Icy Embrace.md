@@ -4,13 +4,15 @@ tags:
   - BoneWizard
   - lvl4spell
 ---
-- 4th level Evocation
-- Casting Time: 1 Action
-- Range: 60 ft
-- Components: V, S
-- Duration: Concentration, 1 minute
-- Classes: Artificer, Druid, Sorcerer, Warlock 
 
+| Icy Embrace  |                                     |
+| ------------ | ----------------------------------- |
+| Spell level  | 4 Evocation                         |
+| Casting Time | 1 action                            |
+| Range        | 60 ft                               |
+| Components   | V, S                                |
+| Duration     | Concentration, 1 minute             |
+| Classes      | Artificer, Druid, Sorcerer, Warlock |
 You summon ice to encase your foes. Each creature in a 20ft radius sphere centered on a point you choose must make a strength saving throw. On a failure, creatures take 1d6 cold damage and are stunned for the duration. On success creatures are not stunned and take half damage. At the end of each of its turns, the affected creature makes another strength saving throw. On a success, the spell ends. On a failure, the creature remains stunned and takes 1d6 cold damage.
 
 Normally, stunned creatures automatically fail strength saving throws. However when a creature makes a strength saving throw at the end of their turn to end the effect of this spell, they do not automatically fail the save and may roll as they normally would.

@@ -4,12 +4,13 @@ tags:
   - Cantrip
 ---
 
-| Glutinous Tar                    |
-| -------------------------------- |
-| **Casting Time:** 1 bonus action |
-| **Range:** 60 feet               |
-| **Components:** V, S             |
-| **Spell level:**0                |
+| Glutinous Tar |                |
+| ------------- | -------------- |
+| Spell level   | 0              |
+| Casting Time  | 1 bonus action |
+| Range         | 60 feet        |
+| Components    | V, S           |
+| Classes       |                |
 
 summons a pool of sentient tar near a Creature, this tar deal 1d4 necrotic damage to the Creature at the end of your turn, if the tar is set ablaze it will do leave the Creature burning for 30 seconds dealing 1d6 fire damage. 
 

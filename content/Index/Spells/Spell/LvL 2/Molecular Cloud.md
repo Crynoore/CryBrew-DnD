@@ -5,13 +5,14 @@ tags:
   - lvl2spell
 ---
 
-| molecular cloud               |
-| ----------------------------- |
-| Casting Time: 1 action        |
-| Range: 30ft                   |
-| Components: V, S              |
-| Spell level: 2                |
-| Duration: _C_, up to 1 minute |
+| molecular cloud |                     |
+| --------------- | ------------------- |
+| Spell level     | 2                   |
+| Casting Time    | 1 action            |
+| Range           | 30ft                |
+| Components      | V, S                |
+| Duration        | _C_, up to 1 minute |
+| Classes         |                     |
 
 form your hand a cloud from’s following a path that you can control.
 This cloud looks very empty except for what look to be tiny stars.

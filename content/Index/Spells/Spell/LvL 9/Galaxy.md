@@ -5,14 +5,14 @@ tags:
   - lvl9spell
 ---
 
-| Galaxy                                  |
-| --------------------------------------- |
-| 9th-level Conjuration                   |
-| Casting Time: 1 action                  |
-| Range: Self (90-foot radius sphere)     |
-| Components: V, S,                       |
-| Duration: Concentration, up to 1 minute |
-
+| Galaxy       |                               |
+| ------------ | ----------------------------- |
+| Spell level  | 9 Conjuration                 |
+| Casting Time | 1 action                      |
+| Range        | Self (90-foot radius sphere)  |
+| Components   | V, S                          |
+| Duration:    | Concentration, up to 1 minute |
+| Classes      |                               |
 ### While Active
 - Cosmic Immunity. You are immune to all damage and conditions.  
 - Gravity Well. any creatures with 60ft of you can fly around as difficult terrain  

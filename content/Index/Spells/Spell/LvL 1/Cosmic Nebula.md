@@ -5,13 +5,14 @@ tags:
   - lvl1spell
 ---
 
-| Cosmic Nebula                    |
-| -------------------------------- |
-| **Casting Time:** 1 action       |
-| **Range:** 120 feet              |
-| **Target:** A point within range |
-| **Components:** V, S             |
-| **Spell level:** 1               |
+| Cosmic Nebula |               |
+| ------------- | ------------- |
+| spell level   | 1             |
+| Casting Time  | 1 action      |
+| Range         | 120ft         |
+| Components    | V, S          |
+| Duration      | Instantaneous |
+| Classes       |               |
 
 
 summons a nebula the contains a lot of different materials.

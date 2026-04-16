@@ -4,13 +4,15 @@ tags:
   - BoneWizard
   - lvl9spell
 ---
-- 9th level Conjuration
-- Casting Time: 1 Action
-- Range: 120 ft
-- Components: V, S
-- Duration: 1 year
-- Classes: Bard, Sorcerer, Warlock
 
+| Bands of Doom |                         |
+| ------------- | ----------------------- |
+| Spell level   | 9 Conjuration           |
+| Casting Time  | 1 action                |
+| Range         | 120 ft                  |
+| Components    | V, S                    |
+| Duration:     | 1 year                  |
+| Classes       | Bard, Sorcerer, Warlock |
 You summon 10 magical talking iron bands that bring only misery and woe. Choose a creature and the bands conjure onto the creature’s body. That creature must make a strength saving throw. 
 
 On a success, the creature rips the bands off of their body and the bands chastise the creature for not accepting this kind gift of jewelry making the creature take 8d6 psychic damage. 

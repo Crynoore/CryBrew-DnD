@@ -5,14 +5,15 @@ tags:
   - lvl4spell
 ---
 
-| Brain Fatigued                 |
-| ------------------------------ |
-| Casting Time: 1 action         |
-| Range: 30 ft                   |
-| Components: V, S               |
-| Spell level: 4                 |
-| Accelerated cut-off point : 28 |
-| Accelerated Dice : D12         |
+| Brain Fatigued            |          |
+| ------------------------- | -------- |
+| Spell level               | 4        |
+| Casting Time              | 1 action |
+| Range                     | 30 ft    |
+| Components                | V, S     |
+| Accelerated cut-off point | 28       |
+| Accelerated Dice          | D12      |
+| Classes                   |          |
 
 Targets a creature within 30ft and then can target another creature with 30ft of the first’s target’s location and then can target another creature with 30ft of the first’s target’s location 
 

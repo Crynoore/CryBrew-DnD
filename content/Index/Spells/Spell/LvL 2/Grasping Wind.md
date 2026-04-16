@@ -4,12 +4,15 @@ tags:
   - BoneWizard
   - lvl2spell
 ---
-- 2nd level Evocation
-- Casting Time: 1 Action
-- Range: 30ft
-- Components: V, S, M (a free hand)
-- Duration: Instantaneous
-- Classes: Artificer, Druid, Ranger, Sorcerer, Warlock, Wizard
+
+| Grasping Wind   |                                                         |
+| --------------- | ------------------------------------------------------- |
+| Spell level<br> | 2                                                       |
+| Casting Time    | 1 action                                                |
+| Range           | 30 feet                                                 |
+| Components:     | V, S, M (a free hand)                                   |
+| Duration        | Instantaneous                                           |
+| Classes         | Artificer, Druid, Ranger, Sorcerer, Warlock, Wizard<br> |
 
 You create powerful winds, targeting a creature or object and bringing it toward you. The target must make a strength saving throw. On a success, nothing happens. On a failure the target is pushed by winds towards you in a straight line, lands within 5ft of you, and takes 2d6 bludgeoning damage. You choose which square within 5 ft of you the target lands in, and the target is grappled by you.
 

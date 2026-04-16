@@ -27,6 +27,7 @@ tags:
 | [[Stime Reel Cylinder]]     |      | Uncommon  |             |
 | [[Symbiotic Scorpion]]      |      | Very Rare | Attunement  |
 | [[Visions of Heresy]]       |      | Artifact  |             |
+| [[Void Droplet]]            |      | Legendary | Attunement  |
 
 ## Weapons 
 

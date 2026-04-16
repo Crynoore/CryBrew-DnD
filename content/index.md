@@ -30,6 +30,7 @@ all new very cool in house TTRPG game it will get finished trust me on that
 - [[Books]]
 - [[Characters]]
 - [[Continents]]
+- [[Combat]]
 - [[Monsters]]
 - [[Factions]]
 - [[Gods]]

@@ -11,7 +11,7 @@ tags:
 | ------------------------- | ------------- | ---------------------------------------- | ------------ | -------- | --------- | ------------------- |
 | [[Blood Sacrifice]]       | Necromancy    | Druid, Warlock,                          | 1 action     | 120 feet | V, S      | Instantaneous       |
 | [[Cjunk's Mark]]          | Divination    | Ranger, Paladin                          | 1 action     | 90ft     | V, S      | _C_, up to 1 hour   |
-| [[Dmg Spell WIP Acc]]     |               | , ?                                      | 1 action     | 60ft     | V, S      | Instantaneous       |
+| [[Accelerated Spear]]     |               | , ?                                      | 1 action     | 60ft     | V, S      | Instantaneous       |
 | [[Hag’s Cures]]           | Enchantment   | Bard, Wizard,                            | 1 action     | 30 ft    | V, S, fq  | fq                  |
 | [[Hard Shell]]            | Abjuration    | Artificer, Sorcerer,                     | 1 action     | Touch    | V, S      | _C_, up to 1 minute |
 | [[Heat death]]            | Evocation     | Wizard, Druid                            | 1 action     | Self     | V, S      | Instantaneous       |

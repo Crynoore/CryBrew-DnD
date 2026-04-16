@@ -4,11 +4,12 @@ tags:
   - lvl9spell
 ---
 
-| Angel Cross             |
-| ----------------------- |
-| 9th-level Conjuration   |
-| Casting Time: 1 action  |
-| Range: 120ft            |
-| Components: V           |
-| Duration: Instantaneous |
+| Angel Cross  |               |
+| ------------ | ------------- |
+| Spell level  | 9 Conjuration |
+| Casting Time | 1 action      |
+| Range        | 120 ft        |
+| Components   | V             |
+| Duration:    | Instantaneous |
+| Classes      |               |
 make a ranged spell attack when you hit massive bright cross appears dealing 24d12 radiant damage, the Cross in not stopped by any thing

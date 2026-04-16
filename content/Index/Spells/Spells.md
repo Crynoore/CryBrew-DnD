@@ -26,7 +26,7 @@ all the spells in the classic formet
 - [[Hard Shell]]
 - [[Healing Well]]
 - [[Thunderstorm]]
-- [[Dmg Spell WIP Acc]]
+- [[Accelerated Spear]]
 - [[Nova]]
 - [[Supernova]]
 ### Astronomy

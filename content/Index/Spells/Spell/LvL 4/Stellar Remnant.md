@@ -6,14 +6,15 @@ tags:
   - lvl2spell
 ---
 
-| stellar remnant             |
-| --------------------------- |
-| Casting Time: 1 action      |
-| Range: 60ft                 |
-| Components: V, S            |
-| Spell level: 4              |
-| Fatigued cut-off point : 26 |
-| Fatigued Dice : d8+STA      |
+| stellar remnant        |          |
+| ---------------------- | -------- |
+| Spell level            | 4        |
+| Casting Time           | 1 action |
+| Range                  | 60ft     |
+| Components             | V, S     |
+| Fatigued cut-off point | 26       |
+| Fatigued Dice          | d8+STA   |
+| Classes                |          |
 
 | NoD         | Effect                          |
 | ----------- | ------------------------------- |

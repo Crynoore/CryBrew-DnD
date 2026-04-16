@@ -2,6 +2,7 @@
 
 [[Cjunk's Mark]]
 [[Angel Cross]]
+[[Cyrus's Air Barrage]]
 
 i redid monsters 
 

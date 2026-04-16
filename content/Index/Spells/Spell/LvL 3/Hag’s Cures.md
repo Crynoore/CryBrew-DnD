@@ -5,14 +5,15 @@ tags:
   - lvl3spell
 ---
 
-| Hag’s cures                    |
-| ------------------------------ |
-| Casting Time: 1 action         |
-| Range: 30 ft                   |
-| Components: V, S               |
-| Spell level: 3                 |
-| Accelerated cut-off point : 10 |
-| Accelerated Dice : D4          |
+| Hag’s cures               |          |
+| ------------------------- | -------- |
+| Spell level               | 3        |
+| Casting Time              | 1 action |
+| Range                     | 30 ft    |
+| Components:               | V, S     |
+| Accelerated cut-off point | 10       |
+| Accelerated Dice          | D4       |
+| Classes                   |          |
 This effect has a cut-off point of ”10”. When activated, the creature must roll dice until their total equals or exceeds 10. Each roll is: Die roll + CHA modifier .You must keep rolling until the cut-off is reached, no matter how many dice it takes.
 
 

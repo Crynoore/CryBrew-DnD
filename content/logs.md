@@ -1,4 +1,6 @@
-
+#### Version 1.5.6
+- rebalance [[Cyrus's Air Barrage]]
+- rebalance all the skelletos
 #### Version 1.5.6
 - Redid all of the Monster Index
 - added some monster and noted witch ones need a remake
